@@ -5,23 +5,25 @@ title: Research Areas
 ---
  
 
+<ul><h1>Computer Vision</h1>
+<li>Image Analysis</li>
+<li>Machine Vision</li>
+<li>Pattern recognition</li>
+<li>CCTV Video Analytics</li>
 
+</ul>
 
-<ul><h1>Information Security</h1>
-<li>Image and Video Steganography</li>
-<li>Image Encryption</li>
-<li>Image Hashing</li>
+<ul><h1>Natural Language Processing</h1>
+<li>Sentiment Analysis</li>
+<li>Summarization</li>
+<li>Documents analysis</li>
 </ul>
 
  
 
 
 
-<ul><h1>Vision</h1>
-<li>Video Surveillance</li>
-<li>CCTV Video Analytics</li>
-<li>Video Summarization</li>
-</ul>
+
 
 
 <ul><h1>
@@ -29,9 +31,7 @@ Deep Learning
 </h1></ul>
 
 
-<ul><h1>
-Medical Image Analysis
-</h1></ul>
+
 
 
 <ul><h1>
@@ -46,9 +46,6 @@ Multimedia
 
 
 
-<ul><h1>
-Networks
-</h1></ul>
 
 
 <style type="text/css">
