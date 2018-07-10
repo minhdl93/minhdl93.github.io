@@ -51,7 +51,7 @@ Jin Gwan Ha, Hyeonjoon Moon, Jin Tae Kwak, Syed Ibrahim Hassan, <b>L. Minh Dang<
 
 
 
-<h1>Peer-Reviewed Conference Proceedings (5)</h1>
+<h1>Peer-Reviewed Conference Proceedings</h1>
 
 <ol>
 <li>
