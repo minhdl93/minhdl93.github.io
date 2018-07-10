@@ -9,6 +9,12 @@ images:
   - name: mrpizza.jpg
     thumb: mrpizza.jpg
     text: CVPR Lab party (2018)
+  - name: professor_meeting.jpg
+    thumb: professor_meeting.jpg
+    text: Memorable moment with professors of Sejong University (2017).
+  - name: nvidia_event.jpg
+    thumb: nvidia_event.jpg
+    text: NVIDIA day in Seoul (2017).
   - name: uav_2017.jpg
     thumb: uav_2017.jpg
     text: A business trip to Pyeongtaek, South Korea (2017)
