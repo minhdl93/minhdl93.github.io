@@ -2,7 +2,7 @@
 layout: page
 title: Awards and Achievements
 ---
-
+<!-- 
 <style type="text/css">
 	li{
 
@@ -145,3 +145,4 @@ title: Awards and Achievements
 </ul>
 
 
+ -->
