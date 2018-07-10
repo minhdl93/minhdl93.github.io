@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Awards and Achievements
+title: Experiences
 ---
-<!-- 
+
 <style type="text/css">
 	li{
 
@@ -16,20 +16,21 @@ title: Awards and Achievements
 
 </style>
 
+<h1> Employment Experiences
 <ul>
 
-<li>
+<li> [02/2018 -- Present]
   <p>
-    Outstanding Reviewer Award from Elsevier Journal of Network and Computer Applications, 2018
+    Server manager at department of Computer Engineering, Sejong University} Manage CentOS server, manage undergraduate student account, create necessary environment for the students to practice (Linux, Java, Oracle, Mysql,…) on the servers
    </p>
-   <img src="/public/pictures/Out_JNCA_2018.jpg">
+   
  </li>
 
 <br>
 
-<li>
+<li>[06/2016 -- 03/2017]
   <p>
-    Outstanding Reviewer Award from Elsevier Future Generation Computer Systems Journal, 2017
+    Teaching assistant. E-commerce Department, School of Information System, University of Information Technology, Vietnam
    </p>
    <img src="/public/pictures/Out_FGCS_2017.jpg">
  </li>
@@ -145,4 +146,3 @@ title: Awards and Achievements
 </ul>
 
 
- -->
