@@ -9,7 +9,8 @@ title: Experiences
 		background: #fefefe;
 	}
   p{
-    font-family:"Courier New", Courier, monospace  
+
+    font-family: "Times New Roman", Times, serif;
     color:#000;
 
   }
