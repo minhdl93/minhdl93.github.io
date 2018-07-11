@@ -23,13 +23,13 @@ images:
     text: Birthday party with Vietnamese friends (2017)
   - name: learn_korean2017.jpg
     thumb: learn_korean2017.jpg
-    text: A moement of joy with Korean teacher (2017)
+    text: A moment of joy with Korean teacher (2017)
   - name: achasan_2017.jpg
     thumb: achasan_2017.jpg
-    text: A visit to Achsan in Seoul, Korea with Vietnamese Friends (2017)
+    text: A visit to Achasan in Seoul with my Vietnamese Friends (2017)
   - name: labmate_2017.jpg
     thumb: labmate_2017.jpg
-    text: A visit to GangNam Seoul, Korea with Lab Members and Korean Friends (2017)
+    text: A visit to GangNam Seoul with my Lab Members and Korean Friends (2017)
 
  
 ---
