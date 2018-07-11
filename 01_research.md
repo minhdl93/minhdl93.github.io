@@ -4,6 +4,14 @@ title: Research Areas
  
 ---
  
+<style type="'text/css'">
+     ul{
+        font-family: "Times New Roman", Times, serif;
+        text-align: justify!important;
+        display:block;
+     }
+
+</style>
 
 <ul><h1>Computer Vision</h1>
 <li>Image Analysis</li>

@@ -4,11 +4,10 @@ title: Professional Activities
 
 ---
 
-<style type="text/css">
+<style type="'text/css'">
      li{
-    
-        font-size: 18px;
-        font-family:"Courier New", Courier, monospace  
+        font-family: "Times New Roman", Times, serif;
+        text-align: justify!important;
         display:block;
      }
 

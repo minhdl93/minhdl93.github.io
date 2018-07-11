@@ -3,7 +3,7 @@ layout: page
 title: Experiences
 ---
 
-<style type="text/css">
+<style type="'text/css'">
 	li{
 
 		background: #fefefe;

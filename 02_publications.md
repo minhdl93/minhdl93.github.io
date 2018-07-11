@@ -5,7 +5,12 @@ title: Publications
 ---
 <style type="'text/css'">
   
+ .posts{
 
+        font-family: "Times New Roman", Times, serif;
+        text-align: justify!important;
+        display:block;
+     }
 
 </style>
  
