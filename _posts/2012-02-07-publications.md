@@ -34,6 +34,13 @@ li{
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
   </li>
+  <br>
+  <li>
+<b>L. Minh Dang</b>, Abolghasem Sadeghi-Niaraki, Huy D. Huynh, Kyungbok Min, Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/ielx7/6287639/6514899/08456512.pdf?tp=&arnumber=8456512&isnumber=6514899&tag=1" target="_blank">UAV based wilt detection system via convolutional neural networks</a>, <i>IEEE Access</i>, 2018 (In Press). [<b>IF</b>: 3.557, Q1]
+ <a class="pdflink" href="/public/papers/accessMinh_2018.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+  </li>
   
    <li>
 Jin Gwan Ha, Hyeonjoon Moon, Jin Tae Kwak, Syed Ibrahim Hassan, <b>L. Minh Dang</b>, O New Lee, Han Yong Park, <a href="https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-11/issue-4/042621/Deep-convolutional-neural-network-for-classifying-Fusarium-wilt-of-radish/10.1117/1.JRS.11.042621.full?SSO=1" target="_blank">Deep convolutional neural network for classifying Fusarium wilt of radish from unmanned aerial vehicles</a>, <i>J. of Applied Remote Sensing</i>, Volume 11, 042621, December 2017. [<b>IF</b>: 0.976, Q4]
