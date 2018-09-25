@@ -36,7 +36,7 @@ li{
   </li>
   <br>
   <li>
-<b>L. Minh Dang</b>, Abolghasem Sadeghi-Niaraki, Huy D. Huynh, Kyungbok Min, Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/ielx7/6287639/6514899/08456512.pdf?tp=&arnumber=8456512&isnumber=6514899&tag=1" target="_blank">UAV based wilt detection system via convolutional neural networks</a>, <i>IEEE Access</i>, 2018 (In Press). [<b>IF</b>: 3.557, Q1]
+<b>L. Minh Dang</b>, Abolghasem Sadeghi-Niaraki, Huy D. Huynh, Kyungbok Min, Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/ielx7/6287639/6514899/08456512.pdf?tp=&arnumber=8456512&isnumber=6514899&tag=1" target="_blank">Deep Learning Approach for Short-Term Stock Trends Prediction based on Two-stream Gated Recurrent Unit Network</a>, <i>IEEE Access</i>, 2018 (In Press). [<b>IF</b>: 3.557, Q1]
  <a class="pdflink" href="/public/papers/accessMinh_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
