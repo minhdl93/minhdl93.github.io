@@ -1,3 +1,3 @@
-# [LIEN MINH DANG](https://lienminhdang.github.io)
+# [DANG LIEN MINH](https://danglienminh.github.io)
 This repository contains the code of my homepage on github.
-[lienminhdang.github.io](https://lienminhdang.github.io)
+[danglienminh.github.io](https://danglienminh.github.io)
