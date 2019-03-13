@@ -15,7 +15,9 @@ title: Professional Activities
 
 
 <ol><h1>Journal Referee</h1>
-    <li>Journal of Computational Science 2016 (2)</li>
+<li>IEEE Access journal, 2019 (2)</li>
+    <li>Journal of Computational Science, 2016 (2)</li>
+    
 
 </ol>
 

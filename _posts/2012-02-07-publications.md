@@ -20,6 +20,13 @@ li{
 <ol>
  
  <li>
+<b>L. Minh Dang</b>, Syed Ibrahim Hassan, Suhyeon Im, Sujin Lee, Hyeonjoon Moon, <a href="https://www.mdpi.com/2076-3417/8/12/2610" target="_blank">Deep Learning Based Computer Generated Face Identification Using Convolutional Neural Network</a>, <i>Applied Sciences</i>, Volume 8, December 2018. [<strong>IF</strong>: 1.689, Q3]
+ <a class="pdflink" href="/public/papers/applsci-08-02610.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+ <li>
 <b>L. Minh Dang</b>, Syed Ibrahim Hassan, Suhyeon Im, Irfan Mehmood, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0166361517304633" target="_blank">Utilizing text recognition for the defects extraction in sewers CCTV inspection videos</a>, <i>Computers in Industry</i>, Volume 99, Pages 96-109, September 2018. [<strong>IF</strong>: 2.850, Q2]
  <a class="pdflink" href="/public/papers/ComputerID_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
