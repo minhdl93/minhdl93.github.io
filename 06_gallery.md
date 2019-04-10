@@ -15,8 +15,8 @@ images:
   - name: foreign_friends_2018.JPG
     thumb: foreign_friends_2018.JPG
     text: Lunch with foreign friends, Seoul (2018).
-  - name: cheonggye_stream_2018.JPG
-    thumb: cheonggye_stream_2018.JPG
+  - name: stream_2018.JPG
+    thumb: stream_2018.JPG
     text: Peaceful night with labmates, Seoul (2018).
   - name: bluehouse_2018.JPG
     thumb: bluehouse_2018.JPG
