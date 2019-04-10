@@ -18,7 +18,12 @@ li{
 <h1>SCI/SCIE/IF Journal Articles</h1>
 
 <ol>
- 
+  <li>
+<b>L. Minh Dang</b>, Syed Ibrahim Hassan, Suhyeon Im, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0957417419302350" target="_blank">Face Image Manipulation Detection based on a Convolutional Neural Network</a>, <i>Expert Systems With Applications</i>, Accepted manuscript. [<strong>IF</strong>: 3.768, Q1]
+ <a class="pdflink" href="/public/papers/Expert_2019.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
  <li>
 <b>L. Minh Dang</b>, Syed Ibrahim Hassan, Suhyeon Im, Sujin Lee, Hyeonjoon Moon, <a href="https://www.mdpi.com/2076-3417/8/12/2610" target="_blank">Deep Learning Based Computer Generated Face Identification Using Convolutional Neural Network</a>, <i>Applied Sciences</i>, Volume 8, December 2018. [<strong>IF</strong>: 1.689, Q3]
  <a class="pdflink" href="/public/papers/applsci-08-02610.pdf" target="_blank">
