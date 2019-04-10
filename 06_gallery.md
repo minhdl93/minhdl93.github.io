@@ -3,9 +3,30 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: sokcho_2018.JPG
+    thumb: sokcho_2018.JPG
+    text: Sokcho trip with labmates, Sokcho, South Korea (2018).
+  - name: kiip_class_2018.JPG
+    thumb: kiip_class_2018.JPG
+    text: Korean KIIP program, Seoul (2018).
+  - name: insadong_labmate_2018.JPG
+    thumb: insadong_labmate_2018.JPG
+    text: Weekend at Insadong with labmates, Seoul (2018).
+  - name: foreign_friends_2018.JPG
+    thumb: foreign_friends_2018.JPG
+    text: Lunch with foreign friends, Seoul (2018).
+  - name: cheonggye_stream_2018.JPG
+    thumb: cheonggye_stream_2018.JPG
+    text: Peaceful night with labmates, Seoul (2018).
+  - name: bluehouse_2018.JPG
+    thumb: bluehouse_2018.JPG
+    text: Blue house, Seoul (2018).
+  - name: bukchon_hanok_2018.JPG
+    thumb: bukchon_hanok_2018.JPG
+    text: Korean traditional house, Bukchon hanok, Seoul (2018).
   - name: jeju_conf2018.JPG
     thumb: jeju_conf2018.JPG
-    text: Conference at Jeju Hallah University, Jeju, Republic of Korea (2018).
+    text: Conference at Jeju Hallah University, Jeju, South Korea (2018).
   - name: mrpizza.jpg
     thumb: mrpizza.jpg
     text: CVPR Lab party (2018)
