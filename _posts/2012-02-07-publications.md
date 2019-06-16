@@ -19,8 +19,15 @@ li{
 
 <ol>
   <li>
-<b>L. Minh Dang</b>, Syed Ibrahim Hassan, Suhyeon Im, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0957417419302350" target="_blank">Face Image Manipulation Detection based on a Convolutional Neural Network</a>, <i>Expert Systems With Applications</i>, Accepted manuscript. [<strong>IF</strong>: 3.768, Q1]
+<b>L. Minh Dang</b>, Syed Ibrahim Hassan, Suhyeon Im, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0957417419302350" target="_blank">Face Image Manipulation Detection based on a Convolutional Neural Network</a>, <i>Expert Systems With Applications</i>, Volume 129, 1 September 2019. [<strong>IF</strong>: 3.768, Q1]
  <a class="pdflink" href="/public/papers/Expert_2019.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+ <li>
+  <li>
+<b>Syed Ibrahim Hassan, L. Minh Dang</b>, Suhyeon Im, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0926580518305892" target="_blank">Underground sewer pipe condition assessment based on convolutional neural networks</a>, <i>Automation in Construction</i>, Volume 106, October 2019. [<strong>IF</strong>: 4.032, Q1]
+ <a class="pdflink" href="/public/papers/Automation_19.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
