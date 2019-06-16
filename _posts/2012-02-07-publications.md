@@ -24,7 +24,7 @@ li{
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
- <li>
+
   <li>
 <b>Syed Ibrahim Hassan, L. Minh Dang</b>, Suhyeon Im, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0926580518305892" target="_blank">Underground sewer pipe condition assessment based on convolutional neural networks</a>, <i>Automation in Construction</i>, Volume 106, October 2019. [<strong>IF</strong>: 4.032, Q1]
  <a class="pdflink" href="/public/papers/Automation_19.pdf" target="_blank">
