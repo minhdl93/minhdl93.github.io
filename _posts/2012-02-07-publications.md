@@ -19,6 +19,13 @@ li{
 
 <ol>
   <li>
+<b>L. Minh Dang</b>, Md. Jalil Piran, Dongil Han, Kyungbok Min, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2079-9292/8/7/768" target="_blank">A Survey on Internet of Things and Cloud Computing for Healthcare</a>, <i>Electronics</i>, Volume 8, Issue 7, 9 july 2019. [<strong>IF</strong>: 1.764, Q3]
+ <a class="pdflink" href="/public/papers/electronics-08-00768" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+  <li>
 <b>L. Minh Dang</b>, Syed Ibrahim Hassan, Suhyeon Im, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0957417419302350" target="_blank">Face Image Manipulation Detection based on a Convolutional Neural Network</a>, <i>Expert Systems With Applications</i>, Volume 129, 1 September 2019. [<strong>IF</strong>: 4.292, Q1]
  <a class="pdflink" href="/public/papers/Expert_2019.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
