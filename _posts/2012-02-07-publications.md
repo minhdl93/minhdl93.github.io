@@ -18,8 +18,22 @@ li{
 <h1>SCI/SCIE/IF Journal Articles</h1>
 
 <ol>
+<li>
+<b>L. Minh Dang</b>, Sujin Lee, Dongil Han, Kyungbok Min, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2076-3417/10/2/505" target="_blank">Tampered and Computer-Generated Face Images Identification Based on Deep Learning</a>, <i>Applied Sciences</i>, Volume 10, Issue 2, January 2020. [<strong>IF</strong>: 2.217, Q2]
+ <a class="pdflink" href="/public/papers/applsci-2020.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>,  Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0168169919313638" target="_blank">Crop pest recognition in natural scenes using convolutional neural networks</a>, <i>Computers and Electronics in Agriculture</i>, Volume 169, February 2020. [<strong>IF</strong>: 3.171, Q1]
+ <a class="pdflink" href="/public/papers/yanfen_2020.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
   <li>
-<b>L. Minh Dang</b>, Md. Jalil Piran, Dongil Han, Kyungbok Min, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2079-9292/8/7/768" target="_blank">A Survey on Internet of Things and Cloud Computing for Healthcare</a>, <i>Electronics</i>, Volume 8, Issue 7, 9 july 2019. [<strong>IF</strong>: 1.764, Q3]
+<b>L. Minh Dang</b>, Md. Jalil Piran, Dongil Han, Kyungbok Min, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2079-9292/8/7/768" target="_blank">A Survey on Internet of Things and Cloud Computing for Healthcare</a>, <i>Electronics</i>, Volume 8, Issue 7, July 2019. [<strong>IF</strong>: 1.764, Q3]
  <a class="pdflink" href="/public/papers/electronics-08-00768.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
