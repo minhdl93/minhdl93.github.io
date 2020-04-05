@@ -44,12 +44,7 @@ Big Data
 Multimedia
 </h2>
 
-<style type="text/css">
-	 h1{
-	 	font-size: 22px
-	 }
 
-</style>
 
 <!-- Some Links
 
