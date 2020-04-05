@@ -3,14 +3,14 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
-- name: party_2019.JPG
-    thumb: party_2019.JPG
+  - name: party_2019.jpg
+    thumb: party_2019.jpg
     text: Lunch with labmates (2019).
-- name: labbirthday_2019.JPG
-    thumb: labbirthday_2019.JPG
+  - name: labbirthday_2019.jpg
+    thumb: labbirthday_2019.jpg
     text: Asif's bithday party (2019).
-- name: graduation_2019.JPG
-    thumb: graduation_2019.JPG
+  - name: graduation_2019.jpg
+    thumb: graduation_2019.jpg
     text: Suhyoen's graduation ceremony (2019).
   - name: sokcho_2018.JPG
     thumb: sokcho_2018.JPG
