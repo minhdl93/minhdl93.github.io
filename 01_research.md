@@ -12,10 +12,26 @@ title: Research
      }
 
 </style>
+<h2>Research projects</h2>
+<h3>Auto sewer pipe crack detection based on Deep Learning</h3>
+<ul>
+<li>Collect image to create a dataset for automatic crack detection </li>
+<li>Perform deep learning-based automated cracks detection</li>
+<li>Automatically extract contextual information from frames</li>
+<li>Develop software that automatically generates reports based on detected cracks in sewer pipe videos using Deep Learning.</li>
+</ul>
+<h3>Auto sewer pipe crack detection based on Deep Learning</h3>
+<ul>
+<li>Collect image to create a dataset for automatic crack detection </li>
+<li>Perform deep learning-based automated cracks detection</li>
+<li>Automatically extract contextual information from frames</li>
+<li>Develop software that automatically generates reports based on detected cracks in sewer pipe videos using Deep Learning.</li>
+</ul>
 
-<h1>Research interests</h1>
 
-<h2>Computer Vision</h2>
+<h2>Research interests</h2>
+
+<h3>Computer Vision</h3>
 <ul>
 <li>Image Analysis</li>
 <li>Machine Vision</li>
@@ -24,7 +40,7 @@ title: Research
 
 </ul>
 
-<h2>Natural Language Processing</h2>
+<h3>Natural Language Processing</h3>
 <ul>
 <li>Sentiment Analysis</li>
 <li>Summarization</li>
@@ -32,17 +48,17 @@ title: Research
 </ul>
 
  
-<h2>
+<h3>
 Deep Learning
-</h2>
+</h3>
 
-<h2>
+<h3>
 Big Data
-</h2>
+</h3>
 
-<h2>
+<h3>
 Multimedia
-</h2>
+</h3>
 
 
 
