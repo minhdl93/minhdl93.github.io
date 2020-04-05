@@ -12,7 +12,7 @@ layout: page
 </style>
 <h2 style="color:#1565c0">Research projects</h2>
 <h3>Smart parking and vehicle tracking project</h3>
-<div style="height: 396px; width: 860px;">   <img  src="/public/pictures/smartcity.png"></div>
+<div >   <img  src="/public/pictures/smartcity.png"></div>
 <ul>
 <li>Propose AI model that performs dehazing, low-light enhancement, and superpixel on livestream CCTV</li>
 <li>Introduce automatic license plate recognition model with the recognition rate of over 95%</li>
@@ -20,7 +20,7 @@ layout: page
 </ul>
 
 <h3>Tunnels defect detection based on deep learning and explainable AI technology</h3>
-<div style="height: 396px; width: 860px;">   <img src="/public/pictures/tunnel.png"></div>
+<div>   <img src="/public/pictures/tunnel.png"></div>
 <ul>
 <li>Train a deep learning model to detect and measure cracks/defects</li>
 <li>Explain, visualize, and interpret the deicisions made by the proposed model</li>
@@ -34,7 +34,7 @@ layout: page
 </ul>
 
 <h3>Automatic sewer network crack detection  based on Deep Learning</h3>
-<div style="height: 396px; width: 860px;">   <img src="/public/pictures/sewer.jpg"></div>
+<div>   <img src="/public/pictures/sewer.jpg"></div>
 <ul>
 <li>Collect image to create a dataset for automatic crack detection </li>
 <li>Perform deep learning-based automated cracks detection</li>
