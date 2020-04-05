@@ -15,8 +15,8 @@ title: Research
 
 <h1>Research interests</h1>
 
-
-<ul><h2>Computer Vision</h2>
+<h2>Computer Vision</h2>
+<ul>
 <li>Image Analysis</li>
 <li>Machine Vision</li>
 <li>Pattern recognition</li>
@@ -24,24 +24,25 @@ title: Research
 
 </ul>
 
-<ul><h2>Natural Language Processing</h2>
+<h2>Natural Language Processing</h2>
+<ul>
 <li>Sentiment Analysis</li>
 <li>Summarization</li>
 <li>Documents analysis</li>
 </ul>
 
  
-<ul><h2>
+<h2>
 Deep Learning
-</h2></ul>
+</h2>
 
-<ul><h2>
+<h2>
 Big Data
-</h2></ul>
+</h2>
 
-<ul><h2>
+<h2>
 Multimedia
-</h2></ul>
+</h2>
 
 <style type="text/css">
 	 h1{
