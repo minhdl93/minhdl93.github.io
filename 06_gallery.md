@@ -3,6 +3,15 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+- name: party_2019.JPG
+    thumb: party_2019.JPG
+    text: Lunch with labmates (2019).
+- name: labbirthday_2019.JPG
+    thumb: labbirthday_2019.JPG
+    text: Asif's bithday party (2019).
+- name: graduation_2019.JPG
+    thumb: graduation_2019.JPG
+    text: Suhyoen's graduation ceremony (2019).
   - name: sokcho_2018.JPG
     thumb: sokcho_2018.JPG
     text: Sokcho trip with labmates, Sokcho, South Korea (2018).
