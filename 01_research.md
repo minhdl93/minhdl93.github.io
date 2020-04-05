@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Areas
+title: Research
  
 ---
  
@@ -13,7 +13,10 @@ title: Research Areas
 
 </style>
 
-<ul><h1>Computer Vision</h1>
+<h1>Research interests</h1>
+
+
+<ul><h2>Computer Vision</h2>
 <li>Image Analysis</li>
 <li>Machine Vision</li>
 <li>Pattern recognition</li>
@@ -21,40 +24,24 @@ title: Research Areas
 
 </ul>
 
-<ul><h1>Natural Language Processing</h1>
+<ul><h2>Natural Language Processing</h2>
 <li>Sentiment Analysis</li>
 <li>Summarization</li>
 <li>Documents analysis</li>
 </ul>
 
  
-
-
-
-
-
-
-<ul><h1>
+<ul><h2>
 Deep Learning
-</h1></ul>
+</h2></ul>
 
-
-
-
-
-<ul><h1>
+<ul><h2>
 Big Data
-</h1></ul>
+</h2></ul>
 
-
-
-<ul><h1>
+<ul><h2>
 Multimedia
-</h1></ul>
-
-
-
-
+</h2></ul>
 
 <style type="text/css">
 	 h1{
