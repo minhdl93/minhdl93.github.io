@@ -12,7 +12,7 @@ layout: page
 </style>
 <h2 style="color:#1565c0">Research projects</h2>
 <h3>Smart parking and vehicle tracking project</h3>
-<div >   <img  src="/public/pictures/smartcity.png"></div>
+<div>   <img  src="/public/pictures/smartcity.png"></div>
 <ul>
 <li>Propose AI model that performs dehazing, low-light enhancement, and superpixel on livestream CCTV</li>
 <li>Introduce automatic license plate recognition model with the recognition rate of over 95%</li>
