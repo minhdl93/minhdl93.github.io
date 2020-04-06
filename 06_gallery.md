@@ -3,6 +3,12 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: cherryblossom_2020.jpg
+    thumb: cherryblossom_2020.jpg
+    text: Cherry blossom festival (2020).
+  - name: dinner_2020.jpg
+    thumb: dinner_2020.jpg
+    text: Dinner with labmates (2020).
   - name: party_2019.jpg
     thumb: party_2019.jpg
     text: Lunch with labmates (2019).
@@ -29,7 +35,7 @@ images:
     text: Blue house, Seoul (2018).
   - name: bukchon_hanok_2018.JPG
     thumb: bukchon_hanok_2018.JPG
-    text: Korean traditional house, Bukchon hanok, Seoul (2018).
+    text: Traditional Korean house, Bukchon hanok, Seoul (2018).
   - name: jeju_conf2018.JPG
     thumb: jeju_conf2018.JPG
     text: Conference in Jeju Hallah University, Jeju, South Korea (2018).
@@ -44,19 +50,22 @@ images:
     text: NVIDIA day in Seoul (2017).
   - name: uav_2017.jpg
     thumb: uav_2017.jpg
-    text: A business trip to Pyeongtaek, South Korea (2017)
+    text: A business trip to Pyeongtaek, South Korea (2017).
   - name: lab_birthday_2017.jpg
     thumb: lab_birthday_2017.jpg
-    text: Celebrate Birthday party with friends (2017)
+    text: Celebrate Birthday party with friends (2017).
   - name: learn_korean2017.jpg
     thumb: learn_korean2017.jpg
-    text: A moment of joy with Korean teacher (2017)
+    text: A moment of joy with Korean teachers (2017).
+  - name: dronepractice_2017.jpg
+    thumb: dronepractice_2017.jpg
+    text: Practice flying drone for the first time (2017).
   - name: achasan_2017.jpg
     thumb: achasan_2017.jpg
-    text: Visit Achasan in Seoul with my Vietnamese Friends (2017)
+    text: Visit Achasan in Seoul with my Vietnamese Friends (2017).
   - name: labmate_2017.jpg
     thumb: labmate_2017.jpg
-    text: Visit GangNam with my Lab Members and Korean Friends (2017)
+    text: Visit Gangnam with my Lab Members and Korean Friends (2017).
 
  
 ---
