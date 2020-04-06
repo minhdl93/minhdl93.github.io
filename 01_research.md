@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Research
+
 ---
  
 <style type="'text/css'">
