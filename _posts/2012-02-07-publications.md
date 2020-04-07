@@ -15,7 +15,7 @@ li{
  
 </style>
 <h3>Disclaimer Notice: Please note that all the papers are archived for personal use only. And you are legally forbidden to reproduce or distribute them without explicit permission of the copyright holders.</h3>
-<h1>SCI/SCIE/IF Journal Articles</h1>
+<h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 
 <ol>
 <li>
@@ -98,7 +98,7 @@ Jin Gwan Ha, Hyeonjoon Moon, Jin Tae Kwak, Syed Ibrahim Hassan, <b>L. Minh Dang<
 
 
 
-<h1>Peer-Reviewed Conference Proceedings</h1>
+<h2 style="color:#1565c0">Peer-Reviewed Conference Proceedings</h2>
 
 <ol>
 <li>

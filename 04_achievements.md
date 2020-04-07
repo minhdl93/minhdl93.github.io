@@ -18,7 +18,7 @@ title: Experiences
 
 </style>
 
-<h1> Research Experiences </h1>
+<h2 style="color:#1565c0"> Research Experiences </h2>
 <ul>
 
 <li> <b>[03/2016 -- Present] Researcher at Computer vision and pattern recognition lab, Sejong University</b>
@@ -51,7 +51,7 @@ title: Experiences
 
 </ul>
 
-<h1> Employment Experiences </h1>
+<h2 style="color:#1565c0"> Employment Experiences </h2>
 <ul>
 
 <li> <b>[02/2018 -- Present] Server manager at department of Computer Engineering, Sejong University</b>
