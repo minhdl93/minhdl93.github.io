@@ -21,7 +21,7 @@ title: Experiences
 <h2 style="color:#1565c0"> Research Experiences </h2>
 <ul>
 
-<li> <b>[03/2016 -- Present] Researcher at Computer vision and pattern recognition lab, Sejong University</b>
+<li> <b>[03/2017 -- Present] Researcher at Computer vision and pattern recognition lab, Sejong University</b>
   <p>
      The main research is about computer vision, natural language processing, deep learning.
    </p>
