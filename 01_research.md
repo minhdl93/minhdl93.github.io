@@ -16,7 +16,7 @@ title: Research
 <h2 style="color:#1565c0">Research projects</h2>
 <ol>
   <li>
-  Smart parking and vehicle tracking project
+  <b>Smart parking and vehicle tracking project</b>
   <div class="project-image">   <img  src="/public/pictures/smartcity.png"></div>
 	<ul>
 	<li>Propose AI model that performs dehazing, low-light enhancement, and superpixel on livestream CCTV</li>
@@ -25,43 +25,44 @@ title: Research
   </ul>
   
   </li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
-
-
-
-
-
-<h3>Tunnels defect detection based on deep learning and explainable AI technology</h3>
-<div class="project-image">   <img src="/public/pictures/tunnel.png"></div>
-<ul>
-<li>Train a deep learning model to detect and measure cracks/defects</li>
-<li>Explain, visualize, and interpret the deicisions made by the proposed model</li>
-</ul>
-
-<h3>Context-adaptive neural network based prediction for HEVC image compression</h3>
-<ul>
-<li>Propose a set of neural network models for intra image prediction </li>
-<li>These models are trained on a large unconstrained set of images to model a large set of complex textures</li>
-<li>The proposed models are also integrated into the orginal HEVC source code</li>
-</ul>
-
-<h3>Automatic sewer network crack detection  based on Deep Learning</h3>
-<div class="project-image">   <img src="/public/pictures/sewer.jpg"></div>
+  <li>
+	<b>Tunnels defect detection based on deep learning and explainable AI technology</b>
+	<div class="project-image">   <img src="/public/pictures/tunnel.png"></div>
+	<ul>
+	<li>Train a deep learning model to detect and measure cracks/defects</li>
+	<li>Explain, visualize, and interpret the deicisions made by the proposed model</li>
+	</ul>
+  </li>
+  <li>
+	<b>Context-adaptive neural network based prediction for HEVC image compression</b>
+	<ul>
+		<li>Propose a set of neural network models for intra image prediction </li>
+		<li>These models are trained on a large unconstrained set of images to model a large set of complex textures</li>
+		<li>The proposed models are also integrated into the orginal HEVC source code</li>
+		</ul>
+  </li>
+  <li>
+	<b>Automatic sewer network crack detection  based on Deep Learning</b>
+	<div class="project-image">   <img src="/public/pictures/sewer.jpg"></div>
 <ul>
 <li>Collect image to create a dataset for automatic crack detection </li>
 <li>Perform deep learning-based automated cracks detection</li>
 <li>Automatically extract contextual information from frames</li>
 <li>Develop software that automatically generates reports based on detected cracks in sewer pipe videos.</li>
 </ul>
-
-<h3>Deep learning-based Fusarium wilt of radish detection</h3>
-<div class="project-image"><img src="/public/pictures/radish.PNG"></div>
+  </li>
+  <li>
+  <b>Deep learning-based Fusarium wilt of radish detection</b>
+  <div class="project-image"><img src="/public/pictures/radish.PNG"></div>
 <ul>
 <li>Collect visible images and infrared images of radish field by drones  </li>
 <li>Propose a fusarium wilt of radish detection system using deep learning.</li>
 </ul>
+  </li>
+</ol>
+
+
+
 
 
 <h2 style="color:#1565c0">Research interests</h2>
