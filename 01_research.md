@@ -10,7 +10,7 @@ title: Research
         text-align: justify!important;
         display:block;
      }
-
+	li span { font-weight: normal; }
 
 </style>
 <h2 style="color:#1565c0">Research projects</h2>
