@@ -16,8 +16,8 @@ title: Research
 <h2 style="color:#1565c0">Research projects</h2>
 <ol >
   <li>
-  <b>Smart parking and vehicle tracking project</b> <br/>
-  <div style="width:835px;height:400px;">   <img  src="/public/pictures/smartcity.png"></div>
+  <b>Smart parking and vehicle tracking project</b>
+  <div style="margin-top: 10px; width:835px;height:400px;">   <img  src="/public/pictures/smartcity.png"></div>
 	<ul>
 	<li>Propose AI model that performs dehazing, low-light enhancement, and superpixel on livestream CCTV</li>
 	<li>Introduce automatic license plate recognition model with the recognition rate of over 95%</li>
@@ -26,15 +26,15 @@ title: Research
   
   </li>
   <li>
-	<b>Tunnels defect detection based on deep learning and explainable AI technology</b> <br/>
-	<div style="width:835px;height:400px;">   <img src="/public/pictures/tunnel.png"></div>
+	<b>Tunnels defect detection based on deep learning and explainable AI technology</b>
+	<div style="margin-top: 10px; width:835px;height:400px;">   <img src="/public/pictures/tunnel.png"></div>
 	<ul>
 	<li>Train a deep learning model to detect and measure cracks/defects</li>
 	<li>Explain, visualize, and interpret the deicisions made by the proposed model</li>
 	</ul>
   </li>
   <li>
-	<b>Context-adaptive neural network based prediction for HEVC image compression</b> <br/>
+	<b>Context-adaptive neural network based prediction for HEVC image compression</b>
 	<ul>
 		<li>Propose a set of neural network models for intra image prediction </li>
 		<li>These models are trained on a large unconstrained set of images to model a large set of complex textures</li>
@@ -42,8 +42,8 @@ title: Research
 		</ul>
   </li>
   <li>
-	<b>Automatic sewer network crack detection  based on Deep Learning</b> <br/>
-	<div style="width:835px;height:400px;">   <img src="/public/pictures/sewer.jpg"></div>
+	<b>Automatic sewer network crack detection  based on Deep Learning</b>
+	<div style="margin-top: 10px; width:835px;height:400px;">   <img src="/public/pictures/sewer.jpg"></div>
 	<br/>
 	<br/>
 	<ul>
@@ -54,8 +54,8 @@ title: Research
 	</ul>
   </li>
   <li>
-  <b>Deep learning-based Fusarium wilt of radish detection</b> <br/>
-  <div style="width:835px;height:400px;margin-bottom: 180px;"><img src="/public/pictures/radish.PNG"></div>
+  <b>Deep learning-based Fusarium wilt of radish detection</b>
+  <div style="margin-top: 10px; width:835px;height:400px;margin-bottom: 180px;"><img src="/public/pictures/radish.PNG"></div>
   <br/>
 	<br/>
 <ul>
