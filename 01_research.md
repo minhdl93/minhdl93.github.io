@@ -10,14 +10,14 @@ title: Research
         text-align: justify!important;
         display:block;
      }
-	 
+
 
 </style>
 <h2 style="color:#1565c0">Research projects</h2>
 <ol>
   <li>
   <b>Smart parking and vehicle tracking project</b>
-  <div class="project-image">   <img  src="/public/pictures/smartcity.png"></div>
+  <div style="width:835px;height:400px;">   <img  src="/public/pictures/smartcity.png"></div>
 	<ul>
 	<li>Propose AI model that performs dehazing, low-light enhancement, and superpixel on livestream CCTV</li>
 	<li>Introduce automatic license plate recognition model with the recognition rate of over 95%</li>
@@ -27,7 +27,7 @@ title: Research
   </li>
   <li>
 	<b>Tunnels defect detection based on deep learning and explainable AI technology</b>
-	<div class="project-image">   <img src="/public/pictures/tunnel.png"></div>
+	<div style="width:835px;height:400px;">   <img src="/public/pictures/tunnel.png"></div>
 	<ul>
 	<li>Train a deep learning model to detect and measure cracks/defects</li>
 	<li>Explain, visualize, and interpret the deicisions made by the proposed model</li>
@@ -43,7 +43,7 @@ title: Research
   </li>
   <li>
 	<b>Automatic sewer network crack detection  based on Deep Learning</b>
-	<div class="project-image">   <img src="/public/pictures/sewer.jpg"></div>
+	<div style="width:835px;height:400px;">   <img src="/public/pictures/sewer.jpg"></div>
 <ul>
 <li>Collect image to create a dataset for automatic crack detection </li>
 <li>Perform deep learning-based automated cracks detection</li>
@@ -53,7 +53,7 @@ title: Research
   </li>
   <li>
   <b>Deep learning-based Fusarium wilt of radish detection</b>
-  <div class="project-image"><img src="/public/pictures/radish.PNG"></div>
+  <div style="width:835px;height:400px;"><img src="/public/pictures/radish.PNG"></div>
 <ul>
 <li>Collect visible images and infrared images of radish field by drones  </li>
 <li>Propose a fusarium wilt of radish detection system using deep learning.</li>
