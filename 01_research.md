@@ -14,7 +14,7 @@ title: Research
 
 </style>
 <h2 style="color:#1565c0">Research projects</h2>
-<ol>
+<ol style="font-weight: bold;">
   <li>
   <b>Smart parking and vehicle tracking project</b>
   <div style="width:835px;height:400px;">   <img  src="/public/pictures/smartcity.png"></div>
@@ -55,7 +55,7 @@ title: Research
   </li>
   <li>
   <b>Deep learning-based Fusarium wilt of radish detection</b>
-  <div style="width:835px;height:400px;"><img src="/public/pictures/radish.PNG"></div>
+  <div style="width:835px;height:400px;margin-bottom: 180px;"><img src="/public/pictures/radish.PNG"></div>
   <br/>
 	<br/>
 <ul>
