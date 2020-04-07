@@ -10,7 +10,7 @@ title: Research
         text-align: justify!important;
         display:block;
      }
-	 .project-image{
+	 div .project-image{
 		width: 860px;
 		height: 400px;
 
