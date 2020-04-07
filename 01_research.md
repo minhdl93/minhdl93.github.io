@@ -10,9 +10,10 @@ title: Research
         text-align: justify!important;
         display:block;
      }
-	 .project_image{
-		width:860px;
+	 .project-image{
+		width: 860px;
 		height: 400px;
+
 	 }
 
 </style>
@@ -49,7 +50,7 @@ title: Research
 </ul>
 
 <h3>Deep learning-based Fusarium wilt of radish detection</h3>
-<div class="project-image"><img src="/public/pictures/radish.png"></div>
+<div class="project-image"><img src="/public/pictures/radish.PNG"></div>
 <ul>
 <li>Collect visible images and infrared images of radish field by drones  </li>
 <li>Propose a fusarium wilt of radish detection system using deep learning.</li>
