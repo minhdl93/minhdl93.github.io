@@ -13,7 +13,7 @@ title: Research
 
 
 </style>
-<h2 style="color:#1565c0">Research projects</h2>
+<h2 style="color:#1565c0">Research Projects</h2>
 <ol >
   <li>
   <b>Smart parking and vehicle tracking project</b>
@@ -69,7 +69,7 @@ title: Research
 
 
 
-<h2 style="color:#1565c0">Research interests</h2>
+<h2 style="color:#1565c0">Research Interests</h2>
 
 <h3>Computer Vision</h3>
 <ul>
