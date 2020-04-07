@@ -44,12 +44,14 @@ title: Research
   <li>
 	<b>Automatic sewer network crack detection  based on Deep Learning</b>
 	<div style="width:835px;height:400px;">   <img src="/public/pictures/sewer.jpg"></div>
-<ul>
-<li>Collect image to create a dataset for automatic crack detection </li>
-<li>Perform deep learning-based automated cracks detection</li>
-<li>Automatically extract contextual information from frames</li>
-<li>Develop software that automatically generates reports based on detected cracks in sewer pipe videos.</li>
-</ul>
+	<br/>
+	<br/>
+	<ul>
+	<li>Collect image to create a dataset for automatic crack detection </li>
+	<li>Perform deep learning-based automated cracks detection</li>
+	<li>Automatically extract contextual information from frames</li>
+	<li>Develop software that automatically generates reports based on detected cracks in sewer pipe videos.</li>
+	</ul>
   </li>
   <li>
   <b>Deep learning-based Fusarium wilt of radish detection</b>
