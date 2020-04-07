@@ -56,6 +56,8 @@ title: Research
   <li>
   <b>Deep learning-based Fusarium wilt of radish detection</b>
   <div style="width:835px;height:400px;"><img src="/public/pictures/radish.PNG"></div>
+  <br/>
+	<br/>
 <ul>
 <li>Collect visible images and infrared images of radish field by drones  </li>
 <li>Propose a fusarium wilt of radish detection system using deep learning.</li>
