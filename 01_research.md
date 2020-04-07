@@ -14,13 +14,24 @@ title: Research
 
 </style>
 <h2 style="color:#1565c0">Research projects</h2>
-<h3>Smart parking and vehicle tracking project</h3>
-<div class="project-image">   <img  src="/public/pictures/smartcity.png"></div>
-<ul>
-<li>Propose AI model that performs dehazing, low-light enhancement, and superpixel on livestream CCTV</li>
-<li>Introduce automatic license plate recognition model with the recognition rate of over 95%</li>
-<li>Research and develop a software that supports vehicle tracking and smart parking.</li>
-</ul>
+<ol>
+  <li>
+  Smart parking and vehicle tracking project
+  <div class="project-image">   <img  src="/public/pictures/smartcity.png"></div>
+	<ul>
+	<li>Propose AI model that performs dehazing, low-light enhancement, and superpixel on livestream CCTV</li>
+	<li>Introduce automatic license plate recognition model with the recognition rate of over 95%</li>
+	<li>Research and develop a software that supports vehicle tracking and smart parking.</li>
+  </ul>
+  
+  </li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+
+
+
+
 
 <h3>Tunnels defect detection based on deep learning and explainable AI technology</h3>
 <div class="project-image">   <img src="/public/pictures/tunnel.png"></div>
