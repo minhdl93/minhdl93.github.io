@@ -19,6 +19,13 @@ li{
 
 <ol>
 <li>
+<b>L. Minh Dang</b>, Kyungbok Min, Hanxiang Wang, Md. Jalil Piran, Cheol Hee Lee, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0031320320303642?dgcid=coauthor" target="_blank">Sensor-based and vision-based human activity recognition: A comprehensive survey</a>, <i>Pattern Recognition</i>, Volume 108, 107561, December 2020. [<strong>IF</strong>: 7.196, Q1]
+ <a class="pdflink" href="/public/papers/pattern_2020.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
 <b>L. Minh Dang</b>, Sujin Lee, Dongil Han, Kyungbok Min, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2076-3417/10/2/505" target="_blank">Tampered and Computer-Generated Face Images Identification Based on Deep Learning</a>, <i>Applied Sciences</i>, Volume 10, Issue 2, January 2020. [<strong>IF</strong>: 2.474, Q2]
  <a class="pdflink" href="/public/papers/applsci-2020.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
