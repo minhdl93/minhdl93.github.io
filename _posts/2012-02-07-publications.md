@@ -18,6 +18,23 @@ li{
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 
 <ol>
+
+<li>
+<b>L. Minh Dang</b>, Kyungbok Min, Hanxiang Wang, Yanfen Li, and Hyeonjoon Moon <a href="https://www.mdpi.com/2072-4292/12/17/2863" target="_blank">Fusarium Wilt of Radish Detection using RGB and Near Infrared Images from Unmanned Aerial Vehicles</a>, <i>Remote Sensing</i>, Volume 108, 107561, December 2020. [<strong>IF</strong>: 4.509, Q1]
+ <a class="pdflink" href="/public/papers/RS_2020.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Jaesung Ko, Dongil Han, Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s11042-020-09571-5" target="_blank">Smartphone-based bulky waste classification using convolutional neural networks</a>, <i>Multimedia Tools and Applications</i>, August 2020. [<strong>IF</strong>: 2.313, Q2]
+ <a class="pdflink" href="/public/papers/MTA_2020.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
 <li>
 <b>L. Minh Dang</b>, Kyungbok Min, Hanxiang Wang, Md. Jalil Piran, Cheol Hee Lee, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0031320320303642?dgcid=coauthor" target="_blank">Sensor-based and vision-based human activity recognition: A comprehensive survey</a>, <i>Pattern Recognition</i>, Volume 108, 107561, December 2020. [<strong>IF</strong>: 7.196, Q1]
  <a class="pdflink" href="/public/papers/pattern_2020.pdf" target="_blank">
