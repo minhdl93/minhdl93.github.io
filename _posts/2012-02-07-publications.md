@@ -26,6 +26,13 @@ li{
  </a>
 </li>
 
+<li>
+Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, and Hyeonjoon Moon <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9238023" target="_blank">A Deep Learning-Based Hybrid Framework for Object Detection and Recognition in Autonomous Driving</a>, <i>IEEE Access</i>, Volume 8, 194228-194239, 2020. [<strong>IF</strong>: 3.745, Q1]
+ <a class="pdflink" href="/public/papers/access_yanfen_2020.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
 
 <li>
 Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Jaesung Ko, Dongil Han, Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s11042-020-09571-5" target="_blank">Smartphone-based bulky waste classification using convolutional neural networks</a>, <i>Multimedia Tools and Applications</i>, August 2020. [<strong>IF</strong>: 2.313, Q2]
