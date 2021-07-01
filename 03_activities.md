@@ -17,6 +17,10 @@ title: Professional Activities
  
  
 <ol><h1>Journal Referee</h1>
+<li>Expert Systems with Applications, 2021 (2)</li>
+<li>Scientific Reports, 2021 (2)</li>
+<li>Computer Methods and Programs in Biomedicine, 2021 (1)</li>
+<li>Journal of Information Security and Applications, 2021 (1)</li>
 <li>Multimedia Systems, 2020 (1)</li>
 <li>Energy, 2020 (1)</li>
 <li>Journal of Ambient Intelligence and Humanized Computing, 2020 (1)</li>
