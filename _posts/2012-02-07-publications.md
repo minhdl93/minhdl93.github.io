@@ -20,6 +20,14 @@ li{
 <ol>
 
 <li>
+<b>L. Minh Dang</b>, SeonJae Kyeong, Hanxiang Wang, Yanfen Li, Tan N.Nguyen, and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0360835221005349" target="_blank">Deep Learning-based Sewer Defect Classification for Highly Imbalanced Dataset</a>, <i>Computers & Industrial Engineering</i>, 107630, August 2021. [<strong>IF</strong>: 5.431, Q1]
+ <a class="pdflink" href="/public/papers/CIE_2021.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
 Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon <a href="https://www.mdpi.com/1424-8220/21/12/4140" target="_blank">Robust Korean License Plate Recognition Based on Deep Neural Networks</a>, <i>Sensors</i>, Volume 21, 4140, December 2021. [<strong>IF</strong>: 3.576, Q1]
  <a class="pdflink" href="/public/papers/sensors_2021.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
