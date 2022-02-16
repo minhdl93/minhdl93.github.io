@@ -18,6 +18,21 @@ li{
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 
 <ol>
+<li>
+<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Tan N.Nguyen, and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0950061822002744" target="_blank">DefectTR: End-to-end Defect Detection for Sewage Networks using a Transformer</a>, <i>Construction and Building Materials</i>, 325, February 2022. [<strong>IF</strong>: 6.14, Q1]
+ <a class="pdflink" href="/public/papers/cbm_2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Md. Jalil Piran, and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0263224122000318" target="_blank">A robust instance segmentation framework for underground sewer defect detection</a>, <i>Measurement</i>, 190, February 2022. [<strong>IF</strong>: 3.772, Q1]
+ <a class="pdflink" href="/public/papers/measurement2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
 
 <li>
 <b>L. Minh Dang</b>, SeonJae Kyeong, Hanxiang Wang, Yanfen Li, Tan N.Nguyen, and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0360835221005349" target="_blank">Deep Learning-based Sewer Defect Classification for Highly Imbalanced Dataset</a>, <i>Computers & Industrial Engineering</i>, 107630, August 2021. [<strong>IF</strong>: 5.431, Q1]
@@ -26,6 +41,20 @@ li{
  </a>
 </li>
 
+
+<li>
+Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Sujin Lee, and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0166361521001524" target="_blank">Pixel-level tunnel crack segmentation using a weakly supervised annotation approach</a>, <i>Computers in Industry</i>, 133, December 2021. [<strong>IF</strong>: 7.635, Q1]
+ <a class="pdflink" href="/public/papers/CII_2021.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Yesul Park, <b>L. Minh Dang</b>, Sujin Lee, Dongil Han, and Hyeonjoon Moon<a href="https://www.mdpi.com/2079-9292/10/19/2406" target="_blank">Multiple Object Tracking in Deep Learning Approaches: A Survey</a>, <i>Electronics</i>, 10, October 2021. [<strong>IF</strong>: 2.397, Q2]
+ <a class="pdflink" href="/public/papers/E_2021.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
 
 <li>
 Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon <a href="https://www.mdpi.com/1424-8220/21/12/4140" target="_blank">Robust Korean License Plate Recognition Based on Deep Neural Networks</a>, <i>Sensors</i>, Volume 21, 4140, December 2021. [<strong>IF</strong>: 3.576, Q1]
