@@ -43,6 +43,15 @@ Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Md. Jalil Piran, and Hyeonjoon Mo
 
 
 <li>
+Kyungbok Min, <b>L. Minh Dang</b>, and Hyeonjoon Moon<a href="https://ieeexplore.ieee.org/abstract/document/9512087/" target="_blank">Deep Learning-Based Short Story Generation for an Image Using the Encoder-Decoder Structure</a>, <i>IEEE Access</i>, 9, Agust 2021. [<strong>IF</strong>: 3.367, Q2]
+ <a class="pdflink" href="/public/papers/ACCESS_2021.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+
+<li>
 Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Sujin Lee, and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0166361521001524" target="_blank">Pixel-level tunnel crack segmentation using a weakly supervised annotation approach</a>, <i>Computers in Industry</i>, 133, December 2021. [<strong>IF</strong>: 7.635, Q1]
  <a class="pdflink" href="/public/papers/CII_2021.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -82,7 +91,7 @@ Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon <a href="https
   </li>
 
 <li>
-Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, and Hyeonjoon Moon <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9238023" target="_blank">A Deep Learning-Based Hybrid Framework for Object Detection and Recognition in Autonomous Driving</a>, <i>IEEE Access</i>, Volume 8, 194228-194239, 2020. [<strong>IF</strong>: 3.367, Q1]
+Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, and Hyeonjoon Moon <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9238023" target="_blank">A Deep Learning-Based Hybrid Framework for Object Detection and Recognition in Autonomous Driving</a>, <i>IEEE Access</i>, Volume 8, 194228-194239, 2020. [<strong>IF</strong>: 3.367, Q2]
  <a class="pdflink" href="/public/papers/access_yanfen_2020.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -154,7 +163,7 @@ Syed Ibrahim Hassan, <b>L. Minh Dang</b>, Suhyeon Im, Hyeonjoon Moon, <a href="h
 
 
   <li>
-<b>L. Minh Dang</b>, Abolghasem Sadeghi-Niaraki, Huy D. Huynh, Kyungbok Min, Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/ielx7/6287639/6514899/08456512.pdf?tp=&arnumber=8456512&isnumber=6514899&tag=1" target="_blank">Deep Learning Approach for Short-Term Stock Trends Prediction based on Two-stream Gated Recurrent Unit Network</a>, <i>IEEE Access</i>, Volume 6, September 2018. [<b>IF</b>: 3.367, Q1]
+<b>L. Minh Dang</b>, Abolghasem Sadeghi-Niaraki, Huy D. Huynh, Kyungbok Min, Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/ielx7/6287639/6514899/08456512.pdf?tp=&arnumber=8456512&isnumber=6514899&tag=1" target="_blank">Deep Learning Approach for Short-Term Stock Trends Prediction based on Two-stream Gated Recurrent Unit Network</a>, <i>IEEE Access</i>, Volume 6, September 2018. [<b>IF</b>: 3.367, Q2]
  <a class="pdflink" href="/public/papers/accessMinh_2018.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
 </a>
@@ -179,6 +188,37 @@ Jin Gwan Ha, Hyeonjoon Moon, Jin Tae Kwak, Syed Ibrahim Hassan, <b>L. Minh Dang<
 <h2 style="color:#1565c0">Peer-Reviewed Conference Proceedings</h2>
 
 <ol>
+<li>
+Yanfen Li, Hanxiang Wang, <strong>L. Minh Dang</strong>, Khawar Islam, Hae Kwang Kim <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11766/1176630/IntraCTUdepthdecisionforHEVCbyusingneural-networks/10.1117/12.2589191.short" target="_blank">Intra CTU depth decision for HEVC by using neural networks</a>, In <i>International Workshop on Advanced Imaging Technology (IWAIT)</i>, 2021, 1176630. (Online).
+<a class="pdflink" href="/public/papers/HEVC_2021.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+</li>
+
+<br>
+
+
+<li>
+Khawar Islam, <strong>L. Minh Dang</strong>, Sujin Lee, Hyeonjoon Moon <a href="https://openaccess.thecvf.com/content/CVPR2021W/CLIC/html/Islam_Image_Compression_With_Recurrent_Neural_Network_and_Generalized_Divisive_Normalization_CVPRW_2021_paper.html" target="_blank">Image Compression With Recurrent Neural Network and Generalized Divisive Normalization</a>, In <i>IComputer Vision and Pattern Recognition (CVPR) Workshops (CVPRW)</i>, 2021, (pp. 1875-1879). (Online).
+<a class="pdflink" href="/public/papers/CVPRW_2021.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+</li>
+
+<br>
+
+
+<li>
+Hanxiang Wang, Yanfen Li, <strong>L. Minh Dang</strong>, Hae Kwang Kim <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11515/115151D/HEVC-intra-prediction-mode-classification-by-deep-learning/10.1117/12.2566252.short" target="_blank">HEVC intra prediction mode classification by deep learning</a>, In <i>International Workshop on Advanced Imaging Technology (IWAIT)</i>, 2020, 115151D. (Yogyakarta, Indonesia).
+<a class="pdflink" href="/public/papers/HEVC_2020.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+</li>
+
+<br>
+
+
+
 <li>
 Huy D Huynh, <strong>Minh Dang</strong>, and Duc Duong, <a href="https://dl.acm.org/citation.cfm?id=3155202" target="_blank">A New Model for Stock Price Movements Prediction Using Deep Neural Network</a>, In <i>Eighth International Symposium on Information and Communication Technology (SoICT)</i>, 2017, (pp. 57-62). (NhaTrang, VietNam).
 <a class="pdflink" href="/public/papers/NICS_STOCK_2016.pdf" target="_blank">

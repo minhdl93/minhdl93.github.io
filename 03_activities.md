@@ -14,6 +14,13 @@ title: Professional Activities
 </style>
 
 
+<h1>Guest Editors</h1>
+
+<b>Electronics</b>
+<p>Link: <a href="https://www.mdpi.com/journal/electronics/special_issues/Visual_Object_Detection" target="_blank">https://www.mdpi.com/journal/electronics/special_issues/Visual_Object_Detection</a> </p>
+<div style="margin-top: 10px;">   <img  src="/public/pictures/si1.jpg"></div>
+
+<br/>
  
  
 <ol><h1>Journal Referee</h1>
