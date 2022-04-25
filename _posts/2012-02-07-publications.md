@@ -19,7 +19,7 @@ li{
 
 <ol>
 <li>
-<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Yesul Park, Chanmi Oh, Tan N.Nguyen, and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0886779822001122" target="_blank">Automatic tunnel lining crack evaluation and measurement using deep learning</a>, <i>	Tunnelling and Underground Space Technology</i>, 124, June 2022. [<strong>IF</strong>: 5.915, Q1]
+<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Yesul Park, Chanmi Oh, Tan N.Nguyen, and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0886779822001122" target="_blank">Automatic tunnel lining crack evaluation and measurement using deep learning</a>, <i>Tunnelling and Underground Space Technology</i>, 124, June 2022. [<strong>IF</strong>: 5.915, Q1]
  <a class="pdflink" href="/public/papers/tunnel_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -33,6 +33,15 @@ li{
 </li>
 
 <li>
+Tan N. Nguyen, Jaehong Lee, Liem Dinh-Tien, and <b>L. Minh Dang</b><a href="" target="_blank">Deep learned one‐iteration nonlinear solver for solid mechanics</a>, <i>International Journal for Numerical Methods in Engineering</i>123, March 2022. [<strong>IF</strong>: 3.477, Q1]
+ <a class="pdflink" href="/public/papers/tan_2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+
+<li>
 Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon<a href="" target="_blank">An Efficient Attention Module for Instance Segmentation Network in Pest Monitoring</a>, <i>Computers and Electronics in Agriculture</i>, 195, March 2022. [<strong>IF</strong>: 5.565, Q1]
  <a class="pdflink" href="/public/papers/agricu_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -42,6 +51,20 @@ Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon<a href="" targ
 <li>
 Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Md. Jalil Piran, and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0263224122000318" target="_blank">A robust instance segmentation framework for underground sewer defect detection</a>, <i>Measurement</i>, 190, February 2022. [<strong>IF</strong>: 3.772, Q1]
  <a class="pdflink" href="/public/papers/measurement2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Chanmi Oh, <b>L. Minh Dang</b>, Dongil Han and Hyeonjoon Moon<a href="" target="_blank">Robust Sewer Crack Detection with Text Analysis based on Deep Learning</a>, <i>IEEE Access</i>, April 2022. [<strong>IF</strong>: 3.367, Q2]
+ <a class="pdflink" href="/public/papers/access_2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon <a href="https://www.mdpi.com/1424-8220/22/7/2722" target="_blank">Vision-Based Defect Inspection and Condition Assessment for Sewer Pipes: A Comprehensive Survey</a>, <i>Sensors</i>, 22, April 2022. [<strong>IF</strong>: 3.567, Q1]
+ <a class="pdflink" href="/public/papers/sensor_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
