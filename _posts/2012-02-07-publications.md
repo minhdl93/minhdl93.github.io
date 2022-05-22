@@ -36,14 +36,14 @@ li{
 </li>
 
 <li>
-Saravanan, M., J. Jayanthi, U. Sakthi, R. Rajkumar, Gyanendra Prasad Joshi, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="" target="_blank">Intelligent Satin Bowerbird Optimizer Based Compression Technique for Remote Sensing Images</a>, <i>Computers, Materials and Continua</i>72, March 2022. [<strong>IF</strong>: 3.772, Q2]
+Saravanan, M., J. Jayanthi, U. Sakthi, R. Rajkumar, Gyanendra Prasad Joshi, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/v72n2/47200" target="_blank">Intelligent Satin Bowerbird Optimizer Based Compression Technique for Remote Sensing Images</a>, <i>Computers, Materials and Continua</i>72, March 2022. [<strong>IF</strong>: 3.772, Q2]
  <a class="pdflink" href="/public/papers/cmc22_1.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-Sultan Ahmad, Shakir Khan, Mohamed Fahad AlAjmi, Ashit Kumar Dutta, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="" target="_blank">Deep Learning Enabled Disease Diagnosis for Secure Internet of Medical Things</a>, <i>Computers, Materials and Continua</i>73, May 2022. [<strong>IF</strong>: 3.772, Q2]
+Sultan Ahmad, Shakir Khan, Mohamed Fahad AlAjmi, Ashit Kumar Dutta, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/v73n1/47774" target="_blank">Deep Learning Enabled Disease Diagnosis for Secure Internet of Medical Things</a>, <i>Computers, Materials and Continua</i>73, May 2022. [<strong>IF</strong>: 3.772, Q2]
  <a class="pdflink" href="/public/papers/cmc22_2.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -51,21 +51,21 @@ Sultan Ahmad, Shakir Khan, Mohamed Fahad AlAjmi, Ashit Kumar Dutta, <b>L. Minh D
 
 
 <li>
-Tan N. Nguyen, Jaehong Lee, Liem Dinh-Tien, and <b>L. Minh Dang</b>, <a href="" target="_blank">Deep learned one-iteration nonlinear solver for solid mechanics</a>, <i>International Journal for Numerical Methods in Engineering</i>123, March 2022. [<strong>IF</strong>: 3.477, Q1]
+Tan N. Nguyen, Jaehong Lee, Liem Dinh-Tien, and <b>L. Minh Dang</b>, <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/nme.6918" target="_blank">Deep learned one-iteration nonlinear solver for solid mechanics</a>, <i>International Journal for Numerical Methods in Engineering</i>123, March 2022. [<strong>IF</strong>: 3.477, Q1]
  <a class="pdflink" href="/public/papers/tan_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-Tan N. Nguyen, <b>L. Minh Dang</b>, Jaehong Lee, Pho Van Nguyen <a href="" target="_blank">Load-Carrying Capacity of Ultra-Thin Shells with and without CNTs Reinforcement</a>, <i>Mathematics</i>10, April 2022. [<strong>IF</strong>: 2.258, Q1]
+Tan N. Nguyen, <b>L. Minh Dang</b>, Jaehong Lee, Pho Van Nguyen <a href="https://www.mdpi.com/2227-7390/10/9/1481" target="_blank">Load-Carrying Capacity of Ultra-Thin Shells with and without CNTs Reinforcement</a>, <i>Mathematics</i>10, April 2022. [<strong>IF</strong>: 2.258, Q1]
  <a class="pdflink" href="/public/papers/mathematics22.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="" target="_blank">An Efficient Attention Module for Instance Segmentation Network in Pest Monitoring</a>, <i>Computers and Electronics in Agriculture</i>, 195, March 2022. [<strong>IF</strong>: 5.565, Q1]
+Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0168169922001703" target="_blank">An Efficient Attention Module for Instance Segmentation Network in Pest Monitoring</a>, <i>Computers and Electronics in Agriculture</i>, 195, March 2022. [<strong>IF</strong>: 5.565, Q1]
  <a class="pdflink" href="/public/papers/agricu_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -79,7 +79,7 @@ Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Md. Jalil Piran, and Hyeonjoon Mo
 </li>
 
 <li>
-Chanmi Oh, <b>L. Minh Dang</b>, Dongil Han and Hyeonjoon Moon, <a href="" target="_blank">Robust Sewer Crack Detection with Text Analysis based on Deep Learning</a>, <i>IEEE Access</i>, April 2022. [<strong>IF</strong>: 3.367, Q2]
+Chanmi Oh, <b>L. Minh Dang</b>, Dongil Han and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/document/9759370" target="_blank">Robust Sewer Crack Detection with Text Analysis based on Deep Learning</a>, <i>IEEE Access</i>, April 2022. [<strong>IF</strong>: 3.367, Q2]
  <a class="pdflink" href="/public/papers/access_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
