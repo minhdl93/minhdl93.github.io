@@ -18,6 +18,9 @@ li{
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 
 <ol>
+
+
+
 <li>
 <b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Yesul Park, Chanmi Oh, Tan N.Nguyen, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0886779822001122" target="_blank">Automatic tunnel lining crack evaluation and measurement using deep learning</a>, <i>Tunnelling and Underground Space Technology</i>, 124, June 2022. [<strong>IF</strong>: 5.915, Q1]
  <a class="pdflink" href="/public/papers/tunnel_2022.pdf" target="_blank">
@@ -33,13 +36,33 @@ li{
 </li>
 
 <li>
-Tan N. Nguyen, Jaehong Lee, Liem Dinh-Tien, and <b>L. Minh Dang</b>, <a href="" target="_blank">Deep learned one‐iteration nonlinear solver for solid mechanics</a>, <i>International Journal for Numerical Methods in Engineering</i>123, March 2022. [<strong>IF</strong>: 3.477, Q1]
- <a class="pdflink" href="/public/papers/tan_2022.pdf" target="_blank">
+Saravanan, M., J. Jayanthi, U. Sakthi, R. Rajkumar, Gyanendra Prasad Joshi, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="" target="_blank">Intelligent Satin Bowerbird Optimizer Based Compression Technique for Remote Sensing Images</a>, <i>Computers, Materials and Continua</i>72, March 2022. [<strong>IF</strong>: 3.772, Q2]
+ <a class="pdflink" href="/public/papers/cmc22_1.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Sultan Ahmad, Shakir Khan, Mohamed Fahad AlAjmi, Ashit Kumar Dutta, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="" target="_blank">Deep Learning Enabled Disease Diagnosis for Secure Internet of Medical Things</a>, <i>Computers, Materials and Continua</i>73, May 2022. [<strong>IF</strong>: 3.772, Q2]
+ <a class="pdflink" href="/public/papers/cmc22_2.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 
+<li>
+Tan N. Nguyen, Jaehong Lee, Liem Dinh-Tien, and <b>L. Minh Dang</b>, <a href="" target="_blank">Deep learned one-iteration nonlinear solver for solid mechanics</a>, <i>International Journal for Numerical Methods in Engineering</i>123, March 2022. [<strong>IF</strong>: 3.477, Q1]
+ <a class="pdflink" href="/public/papers/tan_2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Tan N. Nguyen, <b>L. Minh Dang</b>, Jaehong Lee, Pho Van Nguyen <a href="" target="_blank">Load-Carrying Capacity of Ultra-Thin Shells with and without CNTs Reinforcement</a>, <i>Mathematics</i>10, April 2022. [<strong>IF</strong>: 2.258, Q1]
+ <a class="pdflink" href="/public/papers/mathematics22.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
 
 <li>
 Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="" target="_blank">An Efficient Attention Module for Instance Segmentation Network in Pest Monitoring</a>, <i>Computers and Electronics in Agriculture</i>, 195, March 2022. [<strong>IF</strong>: 5.565, Q1]
