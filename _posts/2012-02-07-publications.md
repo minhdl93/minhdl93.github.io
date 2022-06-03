@@ -19,7 +19,12 @@ li{
 
 <ol>
 
-
+<li>
+<b>L. Minh Dang</b>, Sujin Lee, Yanfen Li, Chanmi Oh, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://rdcu.be/cOO04" target="_blank">  Daily and seasonal heat usage patterns analysis in heat networks</a>, <i>Scientific Reports</i>, 12, June 2022. [<strong>IF</strong>: 4.379, Q1]
+ <a class="pdflink" href="/public/papers/sr2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
 
 <li>
 <b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Yesul Park, Chanmi Oh, Tan N.Nguyen, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0886779822001122" target="_blank">Automatic tunnel lining crack evaluation and measurement using deep learning</a>, <i>Tunnelling and Underground Space Technology</i>, 124, June 2022. [<strong>IF</strong>: 5.915, Q1]
