@@ -24,17 +24,20 @@ title: Professional Activities
  
  
 <ol><h1>Journal Referee</h1>
+<li>IEEE Transactions on Neural Networks and Learning Systems, 2022 (1)</li>
 <li>Expert Systems with Applications, 2021 (2)</li>
-<li>Scientific Reports, 2021 (2)</li>
+<li>Scientific Reports, 2021 (3)</li>
 <li>Computer Methods and Programs in Biomedicine, 2021 (1)</li>
 <li>Journal of Information Security and Applications, 2021 (1)</li>
+<li>Automations in Construction, 2020 (2), 2021 (1)</li>
+<li>Technovation, 2020 (2), 2021 (1)</li>
 <li>Multimedia Systems, 2020 (1)</li>
 <li>Energy, 2020 (1)</li>
 <li>Journal of Ambient Intelligence and Humanized Computing, 2020 (1)</li>
 <li>IEEE Transactions on Information Forensics and Security, 2020 (1)</li>
-<li>Automations in Construction, 2020 (2), 2021 (1)</li>
 <li>Science of the Total Environment, 2020 (1)</li>
 <li>Cognitive Neurodynamics, 2020 (1)</li>
+<li>IEEE Transactions on Neural Networks and Learning Systems, 2020 (1)</li>
 <li>IEEE Access, 2019 (2), 2020 (1)</li>
 <li>Journal of Computational Science, 2016 (2)</li>
 
