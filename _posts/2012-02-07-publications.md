@@ -34,7 +34,7 @@ Le Quan Nguyen, Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, HyoungKyu Song, a
 </li>
 
 <li>
-Toan Khac Nguyen, <b>L. Minh Dang</b>, HyoungKyu Song, Hyeonjoon Moon, and Jin Hee Lim, <a href="https://www.mdpi.com/2311-7524/8/9/839" target="_blank">Wild Chrysanthemums Core Collection: Studies on Leaf Identification</a>, <i>Horticulturae</i>, 8, September 2022. [<strong>IF</strong>: 3.476, Q2]
+Toan Khac Nguyen, <b>L. Minh Dang</b>, HyoungKyu Song, Hyeonjoon Moon, and Jin Hee Lim, <a href="https://www.mdpi.com/2311-7524/8/9/839" target="_blank">Wild Chrysanthemums Core Collection: Studies on Leaf Identification</a>, <i>Horticulturae</i>, 8, September 2022. [<strong>IF</strong>: 2.923, Q1]
  <a class="pdflink" href="/public/papers/toan2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
