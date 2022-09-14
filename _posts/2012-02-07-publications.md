@@ -20,8 +20,22 @@ li{
 <ol>
 
 <li>
-<b>L. Minh Dang</b>, Sujin Lee, Yanfen Li, Chanmi Oh, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://rdcu.be/cOO04" target="_blank">  Daily and seasonal heat usage patterns analysis in heat networks</a>, <i>Scientific Reports</i>, 12, June 2022. [<strong>IF</strong>: 4.996, Q2]
+<b>L. Minh Dang</b>, Sujin Lee, Yanfen Li, Chanmi Oh, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://rdcu.be/cOO04" target="_blank">Daily and seasonal heat usage patterns analysis in heat networks</a>, <i>Scientific Reports</i>, 12, June 2022. [<strong>IF</strong>: 4.996, Q2]
  <a class="pdflink" href="/public/papers/sr2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Le Quan Nguyen, Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/abstract/document/9862969/" target="_blank">Facial Landmark Detection with Learnable Connectivity Graph Convolutional Network</a>, <i>IEEE Access</i>, 18, Agust 2022. [<strong>IF</strong>: 3.476, Q2]
+ <a class="pdflink" href="/public/papers/quan2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Toan Khac Nguyen, <b>L. Minh Dang</b>, HyoungKyu Song, Hyeonjoon Moon, and Jin Hee Lim, <a href="https://www.mdpi.com/2311-7524/8/9/839" target="_blank">Wild Chrysanthemums Core Collection: Studies on Leaf Identification</a>, <i>Horticulturae</i>, 8, September 2022. [<strong>IF</strong>: 3.476, Q2]
+ <a class="pdflink" href="/public/papers/toan2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
@@ -56,14 +70,14 @@ Sultan Ahmad, Shakir Khan, Mohamed Fahad AlAjmi, Ashit Kumar Dutta, <b>L. Minh D
 
 
 <li>
-Tan N. Nguyen, Jaehong Lee, Liem Dinh-Tien, and <b>L. Minh Dang</b>, <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/nme.6918" target="_blank">Deep learned one-iteration nonlinear solver for solid mechanics</a>, <i>International Journal for Numerical Methods in Engineering</i>123, March 2022. [<strong>IF</strong>: 3.021, Q2]
+Tan N. Nguyen, Jaehong Lee, Liem Dinh-Tien, and <b>L. Minh Dang</b>, <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/nme.6918" target="_blank">Deep learned one-iteration nonlinear solver for solid mechanics</a>, <i>International Journal for Numerical Methods in Engineering, </i>123, March 2022. [<strong>IF</strong>: 3.021, Q2]
  <a class="pdflink" href="/public/papers/tan_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-Tan N. Nguyen, <b>L. Minh Dang</b>, Jaehong Lee, Pho Van Nguyen <a href="https://www.mdpi.com/2227-7390/10/9/1481" target="_blank">Load-Carrying Capacity of Ultra-Thin Shells with and without CNTs Reinforcement</a>, <i>Mathematics</i>10, April 2022. [<strong>IF</strong>: 2.592, Q1]
+Tan N. Nguyen, <b>L. Minh Dang</b>, Jaehong Lee, Pho Van Nguyen <a href="https://www.mdpi.com/2227-7390/10/9/1481" target="_blank">Load-Carrying Capacity of Ultra-Thin Shells with and without CNTs Reinforcement</a>, <i>Mathematics, </i>10, April 2022. [<strong>IF</strong>: 2.592, Q1]
  <a class="pdflink" href="/public/papers/mathematics22.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
