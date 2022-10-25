@@ -18,10 +18,23 @@ li{
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 
 <ol>
+<li>
+<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S095006182203094X?dgcid=coauthor" target="_blank">Deep learning-based masonry crack segmentation and real-life crack length measurement</a>, <i>Construction and Building Materials</i>, 5, October 2022. [<strong>IF</strong>: 7.693, Q1]
+ <a class="pdflink" href="/public/papers/masonry2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
 
 <li>
 <b>L. Minh Dang</b>, Sujin Lee, Yanfen Li, Chanmi Oh, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://rdcu.be/cOO04" target="_blank">Daily and seasonal heat usage patterns analysis in heat networks</a>, <i>Scientific Reports</i>, 12, June 2022. [<strong>IF</strong>: 4.996, Q2]
  <a class="pdflink" href="/public/papers/sr2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, HyoungKyu Song, and Hyeonjoon Moon, <a href="#" target="_blank">	Deep Learning Based Underground Sewer Defect Classification Using A Modified RegNet</a>, <i>Computers, Materials and Continua</i>, 1, September 2022. [<strong>IF</strong>: 3.860, Q2]
+ <a class="pdflink" href="/public/papers/chen_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
