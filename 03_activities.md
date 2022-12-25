@@ -16,7 +16,7 @@ title: Professional Activities
 <h1>Editor</h1>
 <b>Scienxt Journal of Civil Engineering (SJCE)</b>
 <p>Link: <a href="http://scienxt.com/scienxt-journal-of-civil-engineeringsjoce-2/" target="_blank">http://scienxt.com/scienxt-journal-of-civil-engineeringsjoce-2/</a> </p>
-<div style="margin-top: 10px;">   <img  src="/public/pictures/si2.jpg"></div>
+<div style="margin-top: 10px;">   <img  src="/public/pictures/si2.png"></div>
 
 <br/>
 

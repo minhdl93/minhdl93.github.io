@@ -51,7 +51,7 @@ title: Experiences
 
 </ul>
 
-<h2 style="color:#1565c0"> Employment Experiences </h2>
+<h2 style="color:#1565c0"> Employment Record </h2>
 <ul>
 <li> <b>[08/2021 -- Present] Research professor, Sejong University</b>
   <p>
@@ -59,7 +59,7 @@ title: Experiences
    </p>
  </li>
  
- <li> <b>[09/2021 -- Present] Lecturer and research, FPT University, Vietnam</b>
+ <li> <b>[09/2021 -- Present] Lecturer and researcher, FPT University, Vietnam</b>
   <p>
      Teach AI-related courses. Research interests: computer vision, machine learning, deep learning, pattern recognition, structural inspection.
    </p>
