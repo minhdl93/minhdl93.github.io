@@ -33,6 +33,13 @@ li{
 </li>
 
 <li>
+<b>L. Minh Dang</b>, <a href="https://www.mdpi.com/2079-9292/11/22/3773" target="_blank">Efficient Vision-Based Face Image Manipulation Identification Framework Based on Deep Learning</a>, <i>Electronics</i>, 17, November 2022. [<strong>IF</strong>: 2.690, Q2]
+ <a class="pdflink" href="/public/papers/M_2022.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
 Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, HyoungKyu Song, and Hyeonjoon Moon, <a href="#" target="_blank">	Deep Learning Based Underground Sewer Defect Classification Using A Modified RegNet</a>, <i>Computers, Materials and Continua</i>, 1, September 2022. [<strong>IF</strong>: 3.860, Q2]
  <a class="pdflink" href="/public/papers/chen_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -150,8 +157,15 @@ Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Sujin Lee, and Hyeonjoon Moon, <a
 </li>
 
 <li>
-Yesul Park, <b>L. Minh Dang</b>, Sujin Lee, Dongil Han, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2079-9292/10/19/2406" target="_blank">Multiple Object Tracking in Deep Learning Approaches: A Survey</a>, <i>Electronics</i>, 10, October 2021. [<strong>IF</strong>: 2.690, Q3]
+Yesul Park, <b>L. Minh Dang</b>, Sujin Lee, Dongil Han, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2079-9292/10/19/2406" target="_blank">Multiple Object Tracking in Deep Learning Approaches: A Survey</a>, <i>Electronics</i>, 10, October 2021. [<strong>IF</strong>: 2.690, Q2]
  <a class="pdflink" href="/public/papers/E_2021.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+<b>L. Minh Dang</b>, Yanfen Li, Hanxiang Wang, and Tan N. Nguyen, <a href="https://link.springer.com/article/10.1007/s10462-021-10088-y" target="_blank">Explainable artificial intelligence: a comprehensive review</a>, <i>Artificial Intelligence Review</i>, 22, November 2021. [<strong>IF</strong>: 9.588, Q1]
+ <a class="pdflink" href="/public/papers/XAI.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>

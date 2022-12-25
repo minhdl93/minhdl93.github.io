@@ -53,7 +53,18 @@ title: Experiences
 
 <h2 style="color:#1565c0"> Employment Experiences </h2>
 <ul>
-
+<li> <b>[08/2021 -- Present] Research professor, Sejong University</b>
+  <p>
+     Research interests: computer vision, machine learning, deep learning, pattern recognition, structural inspection.
+   </p>
+ </li>
+ 
+ <li> <b>[09/2021 -- Present] Lecturer and research, FPT University, Vietnam</b>
+  <p>
+     Teach AI-related courses. Research interests: computer vision, machine learning, deep learning, pattern recognition, structural inspection.
+   </p>
+ </li>
+ 
 <li> <b>[02/2018 -- Present] Server manager at department of Computer Engineering, Sejong University</b>
   <p>
      Manage CentOS server, manage undergraduate student account, create necessary environment for the students to practice (Linux, Java, Oracle, Mysql,…) on the servers.

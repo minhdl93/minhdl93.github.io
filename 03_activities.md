@@ -13,8 +13,15 @@ title: Professional Activities
 
 </style>
 
+<h1>Editor</h1>
+<b>Scienxt Journal of Civil Engineering (SJCE)</b>
+<p>Link: <a href="http://scienxt.com/scienxt-journal-of-civil-engineeringsjoce-2/" target="_blank">http://scienxt.com/scienxt-journal-of-civil-engineeringsjoce-2/</a> </p>
+<div style="margin-top: 10px;">   <img  src="/public/pictures/si2.jpg"></div>
 
-<h1>Guest Editors</h1>
+<br/>
+
+
+<h1>Guest Editor</h1>
 
 <b>Electronics</b>
 <p>Link: <a href="https://www.mdpi.com/journal/electronics/special_issues/Visual_Object_Detection" target="_blank">https://www.mdpi.com/journal/electronics/special_issues/Visual_Object_Detection</a> </p>
