@@ -19,6 +19,23 @@ li{
 
 <ol>
 <li>
+<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="" target="_blank">Lightweight pixel-level semantic segmentation and analysis for sewer defects using deep learning</a>, <i>Construction and Building Materials</i>, 5, February 2023. [<strong>IF</strong>: 7.693, Q1]
+ <a class="pdflink" href="/public/papers/sewer23.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, HyoungKyu Song, and Hyeonjoon Moon, <a href="" target="_blank">Attention-guided multiscale neural network for defect detection in sewer pipelines</a>, <i>Computer-Aided Civil and Infrastructure Engineering</i>, February 2023. [<strong>IF</strong>: 10.066, Q1]
+ <a class="pdflink" href="/public/papers/yanfen23.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+
+<li>
 <b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S095006182203094X?dgcid=coauthor" target="_blank">Deep learning-based masonry crack segmentation and real-life crack length measurement</a>, <i>Construction and Building Materials</i>, 5, October 2022. [<strong>IF</strong>: 7.693, Q1]
  <a class="pdflink" href="/public/papers/masonry2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
