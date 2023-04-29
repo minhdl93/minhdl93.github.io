@@ -19,7 +19,15 @@ li{
 
 <ol>
 <li>
-<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="" target="_blank">Lightweight pixel-level semantic segmentation and analysis for sewer defects using deep learning</a>, <i>Construction and Building Materials</i>, 5, February 2023. [<strong>IF</strong>: 7.693, Q1]
+<b>L. Minh Dang</b>, Jihye Shin, Yanfen Li, Lilia Tightiz, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="" target="_blank">Toward Explainable Heat Load Patterns Prediction for District Heating</a>, <i>Scientific Reports</i>, May 2023. [<strong>IF</strong>: 4.996, Q2]
+ <a class="pdflink" href="/public/papers/sr2023.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0950061823005032" target="_blank">Lightweight pixel-level semantic segmentation and analysis for sewer defects using deep learning</a>, <i>Construction and Building Materials</i>, 5, February 2023. [<strong>IF</strong>: 7.693, Q1]
  <a class="pdflink" href="/public/papers/sewer23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -27,7 +35,7 @@ li{
 
 
 <li>
-Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, HyoungKyu Song, and Hyeonjoon Moon, <a href="" target="_blank">Attention-guided multiscale neural network for defect detection in sewer pipelines</a>, <i>Computer-Aided Civil and Infrastructure Engineering</i>, February 2023. [<strong>IF</strong>: 10.066, Q1]
+Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12991" target="_blank">Attention-guided multiscale neural network for defect detection in sewer pipelines</a>, <i>Computer-Aided Civil and Infrastructure Engineering</i>, February 2023. [<strong>IF</strong>: 10.066, Q1]
  <a class="pdflink" href="/public/papers/yanfen23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
