@@ -16,10 +16,19 @@ li{
 </style>
 <h3>Disclaimer Notice: Please note that all the papers are archived for personal use only. And you are legally forbidden to reproduce or distribute them without explicit permission of the copyright holders.</h3>
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
-
 <ol>
+
+
 <li>
-<b>L. Minh Dang</b>, Jihye Shin, Yanfen Li, Lilia Tightiz, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="" target="_blank">Toward Explainable Heat Load Patterns Prediction for District Heating</a>, <i>Scientific Reports</i>, May 2023. [<strong>IF</strong>: 4.996, Q2]
+<b>L. Minh Dang</b>, Kyungbok Min, Tan N.Nguyen, Han Yong Park, O New Lee, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="#" target="_blank">Vision-based White Radish Phenotypic Trait Measurement with Smartphone Imagery</a>, <i>Agronomy</i>, 15, June 2023. [<strong>IF</strong>: 3.934, Q1]
+ <a class="pdflink" href="/public/papers/mdpi_2023.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+<b>L. Minh Dang</b>, Jihye Shin, Yanfen Li, Lilia Tightiz, Tan N. Nguyen, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.nature.com/articles/s41598-023-34146-3" target="_blank">Toward Explainable Heat Load Patterns Prediction for District Heating</a>, <i>Scientific Reports</i>, May 2023. [<strong>IF</strong>: 4.996, Q2]
  <a class="pdflink" href="/public/papers/sr2023.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -27,7 +36,7 @@ li{
 
 
 <li>
-<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0950061823005032" target="_blank">Lightweight pixel-level semantic segmentation and analysis for sewer defects using deep learning</a>, <i>Construction and Building Materials</i>, 5, February 2023. [<strong>IF</strong>: 7.693, Q1]
+<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0950061823005032" target="_blank">Lightweight pixel-level semantic segmentation and analysis for sewer defects using deep learning</a>, <i>Construction and Building Materials</i>, 5, February 2023. [<strong>IF</strong>: 7.693, Q1]
  <a class="pdflink" href="/public/papers/sewer23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -35,29 +44,35 @@ li{
 
 
 <li>
-Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12991" target="_blank">Attention-guided multiscale neural network for defect detection in sewer pipelines</a>, <i>Computer-Aided Civil and Infrastructure Engineering</i>, February 2023. [<strong>IF</strong>: 10.066, Q1]
+Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/mice.12991" target="_blank">Attention-guided multiscale neural network for defect detection in sewer pipelines</a>, <i>Computer-Aided Civil and Infrastructure Engineering</i>, February 2023. [<strong>IF</strong>: 10.066, Q1]
  <a class="pdflink" href="/public/papers/yanfen23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
-
 <li>
-Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/v75n3/52555" target="_blank">Deep Learning Based Underground Sewer Defect Classification Using A Modified RegNet</a>, <i>Computers, Materials and Continua</i>, April 2023. [<strong>IF</strong>: 3.860, Q2]
+<b>L. Minh Dang</b>, Hanxiang Wang, Tri-Hai Nguyen, Lilia Tightiz, Liem Dinh Tien, Tan N. Nguyen, and Ngoc Phi Nguyen, <a href="https://www.sciencedirect.com/science/article/pii/S2352710223011555" target="_blank">CDD-TR: Automated concrete defect investigation using an improved deformable transformers</a>, <i>Journal of Building Engineering</i>, June 2023. [<strong>IF</strong>: 7.144, Q1]
+ <a class="pdflink" href="/public/papers/JBE_2023.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+ 
+<li>
+Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/v75n3/52555" target="_blank">Deep Learning Based Underground Sewer Defect Classification Using A Modified RegNet</a>, <i>Computers, Materials and Continua</i>, April 2023. [<strong>IF</strong>: 3.860, Q2]
  <a class="pdflink" href="/public/papers/chen_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S095006182203094X?dgcid=coauthor" target="_blank">Deep learning-based masonry crack segmentation and real-life crack length measurement</a>, <i>Construction and Building Materials</i>, 5, October 2022. [<strong>IF</strong>: 7.693, Q1]
+<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S095006182203094X?dgcid=coauthor" target="_blank">Deep learning-based masonry crack segmentation and real-life crack length measurement</a>, <i>Construction and Building Materials</i>, 5, October 2022. [<strong>IF</strong>: 7.693, Q1]
  <a class="pdflink" href="/public/papers/masonry2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-<b>L. Minh Dang</b>, Sujin Lee, Yanfen Li, Chanmi Oh, Tan N. Nguyen, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://rdcu.be/cOO04" target="_blank">Daily and seasonal heat usage patterns analysis in heat networks</a>, <i>Scientific Reports</i>, 12, June 2022. [<strong>IF</strong>: 4.996, Q2]
+<b>L. Minh Dang</b>, Sujin Lee, Yanfen Li, Chanmi Oh, Tan N. Nguyen, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://rdcu.be/cOO04" target="_blank">Daily and seasonal heat usage patterns analysis in heat networks</a>, <i>Scientific Reports</i>, 12, June 2022. [<strong>IF</strong>: 4.996, Q2]
  <a class="pdflink" href="/public/papers/sr2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -72,14 +87,14 @@ Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b
 
 
 <li>
-Le Quan Nguyen, Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, HyoungKyu Song, and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/abstract/document/9862969/" target="_blank">Facial Landmark Detection with Learnable Connectivity Graph Convolutional Network</a>, <i>IEEE Access</i>, 18, Agust 2022. [<strong>IF</strong>: 3.476, Q2]
+Le Quan Nguyen, Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/abstract/document/9862969/" target="_blank">Facial Landmark Detection with Learnable Connectivity Graph Convolutional Network</a>, <i>IEEE Access</i>, 18, Agust 2022. [<strong>IF</strong>: 3.476, Q2]
  <a class="pdflink" href="/public/papers/quan2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-Toan Khac Nguyen, <b>L. Minh Dang</b>, HyoungKyu Song, Hyeonjoon Moon, and Jin Hee Lim, <a href="https://www.mdpi.com/2311-7524/8/9/839" target="_blank">Wild Chrysanthemums Core Collection: Studies on Leaf Identification</a>, <i>Horticulturae</i>, 8, September 2022. [<strong>IF</strong>: 2.923, Q1]
+Toan Khac Nguyen, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon, and Jin Hee Lim, <a href="https://www.mdpi.com/2311-7524/8/9/839" target="_blank">Wild Chrysanthemums Core Collection: Studies on Leaf Identification</a>, <i>Horticulturae</i>, 8, September 2022. [<strong>IF</strong>: 2.923, Q1]
  <a class="pdflink" href="/public/papers/toan2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
