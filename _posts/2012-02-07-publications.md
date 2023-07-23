@@ -20,7 +20,7 @@ li{
 
 <li>
 <b>L. Minh Dang</b>, Muhammad Nadeem, Tan N.Nguyen, Han Yong Park, O New Lee, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2073-4395/13/6/1630" target="_blank">VPBR: an Automatic and Low Cost Vision-based Biophysical Properties Recognition Pipeline for Pumpkin</a>, <i>Plants</i>, 13, July 2023. [<strong>IF</strong>: 4.5, Q1]
- <a class="pdflink" href="/public/papers/mdpi_2023.pdf" target="_blank">
+ <a class="pdflink" href="/public/papers/plants23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
@@ -63,12 +63,12 @@ Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Mo
  </a>
 </li>
 
-<li>
+<!-- <li>
 <b>L. Minh Dang</b>, Hanxiang Wang, Tri-Hai Nguyen, Lilia Tightiz, Liem Dinh Tien, Tan N. Nguyen, and Ngoc Phi Nguyen, <a href="https://www.sciencedirect.com/science/article/pii/S2352710223011555" target="_blank">CDD-TR: Automated concrete defect investigation using an improved deformable transformers</a>, <i>Journal of Building Engineering</i>, June 2023. [<strong>IF</strong>: 6.4, Q1]
  <a class="pdflink" href="/public/papers/JBE_2023.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>
+</li> -->
  
 <li>
 Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/v75n3/52555" target="_blank">Deep Learning Based Underground Sewer Defect Classification Using A Modified RegNet</a>, <i>Computers, Materials and Continua</i>, April 2023. [<strong>IF</strong>: 3.1, Q3]
@@ -91,12 +91,12 @@ Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b
  </a>
 </li>
 
-<li>
+<!-- <li>
 <b>L. Minh Dang</b>, <a href="https://www.mdpi.com/2079-9292/11/22/3773" target="_blank">Efficient Vision-Based Face Image Manipulation Identification Framework Based on Deep Learning</a>, <i>Electronics</i>, 17, November 2022. [<strong>IF</strong>: 2.9, Q2]
  <a class="pdflink" href="/public/papers/M_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>
+</li> -->
 
 
 <li>
@@ -216,12 +216,12 @@ Yesul Park, <b>L. Minh Dang</b>, Sujin Lee, Dongil Han, and Hyeonjoon Moon, <a h
  </a>
 </li>
 
-<li>
+<!-- <li>
 <b>L. Minh Dang</b>, Yanfen Li, Hanxiang Wang, and Tan N. Nguyen, <a href="https://link.springer.com/article/10.1007/s10462-021-10088-y" target="_blank">Explainable artificial intelligence: a comprehensive review</a>, <i>Artificial Intelligence Review</i>, 22, November 2021. [<strong>IF</strong>: 12, Q1]
  <a class="pdflink" href="/public/papers/XAI.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>
+</li> -->
 
 <li>
 Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.mdpi.com/1424-8220/21/12/4140" target="_blank">Robust Korean License Plate Recognition Based on Deep Neural Networks</a>, <i>Sensors</i>, Volume 21, 4140, December 2021. [<strong>IF</strong>: 3.9, Q2]
