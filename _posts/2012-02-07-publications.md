@@ -18,12 +18,21 @@ li{
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 <ol>
 
+
 <li>
 <b>L. Minh Dang</b>, Muhammad Nadeem, Tan N.Nguyen, Han Yong Park, O New Lee, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2073-4395/13/6/1630" target="_blank">VPBR: an Automatic and Low Cost Vision-based Biophysical Properties Recognition Pipeline for Pumpkin</a>, <i>Plants</i>, 13, July 2023. [<strong>IF</strong>: 4.5, Q1]
  <a class="pdflink" href="/public/papers/plants23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
+ 
+<li>
+Toan Khac Nguyen, <b>L. Minh Dang</b>, Truong-Dong Do, Jin Hee Lim, <a href="https://www.mdpi.com/2411-5134/8/3/76" target="_blank">The First Study of White Rust Disease Recognition by Using Deep Neural Networks and Raspberry Pi Module Application in Chrysanthemum</a>, <i>Inventions</i>, 31, May 2022. [<strong>IF</strong>: 3.1, Q1]
+ <a class="pdflink" href="/public/papers/toan23.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
 
 <li>
 Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2072-4292/15/14/3497" target="_blank">ORCNN-X: Attention-Driven Multiscale Network for Detecting Small Objects in Complex Aerial Scenes</a>, <i>Remote sensing</i>, 10, July 2023. [<strong>IF</strong>: 5, Q1]
