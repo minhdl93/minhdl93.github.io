@@ -18,6 +18,12 @@ li{
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 <ol>
 
+<li>
+Muhammad Nadeem, Naqqash Dilshad, Norah Saleh Alghamdi, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Junyoung Nam, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2624-6511/6/5/103" target="_blank">Visual Intelligence in Smart Cities: A Lightweight Deep Learning Model for Fire Detection in an IoT Environment</a>, <i>Smart cities</i>, 01, Agust 2023. [<strong>IF</strong>: 6.4, Q1]
+ <a class="pdflink" href="/public/papers/smartcity_23.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
 
 <li>
 <b>L. Minh Dang</b>, Muhammad Nadeem, Tan N.Nguyen, Han Yong Park, O New Lee, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2073-4395/13/6/1630" target="_blank">VPBR: an Automatic and Low Cost Vision-based Biophysical Properties Recognition Pipeline for Pumpkin</a>, <i>Plants</i>, 13, July 2023. [<strong>IF</strong>: 4.5, Q1]
@@ -25,6 +31,13 @@ li{
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
+
+<!-- <li>
+<b>L. Minh Dang</b>, <a href="https://www.mdpi.com/2079-9292/12/16/3407" target="_blank">Digital Face Manipulation Creation and Detection: A Systematic Review</a>, <i>Electronics</i>, 10, August 2023. [<strong>IF</strong>: 2.9, Q2]
+ <a class="pdflink" href="/public/papers/electronic_2023.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> -->
  
 <li>
 Toan Khac Nguyen, <b>L. Minh Dang</b>, Truong-Dong Do, Jin Hee Lim, <a href="https://www.mdpi.com/2411-5134/8/3/76" target="_blank">The First Study of White Rust Disease Recognition by Using Deep Neural Networks and Raspberry Pi Module Application in Chrysanthemum</a>, <i>Inventions</i>, 31, May 2022. [<strong>IF</strong>: 3.1, Q1]
