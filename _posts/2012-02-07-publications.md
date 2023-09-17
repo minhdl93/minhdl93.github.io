@@ -17,7 +17,7 @@ li{
 <h3>Disclaimer Notice: Please note that all the papers are archived for personal use only. And you are legally forbidden to reproduce or distribute them without explicit permission of the copyright holders.</h3>
 
 <h2 style="color:#1565c0">Patents</h2>
-KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, J<strong>L. Minh Dang</strong>, Deep learning-based sewerage defect detection method and apparatus. 10-2023-0023263. Feb 17, 2023. (DOI: 10.8080/1020210105228)
+KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L. Minh Dang</strong>, Deep learning-based sewerage defect detection method and apparatus. 10-2023-0023263. Feb 17, 2023. (DOI: 10.8080/1020210105228)
 
 
 
