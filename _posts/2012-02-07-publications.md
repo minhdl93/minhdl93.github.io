@@ -41,6 +41,14 @@ Muhammad Nadeem, Naqqash Dilshad, Norah Saleh Alghamdi, <b>L. Minh Dang</b>, Hyo
 </li>
 
 <!-- <li>
+Lilia Tightiz, <b>L. Minh Dang</b>, Joon Yoo, <a href="https://www.sciencedirect.com/science/article/pii/S111001682300861X" target="_blank">Novel deep deterministic policy gradient technique for automated micro-grid energy management in rural and islanded areas</a>, <i>Alexandria Engineering Journal</i>, 1, November 2023. [<strong>IF</strong>: 6.8, Q1]
+ <a class="pdflink" href="/public/papers/tightiz_2023.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> -->
+
+
+<!-- <li>
 <b>L. Minh Dang</b>, <a href="https://www.mdpi.com/2079-9292/12/16/3407" target="_blank">Digital Face Manipulation Creation and Detection: A Systematic Review</a>, <i>Electronics</i>, 10, August 2023. [<strong>IF</strong>: 2.9, Q2]
  <a class="pdflink" href="/public/papers/electronic_2023.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
