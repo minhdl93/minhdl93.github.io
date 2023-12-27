@@ -41,6 +41,13 @@ Muhammad Nadeem, Naqqash Dilshad, Norah Saleh Alghamdi, <b>L. Minh Dang</b>, Hyo
 </li>
 
 <!-- <li>
+Tri-Hai Nguyen, Luong Vuong Nguyen, <b>L. Minh Dang</b>, Vinh Truong Hoang, Laihyuk Park, <a href="https://www.mdpi.com/2072-4292/15/22/5284" target="_blank">TD3-Based Optimization Framework for RSMA-Enhanced UAV-Aided Downlink Communications in Remote Areas</a>, <i>Remote Sensing</i>, 1, November 2023. [<strong>IF</strong>: 5, Q1]
+ <a class="pdflink" href="/public/papers/hai_23.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> -->
+
+<!-- <li>
 Lilia Tightiz, <b>L. Minh Dang</b>, Joon Yoo, <a href="https://www.sciencedirect.com/science/article/pii/S111001682300861X" target="_blank">Novel deep deterministic policy gradient technique for automated micro-grid energy management in rural and islanded areas</a>, <i>Alexandria Engineering Journal</i>, 1, November 2023. [<strong>IF</strong>: 6.8, Q1]
  <a class="pdflink" href="/public/papers/tightiz_2023.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
