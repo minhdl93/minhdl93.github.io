@@ -27,6 +27,28 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
+<b>L. Minh Dang</b>,  Le Quan Nguyen, Junyoung Nam, Tan N Nguyen, Sujin Lee, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S2352484724000386" target="_blank">Fifth generation district heating and cooling: A comprehensive survey</a>, <i>Energy Reports</i>, 06, January 2024. [<strong>IF</strong>: 5.2, Q2]
+ <a class="pdflink" href="/public/papers/energyreport24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Sufyan Danish, Asfandyar Khan, <b>L. Minh Dang</b>, Mohammed Alonazi, Sultan Alanazi, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.mdpi.com/2078-2489/15/1/48" target="_blank">Metaverse Applications in Bioinformatics: A Machine Learning Framework for the Discrimination of Anti-Cancer Peptides</a>, <i>Information</i>, 15, January 2024. [<strong>IF</strong>: 3.1, Q2]
+ <a class="pdflink" href="/public/papers/information_24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Le Quan Nguyen, Jihye Shin, Sanghuyn Ryu, <b>L. Minh Dang</b>, Han Yong Park, O New Lee, Hyeonjoon Moon, <a href="https://www.mdpi.com/2079-9292/12/23/4775" target="_blank">Innovative Cucumber Phenotyping: A Smartphone-Based and Data-Labeling-Free Model</a>, <i>Electronics</i>, 25, November 2023. [<strong>IF</strong>: 2.9, Q2]
+ <a class="pdflink" href="/public/papers/electronicquan_23.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
 Muhammad Nadeem, Naqqash Dilshad, Norah Saleh Alghamdi, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Junyoung Nam, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2624-6511/6/5/103" target="_blank">Visual Intelligence in Smart Cities: A Lightweight Deep Learning Model for Fire Detection in an IoT Environment</a>, <i>Smart cities</i>, 01, Agust 2023. [<strong>IF</strong>: 6.4, Q1]
  <a class="pdflink" href="/public/papers/smartcity_23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
