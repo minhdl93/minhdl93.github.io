@@ -26,6 +26,13 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 <ol>
 
+<!-- <li>
+<b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Tri-Hai Nguyen, Lilia Tightiz, Nguyen Xuan-Mung, and Tan N. Nguyen, <a href="https://link.springer.com/article/10.1007/s12229-024-09299-z" target="_blank">Computer Vision for Plant Disease Recognition: A Comprehensive Review</a>, <i>The Botanical Review</i>, 05, March 2024. [<strong>IF</strong>: 4.0, Q1]
+ <a class="pdflink" href="/public/papers/minhbotanical_2024.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> -->
+
 <li>
 <b>L. Minh Dang</b>,  Le Quan Nguyen, Junyoung Nam, Tan N Nguyen, Sujin Lee, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S2352484724000386" target="_blank">Fifth generation district heating and cooling: A comprehensive survey</a>, <i>Energy Reports</i>, 06, January 2024. [<strong>IF</strong>: 5.2, Q2]
  <a class="pdflink" href="/public/papers/energyreport24.pdf" target="_blank">
@@ -33,6 +40,27 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
  </a>
 </li>
 
+<li>
+A. S. M. Sharifuzzaman Sagar, Jawad Tanveer, Yu Chen, <b>L. Minh Dang</b>, Amir Haider, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.mdpi.com/2072-4292/16/5/925" target="_blank">BayesNet: Enhancing UAV-Based Remote Sensing Scene Understanding with Quantifiable Uncertainties</a>, <i>Remote Sensing </i>, 23, February 2024. [<strong>IF</strong>: 5.0, Q1]
+ <a class="pdflink" href="/public/papers/chen_2024.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Asma Khan, Sharaf J. Malebary, <b>L. Minh Dang</b>, Faisal Binzagr, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.mdpi.com/2223-7747/13/5/653" target="_blank">AI-Enabled Crop Management Framework for Pest Detection Using Visual Sensor Data</a>, <i>Plants</i>, 27, January 2024. [<strong>IF</strong>: 4.5, Q1]
+ <a class="pdflink" href="/public/papers/asma_2024.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Muhammad Fayaz, Junyoung Nam, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.mdpi.com/2076-3417/14/5/1844" target="_blank">	Land-Cover Classification Using Deep Learning with High-Resolution Remote-Sensing Imagery</a>, <i>Applied Sciences</i>, 23, February 2024. [<strong>IF</strong>: 2.7, Q2]
+ <a class="pdflink" href="/public/papers/fayaz_2024.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
 
 <li>
 Sufyan Danish, Asfandyar Khan, <b>L. Minh Dang</b>, Mohammed Alonazi, Sultan Alanazi, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.mdpi.com/2078-2489/15/1/48" target="_blank">Metaverse Applications in Bioinformatics: A Machine Learning Framework for the Discrimination of Anti-Cancer Peptides</a>, <i>Information</i>, 15, January 2024. [<strong>IF</strong>: 3.1, Q2]

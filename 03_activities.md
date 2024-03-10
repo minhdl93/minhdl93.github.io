@@ -13,26 +13,35 @@ title: Professional Activities
 
 </style>
 
-<h1>Editor</h1>
+<!-- <h1>Editor</h1>
 <b>Scienxt Journal of Civil Engineering (SJCE)</b>
 <p>Link: <a href="http://scienxt.com/scienxt-journal-of-civil-engineeringsjoce-2/" target="_blank">http://scienxt.com/scienxt-journal-of-civil-engineeringsjoce-2/</a> </p>
 <div style="margin-top: 10px;">   <img  src="/public/pictures/si2.png"></div>
 
-<br/>
+<br/> -->
 
 
 <h1>Guest Editor</h1>
 
 <b>Electronics</b>
-<p>Link: <a href="https://www.mdpi.com/journal/electronics/special_issues/Visual_Object_Detection" target="_blank">https://www.mdpi.com/journal/electronics/special_issues/Visual_Object_Detection</a> </p>
-<div style="margin-top: 10px;">   <img  src="/public/pictures/si1.jpg"></div>
+<p>Link: <a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank">https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE</a> </p>
+<div style="margin-top: 10px;">   <img  src="/public/pictures/si3.png"></div>
 
 <br/>
  
+ <b>Applied Sciences</b>
+<p>Link: <a href="https://www.mdpi.com/journal/applsci/special_issues/89394W0M64" target="_blank">https://www.mdpi.com/journal/applsci/special_issues/89394W0M64</a> </p>
+<div style="margin-top: 10px;">   <img  src="/public/pictures/si4.png"></div>
  
 <ol><h1>Journal Referee</h1>
+<li>IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024 (1)</li>
+<li>IEEE Sensors Journal, 2023 (1)</li>
+<li>Journal of Building Engineering, 2023 (1)</li>
+<li>Science of the Total Environment, 2023 (1)</li>
+<li>Applied Intelligence, 2023 (2)</li>
+<li>Pattern Recognition, 2023 (1)</li>
 <li>IEEE Transactions on Neural Networks and Learning Systems, 2022 (1)</li>
-<li>Expert Systems with Applications, 2021 (2)</li>
+<li>Expert Systems with Applications, 2021 (2), 2023 (2)</li>
 <li>Scientific Reports, 2021 (3)</li>
 <li>Computer Methods and Programs in Biomedicine, 2021 (1)</li>
 <li>Journal of Information Security and Applications, 2021 (1)</li>
@@ -48,7 +57,7 @@ title: Professional Activities
 <li>IEEE Access, 2019 (2), 2020 (1)</li>
 <li>Journal of Computational Science, 2016 (2)</li>
 
- <a id="test" href="https://publons.com/researcher/1879733/minh-l-dang/" target="_blank">
+ <a id="test" href="https://www.webofscience.com/wos/author/record/1293086" target="_blank">
         <div class="icon-box">   <img style="width:75px!important;" src="/public/pictures/publons.png"> 
 </div>
  </a>
