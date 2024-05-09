@@ -34,6 +34,13 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 </li> -->
 
 <li>
+Tri-Hai Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S1364815224001269" target="_blank">Automated marine litter investigation for underwater images using a zero-shot pipeline</a>, <i>Environmental Modelling & Software</i>, 08, May 2024. [<strong>IF</strong>: 4.9, Q1]
+ <a class="pdflink" href="/public/papers/env24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
+<li>
 <b>L. Minh Dang</b>,  Le Quan Nguyen, Junyoung Nam, Tan N Nguyen, Sujin Lee, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S2352484724000386" target="_blank">Fifth generation district heating and cooling: A comprehensive survey</a>, <i>Energy Reports</i>, 06, January 2024. [<strong>IF</strong>: 5.2, Q2]
  <a class="pdflink" href="/public/papers/energyreport24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -46,6 +53,14 @@ A. S. M. Sharifuzzaman Sagar, Jawad Tanveer, Yu Chen, <b>L. Minh Dang</b>, Amir 
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
+
+<li>
+Wenqi Zhang, <b>L. Minh Dang</b>, Le Quan Nguyen, Nur Alam, Ngoc Dung Bui, Han Yong Park, Hyeonjoon Moon, <a href="https://www.mdpi.com/2311-7524/10/4/398" target="_blank">Adapting the Segment Anything Model for Plant Recognition and Automated Phenotypic Parameter Measurement</a>, <i>Horticulturae</i>, 23, April 2024. [<strong>IF</strong>: 3.1, Q1]
+ <a class="pdflink" href="/public/papers/wenqi24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
 
 
 <li>
