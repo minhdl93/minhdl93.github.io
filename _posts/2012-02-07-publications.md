@@ -34,7 +34,7 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 </li> -->
 
 <li>
-<b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005143" target="_blank">PD-TR: End-to-end Plant Diseases Detection using a Transformer</a>, <i>Computers and Electronics in Agriculture</i>, 01, June 2024. [<strong>IF</strong>: 8.3, Q1]
+Hanxiang Wang, Tri-Hai Nguyen, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005143" target="_blank">PD-TR: End-to-end Plant Diseases Detection using a Transformer</a>, <i>Computers and Electronics in Agriculture</i>, 01, June 2024. [<strong>IF</strong>: 8.3, Q1]
  <a class="pdflink" href="/public/papers/compag_24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
