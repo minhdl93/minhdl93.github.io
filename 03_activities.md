@@ -28,6 +28,11 @@ title: Professional Activities
 <h1>Guest Editor</h1>
 <h2>Active SI</h2>
 <ul>
+<li>
+ <b>Discover Internet of Things</b>
+<p><a href="https://link.springer.com/collections/hejdfeiibb" target="_blank">Advancing Healthcare through the Internet of Things: Innovations, Challenges, and Opportunities</a></p>
+<p>Deadline for submission: 30 November 2024</p>
+ </li>
  <li>
  <b>Electronics</b>
 <p><a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank">Novel Methods for Object Detection and Segmentation</a></p>
