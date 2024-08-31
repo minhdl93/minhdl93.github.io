@@ -38,10 +38,10 @@ title: Professional Activities
 <p><a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank">Novel Methods for Object Detection and Segmentation</a></p>
 <p>Deadline for submission: 15 February 2025</p>
  </li>
+  <li>
  <b>Applied Sciences</b>
 <p><a href="https://www.mdpi.com/journal/applsci/special_issues/797D3UNV6L" target="_blank">State-of-the-Art of Computer Vision and Pattern Recognition, 2nd Edition</a> </p>
 <p>Deadline for submission: 28 February 2025</p>
- <li>
  </li>
  <li>
  <b>Computers, Materials & Continua</b>
