@@ -18,13 +18,14 @@ title: Research
 <li>
   <b>Development of Disaster Response AI-Based Digital Twin Integrated Platform for National Architectural Cultural Heritages</b>
   <div style="margin-top: 10px; width:835px;height:400px;">   <img  src="/public/pictures/minhproject24.png"></div>
+  <br/><br/>
 	<ul>
 	<li>Development of data collection, preprocessing, and optimization technology for cultural heritage image processing</li>
 	<li>Development of data analysis and disaster detection systems</li>
 	<li>Development of explainable AI (XAI) models for disaster and hazard detection and explanation</li>
   </ul>
   
-  </li>
+</li>
   
   <li>
   <b>Smart parking and vehicle tracking project</b>
