@@ -20,20 +20,47 @@ title: Professional Activities
 
 <br/> -->
 
+<h1>Editorial Board</h1>
+<b>Computers, Materials & Continua</b>
+
+<br/>
 
 <h1>Guest Editor</h1>
-
+<h2>Active SI</h2>
 <b>Electronics</b>
-<p>Link: <a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank">https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE</a> </p>
-<div style="margin-top: 10px;">   <img  src="/public/pictures/si3.png"></div>
+<p<a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank"></a>Novel Methods for Object Detection and Segmentation</p>
+<p>Deadline for submission: 15 February 2025</p>
+# <div style="margin-top: 10px;">   <img  src="/public/pictures/si3.png"></div>
 
 <br/>
  
  <b>Applied Sciences</b>
-<p>Link: <a href="https://www.mdpi.com/journal/applsci/special_issues/89394W0M64" target="_blank">https://www.mdpi.com/journal/applsci/special_issues/89394W0M64</a> </p>
-<div style="margin-top: 10px;">   <img  src="/public/pictures/si4.png"></div>
+<p>Link: <a href="https://www.mdpi.com/journal/applsci/special_issues/797D3UNV6L" target="_blank"></a>State-of-the-Art of Computer Vision and Pattern Recognition, 2nd Edition </p>
+<p>Deadline for submission: 28 February 2025</p>
+# <div style="margin-top: 10px;">   <img  src="/public/pictures/si4.png"></div>
+
+<br/>
  
-<ol><h1>Journal Referee</h1>
+ <b>Computers, Materials & Continua</b>
+<p>Link: <a href="https://www.techscience.com/cmc/special_detail/image_classification" target="_blank"></a>Novel Methods for Image Classification, Object Detection, and Segmentation </p>
+<p>Deadline for submission: 30 June 2025</p>
+
+<br/>
+ 
+ <b>Computers, Materials & Continua</b>
+<p>Link: <a href="https://www.techscience.com/cmc/special_detail/image_processing" target="_blank"></a>New Trends in Image Processing </p>
+<p>Deadline for submission: 01 August 2025</p>
+ 
+ <h2>Closed SI</h2>
+ <ul>
+ <li><a href="https://www.mdpi.com/journal/applsci/special_issues/89394W0M64" target="_blank">MDPI Applied Sciences: State-of-the-Art of Computer Vision and Pattern Recognition</a></li>
+ <li></li>
+ </ul>
+ 
+
+<h1>Journal Referee</h1>
+<ol>
+<li>Journal of Industrial Information Integration, 2024 (1)</li>
 <li>IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024 (1)</li>
 <li>IEEE Sensors Journal, 2023 (1)</li>
 <li>Journal of Building Engineering, 2023 (1)</li>

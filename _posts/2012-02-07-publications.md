@@ -34,6 +34,20 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 </li> -->
 
 <li>
+<b>L. Minh Dang</b>, Sufyan Danish, Asma Khan, Nur Alam, Muhammad Fayaz, Dinh Khuong Nguyen, Hyoung-Kyu Song and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005143" target="_blank">An Efficient Zero-labeling Segmentation Approach for Pest Monitoring on Smartphone-based Images</a>, <i>European Journal of Agronomy</i>, 01, September 2024. [<strong>IF</strong>: 4.5, Q1]
+ <a class="pdflink" href="/public/papers/european_24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
+<li>
+Lilia Tightiz, <b>L. Minh Dang</b>, Sanjeevikumar Padmanaban, Kyeon Hur, <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005143" target="_blank">Metaverse-driven smart grid architecture</a>, <i>Energy Reports</i>, 20, August 2024. [<strong>IF</strong>: 5.2, Q2]
+ <a class="pdflink" href="/public/papers/lilia_24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
+<li>
 Hanxiang Wang, Tri-Hai Nguyen, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005143" target="_blank">PD-TR: End-to-end Plant Diseases Detection using a Transformer</a>, <i>Computers and Electronics in Agriculture</i>, 01, June 2024. [<strong>IF</strong>: 8.3, Q1]
  <a class="pdflink" href="/public/papers/compag_24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
