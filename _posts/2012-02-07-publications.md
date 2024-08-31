@@ -41,7 +41,7 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 </li> 
 
 <li>
-Lilia Tightiz, <b>L. Minh Dang</b>, Sanjeevikumar Padmanaban, Kyeon Hur, <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005143" target="_blank">Metaverse-driven smart grid architecture</a>, <i>Energy Reports</i>, 20, August 2024. [<strong>IF</strong>: 5.2, Q2]
+Lilia Tightiz, <b>L. Minh Dang</b>, Sanjeevikumar Padmanaban, Kyeon Hur, <a href="https://www.sciencedirect.com/science/article/pii/S2352484724005183" target="_blank">Metaverse-driven smart grid architecture</a>, <i>Energy Reports</i>, 20, August 2024. [<strong>IF</strong>: 5.2, Q2]
  <a class="pdflink" href="/public/papers/lilia_24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
