@@ -15,13 +15,24 @@ title: Research
 </style>
 <h2 style="color:#1565c0">Research Projects</h2>
 <ol >
+<li>
+  <b>Development of Disaster Response AI-Based Digital Twin Integrated Platform for National Architectural Cultural Heritages</b>
+  <div style="margin-top: 10px; width:835px;height:400px;">   <img  src="/public/pictures/minhproject24.png"></div>
+	<ul>
+	<li>Development of data collection, preprocessing, and optimization technology for cultural heritage image processing</li>
+	<li>Development of data analysis and disaster detection systems</li>
+	<li>Development of explainable AI (XAI) models for disaster and hazard detection and explanation</li>
+  </ul>
+  
+  </li>
+  
   <li>
   <b>Smart parking and vehicle tracking project</b>
   <div style="margin-top: 10px; width:835px;height:400px;">   <img  src="/public/pictures/smartcity.png"></div>
 	<ul>
 	<li>Propose AI model that performs dehazing, low-light enhancement, and superpixel on livestream CCTV</li>
 	<li>Introduce automatic license plate recognition model with the recognition rate of over 95%</li>
-	<li>Research and develop a software that supports vehicle tracking and smart parking.</li>
+	<li>Research and develop a software that supports vehicle tracking and smart parking</li>
   </ul>
   
   </li>
