@@ -14,7 +14,10 @@ images:
     text: Seminar at FPT University, Hanoi, Vietnam (2024).
   - name: KakaoTalk_20240831_153442776.jpg
     thumb: KakaoTalk_20240831_153442776.jpg
-    text: Summer Annual Conference of IEIE (2024).
+    text: Summer Annual Conference of IEIE, Jeju, South Korea (2024).
+  - name: 20240426_115652.jpg
+    thumb: 20240426_115652.jpg
+    text: Spring Conference of the Korean Society for the Next Generation Computing, Chungju, South Korea (2024).
   - name: 20231012_075423.jpg
     thumb: 20231012_075423.jpg
     text: 14th International Conference on ICT Convergence, Jeju, South Korea (2023).
@@ -44,7 +47,7 @@ images:
     text: Korean KIIP program, Seoul (2018).
   - name: jeju_conf2018.JPG
     thumb: jeju_conf2018.JPG
-    text: Conference in Jeju Hallah University, Jeju, South Korea (2018).
+    text: Spring Conference of the Korean Society for the Next Generation Computing, Jeju, South Korea (2018).
   - name: professor_meeting.JPG
     thumb: professor_meeting.JPG
     text: Memorable moment with Professors of Sejong University (2017).

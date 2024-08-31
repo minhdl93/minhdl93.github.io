@@ -27,29 +27,42 @@ title: Professional Activities
 
 <h1>Guest Editor</h1>
 <h2>Active SI</h2>
-<b>Electronics</b>
+<ul>
+ <li>
+ <b>Electronics</b>
 <p><a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank">Novel Methods for Object Detection and Segmentation</a></p>
 <p>Deadline for submission: 15 February 2025</p>
-<!-- <div style="margin-top: 10px;">   <img  src="/public/pictures/si3.png"></div>  -->
-
-<br/>
- 
+ </li>
  <b>Applied Sciences</b>
 <p><a href="https://www.mdpi.com/journal/applsci/special_issues/797D3UNV6L" target="_blank">State-of-the-Art of Computer Vision and Pattern Recognition, 2nd Edition</a> </p>
 <p>Deadline for submission: 28 February 2025</p>
-<!-- <div style="margin-top: 10px;">   <img  src="/public/pictures/si4.png"></div>-->
-
-<br/>
- 
+ <li>
+ </li>
+ <li>
  <b>Computers, Materials & Continua</b>
 <p><a href="https://www.techscience.com/cmc/special_detail/image_classification" target="_blank">Novel Methods for Image Classification, Object Detection, and Segmentation </a></p>
 <p>Deadline for submission: 30 June 2025</p>
-
-<br/>
- 
- <b>Computers, Materials & Continua</b>
+</li>
+ <li>
+  <b>Computers, Materials & Continua</b>
 <p><a href="https://www.techscience.com/cmc/special_detail/image_processing" target="_blank">New Trends in Image Processing</a> </p>
 <p>Deadline for submission: 01 August 2025</p>
+</li>
+ </ul>
+
+<!-- <div style="margin-top: 10px;">   <img  src="/public/pictures/si3.png"></div>  -->
+
+
+ 
+ 
+<!-- <div style="margin-top: 10px;">   <img  src="/public/pictures/si4.png"></div>-->
+
+
+ 
+ 
+
+
+
  <br/>
  
  <h2>Closed SI</h2>
