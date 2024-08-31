@@ -18,7 +18,7 @@ title: Research
 <li>
   <b>Development of Disaster Response AI-Based Digital Twin Integrated Platform for National Architectural Cultural Heritages</b>
   <div style="margin-top: 10px; width:835px;height:400px;">   <img  src="/public/pictures/minhproject24.png"></div>
-  <br/><br/>
+  <br/><br/><br/><br/>
 	<ul>
 	<li>Development of data collection, preprocessing, and optimization technology for cultural heritage image processing</li>
 	<li>Development of data analysis and disaster detection systems</li>
