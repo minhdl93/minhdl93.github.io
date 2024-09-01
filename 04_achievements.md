@@ -4,21 +4,54 @@ title: Experiences
 ---
 
 <style type="'text/css'">
-	li{
-
-		background: #fefefe;
-	}
-  p{
-
-    font-family: "Times New Roman", Times, serif;
-    text-align: justify!important;
-    color:#000;
-
+	 body {
+    color: #333;
+    line-height: 1.6;
   }
 
+  h1, h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-top: 30px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+    color: #1565c0;
+  }
+
+  ul {
+    padding-left: 20px;
+    margin-bottom: 20px;
+    list-style-type: none;
+  }
+
+  ul li {
+    background: #fefefe;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  ul li b {
+    color: #2c3e50;
+  }
+
+  p {
+    font-family: "Times New Roman", Times, serif;
+    text-align: justify;
+    color: #000;
+    margin: 5px 0 0 0;
+  }
 </style>
 
-<h2 style="color:#1565c0"> Research Experiences </h2>
+<h2> Research Experiences </h2>
 <ul>
 
 <li> <b>[03/2017 -- Present] Researcher at Computer vision and pattern recognition lab, Sejong University</b>
@@ -51,7 +84,7 @@ title: Experiences
 
 </ul>
 
-<h2 style="color:#1565c0"> Employment Record </h2>
+<h2> Employment Record </h2>
 <ul>
 <li> <b>[08/2021 -- Present] Research professor, Sejong University</b>
   <p>
