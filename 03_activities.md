@@ -13,8 +13,8 @@ title: Professional Activities
 
   h1, h2 {
 
-    color: #2c3e50;
-    border-bottom: 2px solid #3498db;
+    color: #1565c0;
+    
     padding-bottom: 5px;
     margin-top: 30px;
   }
@@ -25,6 +25,7 @@ title: Professional Activities
 
   h2 {
     font-size: 1.5em;
+    color: #1565c0;
   }
 
   ul, ol {

@@ -10,8 +10,8 @@ title: Experiences
   }
 
   h1, h2 {
-    color: #2c3e50;
-    border-bottom: 2px solid #3498db;
+    color: #1565c0;
+
     padding-bottom: 5px;
     margin-top: 30px;
   }
@@ -33,10 +33,8 @@ title: Experiences
 
   ul li {
     background: #fefefe;
-    padding: 15px;
     margin-bottom: 10px;
     border-radius: 5px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
 
   ul li b {
