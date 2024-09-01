@@ -4,12 +4,65 @@ title: Professional Activities
 
 ---
 
-<style type="'text/css'">
-     li{
-        font-family: "Times New Roman", Times, serif;
-        text-align: justify!important;
-        display:block;
-     }
+<style type="text/css">
+  body {
+    font-family: "Georgia", serif;
+    color: #333;
+    line-height: 1.6;
+  }
+
+  h1, h2 {
+    font-family: "Helvetica", sans-serif;
+    color: #2c3e50;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+    margin-top: 30px;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  ul, ol {
+    padding-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  ul li, ol li {
+    font-family: "Times New Roman", Times, serif;
+    text-align: justify;
+    margin-bottom: 10px;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: #2980b9;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .icon-box {
+    display: inline-block;
+    margin-top: 20px;
+  }
+
+  .icon-box img {
+    transition: transform 0.3s ease;
+  }
+
+  .icon-box img:hover {
+    transform: scale(1.1);
+  }
 
 </style>
 
