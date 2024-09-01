@@ -51,7 +51,7 @@ title: Experiences
   }
 </style>
 
-<h2> Research Experiences </h2>
+<h1> Research Experiences </h1>
 <ul>
 
 <li> <b>[03/2017 -- Present] Researcher at Computer vision and pattern recognition lab, Sejong University</b>
@@ -84,7 +84,7 @@ title: Experiences
 
 </ul>
 
-<h2> Employment Record </h2>
+<h1> Employment Record </h1>
 <ul>
 <li> <b>[08/2021 -- Present] Research professor, Sejong University</b>
   <p>
