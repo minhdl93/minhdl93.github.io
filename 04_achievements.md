@@ -3,15 +3,15 @@ layout: page
 title: Experiences
 ---
 
-<style type="'text/css'">
-	 body {
+<style type="text/css">
+   body {
     color: #333;
     line-height: 1.6;
   }
 
   h1, h2 {
     color: #2c3e50;
-    border-bottom: 2px solid #3498db!important;
+    border-bottom: 2px solid #3498db;
     padding-bottom: 5px;
     margin-top: 30px;
   }
