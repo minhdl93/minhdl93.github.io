@@ -6,13 +6,13 @@ title: Professional Activities
 
 <style type="text/css">
   body {
-    font-family: "Georgia", serif;
+
     color: #333;
     line-height: 1.6;
   }
 
   h1, h2 {
-    font-family: "Helvetica", sans-serif;
+
     color: #2c3e50;
     border-bottom: 2px solid #3498db;
     padding-bottom: 5px;
@@ -33,7 +33,7 @@ title: Professional Activities
   }
 
   ul li, ol li {
-    font-family: "Times New Roman", Times, serif;
+
     text-align: justify;
     margin-bottom: 10px;
   }
