@@ -11,7 +11,7 @@ title: Experiences
 
   h1, h2 {
     color: #2c3e50;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 2px solid #3498db!important;
     padding-bottom: 5px;
     margin-top: 30px;
   }
@@ -51,7 +51,7 @@ title: Experiences
   }
 </style>
 
-<h1> Research Experiences </h1>
+<h2> Research Experiences </h2>
 <ul>
 
 <li> <b>[03/2017 -- Present] Researcher at Computer vision and pattern recognition lab, Sejong University</b>
@@ -84,7 +84,7 @@ title: Experiences
 
 </ul>
 
-<h1> Employment Record </h1>
+<h2> Employment Record </h2>
 <ul>
 <li> <b>[08/2021 -- Present] Research professor, Sejong University</b>
   <p>
