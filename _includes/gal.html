@@ -1,46 +1,78 @@
 
 <style type="text/css">
-	
-body{
-  	/*background-color:  #212121;*/
-}
+    /* Reset some default styles */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
-.wrapper {
-  display: grid;
-  grid-template-columns:500px 500px 500px;
-  grid-gap: 10px;
+    body {
+      background-color: #f0f2f5; /* Light background for better contrast */
+      font-family: 'Arial', sans-serif;
+      padding: 20px;
+    }
 
- 
-}
+    .wrapper {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
 
-.box {
-  /*background-color: #444;*/
-  width: 500px;
-	height: 100%;
-  color: #fff;
-  border-radius: 19px;
+    .box {
+      background-color: #ffffff;
+      border-radius: 15px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
 
-  font-size: 150%;
-}
-  img{
-	width: 500px;
-	height: 300px;
-}
+    .box:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 12px 20px rgba(0, 0, 0, 0.2);
+    }
 
-</style>
-<div class="wrapper">
-	{% for image in page.images %}
-	{% if include.image == null or include.image == image.name %}
-	<div class="box a">
-			<a href="{{ page.imgfolder }}/{{ image.name }}"
-			 data-lightbox="1" title="{{ image.text }}">
-			 <img src="{{ page.imgfolder }}/{{ image.thumb }}" 
-			 title="{{ image.text }}">
-	 </a>		
-	</div>
+    .box a {
+      display: block;
+      text-decoration: none;
+      color: inherit;
+    }
 
-	{% endif %}
-	{% endfor %}
+    .box img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    .box:hover img {
+      transform: scale(1.05);
+    }
+
+    /* Optional: Caption styling */
+    .caption {
+      padding: 15px;
+      text-align: center;
+      font-size: 1em;
+      color: #333333;
+    }
+  </style>
+  <div class="wrapper">
+    {% for image in page.images %}
+      {% if include.image == null or include.image == image.name %}
+        <div class="box">
+          <a href="{{ page.imgfolder }}/{{ image.name }}" data-lightbox="gallery" title="{{ image.text }}">
+            <img src="{{ page.imgfolder }}/{{ image.thumb }}" alt="{{ image.text }}">
+          </a>
+          {% if image.text %}
+            <div class="caption">{{ image.text }}</div>
+          {% endif %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 
 
-</div>
+
