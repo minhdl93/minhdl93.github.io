@@ -34,18 +34,47 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 </li> -->
 
 <li>
-<b>L. Minh Dang</b>, Sufyan Danish, Asma Khan, Nur Alam, Muhammad Fayaz, Dinh Khuong Nguyen, Hyoung-Kyu Song and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005143" target="_blank">An Efficient Zero-labeling Segmentation Approach for Pest Monitoring on Smartphone-based Images</a>, <i>European Journal of Agronomy</i>, 01, September 2024. [<strong>IF</strong>: 4.5, Q1]
+<b>L. Minh Dang</b>, Sufyan Danish, Asma Khan, Nur Alam, Muhammad Fayaz, Dinh Khuong Nguyen, Hyoung-Kyu Song and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S1161030124002521" target="_blank">An Efficient Zero-labeling Segmentation Approach for Pest Monitoring on Smartphone-based Images</a>, <i>European Journal of Agronomy</i>, 01, September 2024. [<strong>IF</strong>: 4.5, Q1]
  <a class="pdflink" href="/public/papers/european_24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li> 
 
 <li>
-Lilia Tightiz, <b>L. Minh Dang</b>, Sanjeevikumar Padmanaban, Kyeon Hur, <a href="https://www.sciencedirect.com/science/article/pii/S2352484724005183" target="_blank">Metaverse-driven smart grid architecture</a>, <i>Energy Reports</i>, 20, August 2024. [<strong>IF</strong>: 5.2, Q2]
+Lilia Tightiz, <b>L. Minh Dang</b>, Sanjeevikumar Padmanaban, and Kyeon Hur, <a href="https://www.sciencedirect.com/science/article/pii/S2352484724005183" target="_blank">Metaverse-driven smart grid architecture</a>, <i>Energy Reports</i>, 20, August 2024. [<strong>IF</strong>: 5.2, Q2]
  <a class="pdflink" href="/public/papers/lilia_24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li> 
+
+<li>
+Le Quan Nguyen, Jinwoo Choi, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0262885624004001" target="_blank">Background debiased class incremental learning for video action recognition</a>, <i>Image and Vision Computing</i>, 06, October 2024. [<strong>IF</strong>: 4.2, Q1]
+ <a class="pdflink" href="/public/papers/quan_24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
+<li>
+Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="#" target="_blank"> Enhancing Land Cover Classification via Deep Ensemble Network</a>, <i>Knowledge-based system</i>, 06, October 2024. [<strong>IF</strong>: 7.2, Q1]
+ <a class="pdflink" href="/public/papers/quan_24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
+<li>
+Arailym Dosset, <b>L. Minh Dang</b>, Faisal Alharbi, Shabana Habib, Nur Alam, Ngoc Dung Bui, Han Yong Park and Hyeonjoon Moon, <a href="#" target="_blank">CDDNet: Cassava Disease Detection Using Lightweight Modified Soft Attention Network</a>, <i>Pest Management Science</i>, 06, October 2024. [<strong>IF</strong>: 4.1, Q1]
+ <a class="pdflink" href="/public/papers/quan_24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
+<li>
+Nur Alam, A S M Sharifuzzaman Sagar, Wenqi Zhang, Han Yong Park, and Hyeonjoon Moon, <a href="#" target="_blank">Deep Learning Based Radish and Leaf Segmentation for Phenotype Trait Measurement</a>, <i>Signal, Image and Video Processing</i>, 06, October 2024. [<strong>IF</strong>: 2.0, Q3]
+ <a class="pdflink" href="/public/papers/quan_24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
 
 <li>
 Hanxiang Wang, Tri-Hai Nguyen, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0168169924005143" target="_blank">PD-TR: End-to-end Plant Diseases Detection using a Transformer</a>, <i>Computers and Electronics in Agriculture</i>, 01, June 2024. [<strong>IF</strong>: 8.3, Q1]
@@ -91,8 +120,15 @@ Asma Khan, Sharaf J. Malebary, <b>L. Minh Dang</b>, Faisal Binzagr, Hyoung-Kyu S
  </a>
 </li>
 
+<li>
+Wenqi Zhang, <b>L. Minh Dang</b>, Le Quan Nguyen, Nur Alam, Ngoc Dung Bui, Han Yong Park, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2311-7524/10/4/398" target="_blank">Adapting Segment Anything Model for Plant Fruit Recognition and Automated Phenotypic Parameter Measurement</a>, <i>Agronomy</i>, 27, March 2024. [<strong>IF</strong>: 3.7, Q1]
+ <a class="pdflink" href="/public/papers/wenqi_24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
 <!-- <li>
-Nggoc Dung Bui, <b>L. Minh Dang</b>, Tran Hieu Nguyen, <a href="https://www.mdpi.com/2079-9292/13/7/1241" target="_blank">	Damage Detection in Structural Health Monitoring Using an Integrated ANNIRSA Approach</a>, <i>Electronics</i>, 27, March 2024. [<strong>IF</strong>: 2.9, Q2]
+Ngoc Dung Bui, <b>L. Minh Dang</b>, Tran Hieu Nguyen, <a href="https://www.mdpi.com/2079-9292/13/7/1241" target="_blank">	Damage Detection in Structural Health Monitoring Using an Integrated ANNIRSA Approach</a>, <i>Electronics</i>, 27, March 2024. [<strong>IF</strong>: 2.9, Q2]
  <a class="pdflink" href="/public/papers/dung_2024.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
