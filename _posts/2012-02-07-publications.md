@@ -55,8 +55,8 @@ Le Quan Nguyen, Jinwoo Choi, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="h
 </li> 
 
 <li>
-Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="#" target="_blank"> Enhancing Land Cover Classification via Deep Ensemble Network</a>, <i>Knowledge-based system</i>, 06, October 2024. [<strong>IF</strong>: 7.2, Q1]
- <a class="pdflink" href="/public/papers/quan_24.pdf" target="_blank">
+Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0950705124012450" target="_blank"> Enhancing Land Cover Classification via Deep Ensemble Network</a>, <i>Knowledge-based system</i>, 06, October 2024. [<strong>IF</strong>: 7.2, Q1]
+ <a class="pdflink" href="/public/papers/fayaz_24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li> 
@@ -296,7 +296,7 @@ Toan Khac Nguyen, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon, and Jin 
 
 <li>
 <b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Tan N.Nguyen, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0950061822002744" target="_blank">DefectTR: End-to-end Defect Detection for Sewage Networks using a Transformer</a>, <i>Construction and Building Materials</i>, 325, February 2022. [<strong>IF</strong>: 7.4, Q1]
- <a class="pdflink" href="/public/papers/cbm_2022.pdf" target="_blank">
+ <a class="pdflink" href="/public/papers/cbm_20221.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
