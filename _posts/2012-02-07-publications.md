@@ -62,8 +62,8 @@ Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sc
 </li> 
 
 <li>
-Arailym Dosset, <b>L. Minh Dang</b>, Faisal Alharbi, Shabana Habib, Nur Alam, Ngoc Dung Bui, Han Yong Park and Hyeonjoon Moon, <a href="#" target="_blank">CDDNet: Cassava Disease Detection Using Lightweight Modified Soft Attention Network</a>, <i>Pest Management Science</i>, 06, October 2024. [<strong>IF</strong>: 4.1, Q1]
- <a class="pdflink" href="/public/papers/quan_24.pdf" target="_blank">
+Arailym Dosset, <b>L. Minh Dang</b>, Faisal Alharbi, Shabana Habib, Nur Alam, Ngoc Dung Bui, Han Yong Park and Hyeonjoon Moon, <a href="https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ps.8456" target="_blank">CDDNet: Cassava Disease Detection Using Lightweight Modified Soft Attention Network</a>, <i>Pest Management Science</i>, 06, October 2024. [<strong>IF</strong>: 4.1, Q1]
+ <a class="pdflink" href="/public/papers/arai_24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li> 
