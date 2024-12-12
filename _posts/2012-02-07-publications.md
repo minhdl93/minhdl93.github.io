@@ -115,7 +115,6 @@ Wenqi Zhang, <b>L. Minh Dang</b>, Le Quan Nguyen, Nur Alam, Ngoc Dung Bui, Han Y
 </li>
 
 
-
 <li>
 Asma Khan, Sharaf J. Malebary, <b>L. Minh Dang</b>, Faisal Binzagr, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.mdpi.com/2223-7747/13/5/653" target="_blank">AI-Enabled Crop Management Framework for Pest Detection Using Visual Sensor Data</a>, <i>Plants</i>, 27, January 2024. [<strong>IF</strong>: 4.5, Q1]
  <a class="pdflink" href="/public/papers/asma_2024.pdf" target="_blank">
@@ -123,12 +122,7 @@ Asma Khan, Sharaf J. Malebary, <b>L. Minh Dang</b>, Faisal Binzagr, Hyoung-Kyu S
  </a>
 </li>
 
-<li>
-Wenqi Zhang, <b>L. Minh Dang</b>, Le Quan Nguyen, Nur Alam, Ngoc Dung Bui, Han Yong Park, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2311-7524/10/4/398" target="_blank">Adapting Segment Anything Model for Plant Fruit Recognition and Automated Phenotypic Parameter Measurement</a>, <i>Agronomy</i>, 27, March 2024. [<strong>IF</strong>: 3.7, Q1]
- <a class="pdflink" href="/public/papers/wenqi_24.pdf" target="_blank">
-      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
- </a>
-</li>
+
 
 <!-- <li>
 Ngoc Dung Bui, <b>L. Minh Dang</b>, Tran Hieu Nguyen, <a href="https://www.mdpi.com/2079-9292/13/7/1241" target="_blank">	Damage Detection in Structural Health Monitoring Using an Integrated ANNIRSA Approach</a>, <i>Electronics</i>, 27, March 2024. [<strong>IF</strong>: 2.9, Q2]
