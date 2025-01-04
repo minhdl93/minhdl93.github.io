@@ -29,6 +29,13 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 <ol>
 
+<li>
+Nur Alam, A S M Sharifuzzaman Sagar, Wenqi Zhang, Han Yong Park, and Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s11760-024-03691-3" target="_blank">Deep learning based radish and leaf segmentation for phenotype trait measurement</a>, <i>Signal, Image and Video Processing</i>, 03, January 2025. [<strong>IF</strong>: 2.0, Q3]
+ <a class="pdflink" href="/public/papers/nur_2025.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
 <!-- <li>
 <b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Tri-Hai Nguyen, Lilia Tightiz, Nguyen Xuan-Mung, and Tan N. Nguyen, <a href="https://link.springer.com/article/10.1007/s12229-024-09299-z" target="_blank">Computer Vision for Plant Disease Recognition: A Comprehensive Review</a>, <i>The Botanical Review</i>, 05, March 2024. [<strong>IF</strong>: 4.0, Q1]
  <a class="pdflink" href="/public/papers/minhbotanical_2024.pdf" target="_blank">
@@ -67,13 +74,6 @@ Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sc
 <li>
 Arailym Dosset, <b>L. Minh Dang</b>, Faisal Alharbi, Shabana Habib, Nur Alam, Ngoc Dung Bui, Han Yong Park and Hyeonjoon Moon, <a href="https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ps.8456" target="_blank">CDDNet: Cassava Disease Detection Using Lightweight Modified Soft Attention Network</a>, <i>Pest Management Science</i>, 06, October 2024. [<strong>IF</strong>: 4.1, Q1]
  <a class="pdflink" href="/public/papers/arai_24.pdf" target="_blank">
-      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
- </a>
-</li> 
-
-<li>
-Nur Alam, A S M Sharifuzzaman Sagar, Wenqi Zhang, Han Yong Park, and Hyeonjoon Moon, <a href="#" target="_blank">Deep Learning Based Radish and Leaf Segmentation for Phenotype Trait Measurement</a>, <i>Signal, Image and Video Processing</i>, 06, October 2024. [<strong>IF</strong>: 2.0, Q3]
- <a class="pdflink" href="/public/papers/quan_24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li> 
