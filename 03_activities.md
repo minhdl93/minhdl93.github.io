@@ -74,10 +74,11 @@ title: Professional Activities
 
 <br/> -->
 
-<h1>Editorial Board</h1>
+<h1>Journal Editorial Board</h1>
 <b>Computers, Materials & Continua</b>
 
 <br/> <br/>
+
 
 <h1>Guest Editor</h1>
 <h2>Active SI</h2>
@@ -117,8 +118,6 @@ title: Professional Activities
 <!-- <div style="margin-top: 10px;">   <img  src="/public/pictures/si4.png"></div>-->
 
 
- 
- 
 
 
 
@@ -130,6 +129,32 @@ title: Professional Activities
  </ul>
  
  <br/> <br/>
+
+<h1>Conference committe</h1>
+<ul>
+<li>
+<b><a href="https://iaaa25.vnua.edu.vn/committee.html" target="_blank">International Conference on Intelligent Aerial Access and Applications (IAAA 2025)</a></b>
+<p>July 16-18, 2025 | Hanoi, Vietnam</p>
+<p>Registration chairs</p>
+ </li>
+ 
+  <li>
+<b><a href="https://www.cceai.org/history.html" target="_blank">The 9th International Conference on Control Engineering and Artificial Intelligence (CCEAI 2025) </a></b>
+<p>January 16-19, 2025 | Hochiminh, Vietnam</p>
+<p>Technical session chairs</p>
+ </li>
+ 
+ 
+ <li>
+<b><a href="http://www.icngc.org/bbs/content.php?co_id=sub1_9" target="_blank">The 9th International Conference on Next Generation Computing (ICNGC 2023)</a></b>
+<p>December 20-23, 2023 | Danang, Vietnam</p>
+<p>Local arrangement chairs</p>
+ </li>
+ 
+
+ </ul>
+
+
 
 <h1>Journal Referee</h1>
 <ol>

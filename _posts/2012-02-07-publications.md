@@ -30,7 +30,7 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
-Nur Alam, A S M Sharifuzzaman Sagar, Wenqi Zhang, Han Yong Park, and Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s11760-024-03691-3" target="_blank">Deep learning based radish and leaf segmentation for phenotype trait measurement</a>, <i>Signal, Image and Video Processing</i>, 03, January 2025. [<strong>IF</strong>: 2.0, Q3]
+Nur Alam, A S M Sharifuzzaman Sagar, <b>L. Minh Dang</b>, Wenqi Zhang, Han Yong Park, and Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s11760-024-03691-3" target="_blank">Deep learning based radish and leaf segmentation for phenotype trait measurement</a>, <i>Signal, Image and Video Processing</i>, 03, January 2025. [<strong>IF</strong>: 2.0, Q3]
  <a class="pdflink" href="/public/papers/nur_2025.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
