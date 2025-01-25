@@ -3,6 +3,9 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: sessionchair.png
+    thumb: sessionchair.png
+    text: Technical Session Chair at CCEAI 2024.
   - name: KakaoTalk_20240831_153340464.jpg
     thumb: KakaoTalk_20240831_153340464.jpg
     text: Seminar at Vanlang University, Hochiminh, Vietnam (2024).

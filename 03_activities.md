@@ -135,20 +135,26 @@ title: Professional Activities
 <li>
 <b><a href="https://iaaa25.vnua.edu.vn/committee.html" target="_blank">International Conference on Intelligent Aerial Access and Applications (IAAA 2025)</a></b>
 <p>July 16-18, 2025 | Hanoi, Vietnam</p>
-<p>Registration chairs</p>
+<p>Registration chair</p>
+ </li>
+ 
+ <li>
+<b><a href="https://www.icoce.org/com.html" target="_blank">The 9th International Conference on Civil Engineering (ICOCE 2025)</a></b>
+<p>March 22-24, 2025 | Singapore</p>
+<p>Technical program committee</p>
  </li>
  
   <li>
 <b><a href="https://www.cceai.org/history.html" target="_blank">The 9th International Conference on Control Engineering and Artificial Intelligence (CCEAI 2025) </a></b>
 <p>January 16-19, 2025 | Hochiminh, Vietnam</p>
-<p>Technical session chairs</p>
+<p>Technical program committee</p>
  </li>
  
  
  <li>
 <b><a href="http://www.icngc.org/bbs/content.php?co_id=sub1_9" target="_blank">The 9th International Conference on Next Generation Computing (ICNGC 2023)</a></b>
 <p>December 20-23, 2023 | Danang, Vietnam</p>
-<p>Local arrangement chairs</p>
+<p>Local arrangement chair</p>
  </li>
  
 
