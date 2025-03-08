@@ -30,6 +30,15 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
+Hanxiang Wang, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0952197625004567" target="_blank">Residual-like multi-kernel block and dynamic attention for deep neural networks</a>, <i>Engineering Applications of Artificial Intelligence</i>, 15, May 2025. [<strong>IF</strong>: 7.5, Q1]
+ <a class="pdflink" href="/public/papers/wang_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
+
+
+<li>
 Nur Alam, A S M Sharifuzzaman Sagar, <b>L. Minh Dang</b>, Wenqi Zhang, Han Yong Park, and Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s11760-024-03691-3" target="_blank">Deep learning based radish and leaf segmentation for phenotype trait measurement</a>, <i>Signal, Image and Video Processing</i>, 03, January 2025. [<strong>IF</strong>: 2.0, Q3]
  <a class="pdflink" href="/public/papers/nur_2025.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -42,6 +51,12 @@ Nur Alam, A S M Sharifuzzaman Sagar, <b>L. Minh Dang</b>, Wenqi Zhang, Han Yong 
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li> -->
+<li>
+ A. S. M. Sharifuzzaman Sagar, Samsil Arefin, Eesun Moon, Md Masud Pervez Prince <b>L. Minh Dang</b>, Amir Haider, and Hyung Seok Kim <a href="https://www.mdpi.com/2227-7390/10/9/1481" target="_blank">A Gaussian Process-Enhanced Non-Linear Function and Bayesian Convolution–Bayesian Long Term Short Memory Based Ultra-Wideband Range Error Mitigation Method for Line of Sight and Non-Line of Sight Scenarios</a>, <i>Mathematics, </i>09,December, 2024. [<strong>IF</strong>: 2.3, Q1]
+ <a class="pdflink" href="/public/papers/mathematics24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
 
 <li>
 <b>L. Minh Dang</b>, Sufyan Danish, Asma Khan, Nur Alam, Muhammad Fayaz, Dinh Khuong Nguyen, Hyoung-Kyu Song and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S1161030124002521" target="_blank">An Efficient Zero-labeling Segmentation Approach for Pest Monitoring on Smartphone-based Images</a>, <i>European Journal of Agronomy</i>, 01, September 2024. [<strong>IF</strong>: 4.5, Q1]
@@ -72,7 +87,7 @@ Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sc
 </li> 
 
 <li>
-Arailym Dosset, <b>L. Minh Dang</b>, Faisal Alharbi, Shabana Habib, Nur Alam, Ngoc Dung Bui, Han Yong Park and Hyeonjoon Moon, <a href="https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ps.8456" target="_blank">CDDNet: Cassava Disease Detection Using Lightweight Modified Soft Attention Network</a>, <i>Pest Management Science</i>, 06, October 2024. [<strong>IF</strong>: 4.1, Q1]
+Arailym Dosset, <b>L. Minh Dang</b>, Faisal Alharbi, Shabana Habib, Nur Alam, Ngoc Dung Bui, Han Yong Park and Hyeonjoon Moon, <a href="https://scijournals.onlinelibrary.wiley.com/doi/10.1002/ps.8456" target="_blank">Cassava disease detection using a lightweight modified soft attention network</a>, <i>Pest Management Science</i>, 06, October 2024. [<strong>IF</strong>: 4.1, Q1]
  <a class="pdflink" href="/public/papers/arai_24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>

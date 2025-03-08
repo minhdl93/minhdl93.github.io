@@ -29,7 +29,7 @@ images:
     text: International Summit on Sensors and Sensing Technology, Barcelona, Spain (2023).
   - name: 20231222_113641.jpg
     thumb: 20231222_113641.jpg
-    text: The 9th International Conference on Next Generation Computing, Danang, Vietnam (2023).
+    text: Local Arrangement Chair for ICNGC 2023.
   - name: KakaoTalk_20240831_153143365.jpg
     thumb: KakaoTalk_20240831_153143365.jpg
     text: The 9th International Conference on Next Generation Computing, Danang, Vietnam (2023).
