@@ -133,6 +133,12 @@ title: Professional Activities
 <h1>Conference committe</h1>
 <ul>
 <li>
+<b><a href="https://eidt.ou.edu.vn/" target="_blank">International Conference on Explainable Intelligence in Digital Twins (EIDT 2025)</a></b>
+<p>November 12-14, 2025 | HoChiMinh, Vietnam</p>
+<p>Workshop chair</p>
+ </li>
+ 
+<li>
 <b><a href="https://iaaa25.vnua.edu.vn/committee.html" target="_blank">International Conference on Intelligent Aerial Access and Applications (IAAA 2025)</a></b>
 <p>July 16-18, 2025 | Hanoi, Vietnam</p>
 <p>Registration chair</p>

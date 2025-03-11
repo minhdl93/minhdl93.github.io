@@ -52,7 +52,7 @@ Nur Alam, A S M Sharifuzzaman Sagar, <b>L. Minh Dang</b>, Wenqi Zhang, Han Yong 
  </a>
 </li> -->
 <li>
- A. S. M. Sharifuzzaman Sagar, Samsil Arefin, Eesun Moon, Md Masud Pervez Prince <b>L. Minh Dang</b>, Amir Haider, and Hyung Seok Kim <a href="https://www.mdpi.com/2227-7390/10/9/1481" target="_blank">A Gaussian Process-Enhanced Non-Linear Function and Bayesian Convolution–Bayesian Long Term Short Memory Based Ultra-Wideband Range Error Mitigation Method for Line of Sight and Non-Line of Sight Scenarios</a>, <i>Mathematics, </i>09,December, 2024. [<strong>IF</strong>: 2.3, Q1]
+ A. S. M. Sharifuzzaman Sagar, Samsil Arefin, Eesun Moon, Md Masud Pervez Prince <b>L. Minh Dang</b>, Amir Haider, and Hyung Seok Kim <a href="https://www.mdpi.com/2227-7390/12/23/3866" target="_blank">A Gaussian Process-Enhanced Non-Linear Function and Bayesian Convolution–Bayesian Long Term Short Memory Based Ultra-Wideband Range Error Mitigation Method for Line of Sight and Non-Line of Sight Scenarios</a>, <i>Mathematics, </i>09,December, 2024. [<strong>IF</strong>: 2.3, Q1]
  <a class="pdflink" href="/public/papers/mathematics24.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
