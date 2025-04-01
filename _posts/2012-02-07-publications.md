@@ -29,14 +29,33 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 <ol>
 
-<li>
+<!--<li>
 Hanxiang Wang, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0952197625004567" target="_blank">Residual-like multi-kernel block and dynamic attention for deep neural networks</a>, <i>Engineering Applications of Artificial Intelligence</i>, 15, May 2025. [<strong>IF</strong>: 7.5, Q1]
  <a class="pdflink" href="/public/papers/wang_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
+</li>   -->
+
+<!--<li>
+<b>L. Minh Dang</b>, A S M Sharifuzzaman Sagar, Ngoc Dung Bui, Luong Vuong Nguyen, and Tri-Hai Nguyen <a href="#" target="_blank">Attention guided marine debris detection with an enhanced transformer framework using drone imagery</a>, <i>Process Safety and Environmental Protection</i>, 15, March 2025. [<strong>IF</strong>: 6.9, Q1]
+ <a class="pdflink" href="/public/papers/PSEP_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>   -->
+
+<li>
+Asma Khan, Seyong Jin, Geon-Hee Lee, Gul E Arzu, Tan N. Nguyen, <b>L. Minh Dang</b>, Woong Choi,  and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/document/10937713" target="_blank">Deep Learning Approaches for Continuous Sign Language Recognition: A Comprehensive Review</a>, <i>IEEE Access</i>, 18, March 2025. [<strong>IF</strong>: 3.9, Q2]
+ <a class="pdflink" href="/public/papers/asma_2025.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Nur Alam, A S M Sharifuzzaman Sagar,Wenqi Zhang, Taicheng Jin, Arailym Dosset, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="#" target="_blank">A Comprehensive Study on enhanced QR Extraction Techniques with Deep Learning-Based Verification</a>, <i>Applied Intelligence</i>, 03, March 2025. [<strong>IF</strong>: 3.4, Q2]
+ <a class="pdflink" href="/public/papers/nur25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
 </li> 
-
-
 
 <li>
 Nur Alam, A S M Sharifuzzaman Sagar, <b>L. Minh Dang</b>, Wenqi Zhang, Han Yong Park, and Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s11760-024-03691-3" target="_blank">Deep learning based radish and leaf segmentation for phenotype trait measurement</a>, <i>Signal, Image and Video Processing</i>, 03, January 2025. [<strong>IF</strong>: 2.0, Q3]

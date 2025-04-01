@@ -3,6 +3,9 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: icoce.jpg
+    thumb: icoce.jpg
+    text: The 9th International Conference on Civil Engineering , Singapore (2025).
   - name: sessionchair.png
     thumb: sessionchair.png
     text: Technical Session Chair at CCEAI 2024.
