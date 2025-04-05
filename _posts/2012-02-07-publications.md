@@ -37,7 +37,7 @@ Hanxiang Wang, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://w
 </li>   -->
 
 <!--<li>
-<b>L. Minh Dang</b>, A S M Sharifuzzaman Sagar, Ngoc Dung Bui, Luong Vuong Nguyen, and Tri-Hai Nguyen <a href="#" target="_blank">Attention guided marine debris detection with an enhanced transformer framework using drone imagery</a>, <i>Process Safety and Environmental Protection</i>, 15, March 2025. [<strong>IF</strong>: 6.9, Q1]
+<b>L. Minh Dang</b>, A S M Sharifuzzaman Sagar, Ngoc Dung Bui, Luong Vuong Nguyen, and Tri-Hai Nguyen <a href="https://www.sciencedirect.com/science/article/pii/S0957582025003568" target="_blank">Attention guided marine debris detection with an enhanced transformer framework using drone imagery</a>, <i>Process Safety and Environmental Protection</i>, 15, March 2025. [<strong>IF</strong>: 6.9, Q1]
  <a class="pdflink" href="/public/papers/PSEP_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
