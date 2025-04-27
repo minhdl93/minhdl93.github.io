@@ -29,6 +29,13 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 <ol>
 
+<li>
+Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0950705125006665" target="_blank"> DLAN: A Dual Attention Network for Effective Land Cover Classification in Remote Sensing</a>, <i>Knowledge-based system</i>, 06, October 2024. [<strong>IF</strong>: 7.2, Q1]
+ <a class="pdflink" href="/public/papers/fayaz_24.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
 <!--<li>
 Hanxiang Wang, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0952197625004567" target="_blank">Residual-like multi-kernel block and dynamic attention for deep neural networks</a>, <i>Engineering Applications of Artificial Intelligence</i>, 15, May 2025. [<strong>IF</strong>: 7.5, Q1]
  <a class="pdflink" href="/public/papers/wang_25.pdf" target="_blank">
