@@ -29,12 +29,19 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 <ol>
 
-<!--<li>
+<li>
+Sufyan Danish, Abolghasem Sadeghi-Niaraki, Samee Ullah Khan, <b>L. Minh Dang</b>, Lilia Tightiz, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S1566253525006955" target="_blank"> A comprehensive survey of Vision-Language Models: Pretrained models, fine-tuning, prompt engineering, adapters, and benchmark datasets</a>, <i>Information Fusion</i>, 27, August 2025. [<strong>IF</strong>: 15.5, Q1]
+ <a class="pdflink" href="/public/papers/if_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
 C. Long Nguyen, Andy Nguyen, Jason Brown, and <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0926580525005199" target="_blank"> Sewer pipeline condition assessment and defect detection using computer vision</a>, <i>Automation in Construction</i>, 21, August 2025. [<strong>IF</strong>: 11.5, Q1]
  <a class="pdflink" href="/public/papers/automationconstr_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>  -->
+</li>
 
 <li>
 Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0950705125006665" target="_blank"> DLAN: A Dual Attention Network for Effective Land Cover Classification in Remote Sensing</a>, <i>Knowledge-based system</i>, 21, April 2025. [<strong>IF</strong>: 7.6, Q1]
