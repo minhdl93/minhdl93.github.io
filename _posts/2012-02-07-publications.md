@@ -30,6 +30,21 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
+Yanfen Li, <b>L. Minh Dang</b>, Hanxiang Wang, Muhammad Fayaz, Sufyan Danish, Junliang Shang, Hyoung-Kyu Song and Hyeonjoon Moon <a href="#" target="_blank">Transformer-based Detection of Abnormal Rice Growth using Drone-based Multispectral Imaging</a>, <i>Computers and Electronics in Agriculture</i>, 10, October 2025. [<strong>IF</strong>: 8.9, Q1]
+ <a class="pdflink" href="/public/papers/electronicagr_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Sufyan Danish, Md. Jalil Piran, Samee Ullah Khan, Samee Ullah Khan, Muhammad Attique Khan, <b>L. Minh Dang</b>, Yahya Zweiri, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="#" target="_blank"> Vision-Based Fire Management System Using Autonomous Unmanned Aerial Vehicles: A Comprehensive Survey</a>, <i>Artificial Intelligence Review</i>, 10, Octpber 2025. [<strong>IF</strong>: 13.9, Q1]
+ <a class="pdflink" href="/public/papers/airev_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
 Sufyan Danish, Abolghasem Sadeghi-Niaraki, Samee Ullah Khan, <b>L. Minh Dang</b>, Lilia Tightiz, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S1566253525006955" target="_blank"> A comprehensive survey of Vision-Language Models: Pretrained models, fine-tuning, prompt engineering, adapters, and benchmark datasets</a>, <i>Information Fusion</i>, 27, August 2025. [<strong>IF</strong>: 15.5, Q1]
  <a class="pdflink" href="/public/papers/if_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -39,6 +54,13 @@ Sufyan Danish, Abolghasem Sadeghi-Niaraki, Samee Ullah Khan, <b>L. Minh Dang</b>
 <li>
 C. Long Nguyen, Andy Nguyen, Jason Brown, and <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0926580525005199" target="_blank"> Sewer pipeline condition assessment and defect detection using computer vision</a>, <i>Automation in Construction</i>, 21, August 2025. [<strong>IF</strong>: 11.5, Q1]
  <a class="pdflink" href="/public/papers/automationconstr_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Lilia Tightiz, <b>L. Minh Dang</b>, Joon Yoo, and Sanjeevikumar Padmanaban, <a href="https://www.sciencedirect.com/science/article/pii/S259017452500220X" target="_blank"> A Comprehensive review on AIoT applications for intelligent EV charging/discharging ecosystem</a>, <i>Energy Conversion and Management: X</i>, 10, June 2025. [<strong>IF</strong>: 7.6, Q1]
+ <a class="pdflink" href="/public/papers/lilia25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
