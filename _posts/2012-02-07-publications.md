@@ -38,7 +38,7 @@ Yanfen Li, <b>L. Minh Dang</b>, Hanxiang Wang, Muhammad Fayaz, Sufyan Danish, Ju
 
 
 <li>
-Sufyan Danish, Md. Jalil Piran, Samee Ullah Khan, Samee Ullah Khan, Muhammad Attique Khan, <b>L. Minh Dang</b>, Yahya Zweiri, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="#" target="_blank"> Vision-Based Fire Management System Using Autonomous Unmanned Aerial Vehicles: A Comprehensive Survey</a>, <i>Artificial Intelligence Review</i>, 10, Octpber 2025. [<strong>IF</strong>: 13.9, Q1]
+Sufyan Danish, Md. Jalil Piran, Samee Ullah Khan, Samee Ullah Khan, Muhammad Attique Khan, <b>L. Minh Dang</b>, Yahya Zweiri, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="#" target="_blank"> Vision-Based Fire Management System Using Autonomous Unmanned Aerial Vehicles: A Comprehensive Survey</a>, <i>Artificial Intelligence Review</i>, 10, October 2025. [<strong>IF</strong>: 13.9, Q1]
  <a class="pdflink" href="/public/papers/airev_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
