@@ -30,8 +30,15 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
-Yanfen Li, <b>L. Minh Dang</b>, Hanxiang Wang, Muhammad Fayaz, Sufyan Danish, Junliang Shang, Hyoung-Kyu Song and Hyeonjoon Moon <a href="#" target="_blank">Transformer-based Detection of Abnormal Rice Growth using Drone-based Multispectral Imaging</a>, <i>Computers and Electronics in Agriculture</i>, 10, October 2025. [<strong>IF</strong>: 8.9, Q1]
+Yanfen Li, <b>L. Minh Dang</b>, Hanxiang Wang, Muhammad Fayaz, Sufyan Danish, Junliang Shang, Hyoung-Kyu Song and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0168169925011615" target="_blank">Transformer-based Detection of Abnormal Rice Growth using Drone-based Multispectral Imaging</a>, <i>Computers and Electronics in Agriculture</i>, 10, October 2025. [<strong>IF</strong>: 8.9, Q1]
  <a class="pdflink" href="/public/papers/electronicagr_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Hanxiang Wang, Yanfen Li, Yuanke Zhang, Junliang Shang, Guangshun Li, Liem Dinh-Tien, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.sciopen.com/article/10.26599/TST.2025.9010091" target="_blank">Drone-Based High-Precision Object Detection in Remote Sensing with Attention-Guided Feature Fusion</a>, <i>Tsinghua Science and Technology</i>, 21, October 2025. [<strong>IF</strong>: 3.5, Q2]
+ <a class="pdflink" href="/public/papers/wang_tsinghua.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
@@ -71,6 +78,13 @@ Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sc
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li> 
+
+<!--<li>
+Hanxiang Wang, Muhammad Fayaz, Awais Ahmad, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0957582025012868" target="_blank">Masked autoencoder-based vision framework for robust fire detection in complex environments</a>, <i>Process Safety and Environmental Protection</i>, 20, October 2025. [<strong>IF</strong>: 7.8, Q1]
+ <a class="pdflink" href="/public/papers/wang_process.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>   -->
 
 <!--<li>
 Hanxiang Wang, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0952197625004567" target="_blank">Residual-like multi-kernel block and dynamic attention for deep neural networks</a>, <i>Engineering Applications of Artificial Intelligence</i>, 15, May 2025. [<strong>IF</strong>: 8.0, Q1]
