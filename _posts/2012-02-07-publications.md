@@ -30,6 +30,22 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
+Lilia Tightiz,  <b>L. Minh Dang</b>,  and Ki-Woong Park <a href="#" target="_blank">AIoT-Blockchain Security for Supply Chain Threats in IEC 61850 Substations Using Informer-Powered Reinforcement Learning</a>, <i>IEEE Internet of Things Journal</i>, 10, November 2025. [<strong>IF</strong>: 8.9, Q1]
+ <a class="pdflink" href="/public/papers/sofcomputing2025.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Yanfen Li, Muhammad Fayaz, Sufyan Danish, Lilia Tightiz, Hanxiang Wang, Tan N. Nguyen and <b>L. Minh Dang</b> <a href="https://www.sciencedirect.com/science/article/pii/S1568494625014504" target="_blank">End-to-end plant disease detection using transformers with collaborative hybrid assignment training</a>, <i>Applied Soft Computing</i>, 10, November 2025. [<strong>IF</strong>: 6.6, Q1]
+ <a class="pdflink" href="/public/papers/sofcomputing2025.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
 Yanfen Li, <b>L. Minh Dang</b>, Hanxiang Wang, Muhammad Fayaz, Sufyan Danish, Junliang Shang, Hyoung-Kyu Song and Hyeonjoon Moon <a href="https://www.sciencedirect.com/science/article/pii/S0168169925011615" target="_blank">Transformer-based Detection of Abnormal Rice Growth using Drone-based Multispectral Imaging</a>, <i>Computers and Electronics in Agriculture</i>, 10, October 2025. [<strong>IF</strong>: 8.9, Q1]
  <a class="pdflink" href="/public/papers/electronicagr_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -79,19 +95,28 @@ Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sc
  </a>
 </li> 
 
-<!--<li>
+<li>
+
+Yanfen Li, Muhammad Fayaz, Sufyan Danish, Lilia Tightiz, Hanxiang Wang, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S1568494625014504" target="_blank">End-to-end plant disease detection using transformers with collaborative hybrid assignment trainings</a>, <i>Applied Soft Computing</i>, 30, October 2025. [<strong>IF</strong>: 6.6, Q1]
+ <a class="pdflink" href="/public/papers/appliedsoft_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
 Hanxiang Wang, Muhammad Fayaz, Awais Ahmad, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0957582025012868" target="_blank">Masked autoencoder-based vision framework for robust fire detection in complex environments</a>, <i>Process Safety and Environmental Protection</i>, 20, October 2025. [<strong>IF</strong>: 7.8, Q1]
  <a class="pdflink" href="/public/papers/wang_process.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>   -->
+</li> 
 
-<!--<li>
+<li>
 Hanxiang Wang, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0952197625004567" target="_blank">Residual-like multi-kernel block and dynamic attention for deep neural networks</a>, <i>Engineering Applications of Artificial Intelligence</i>, 15, May 2025. [<strong>IF</strong>: 8.0, Q1]
  <a class="pdflink" href="/public/papers/wang_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>   -->
+</li>
 
 <!--<li>
 <b>L. Minh Dang</b>, A S M Sharifuzzaman Sagar, Ngoc Dung Bui, Luong Vuong Nguyen, and Tri-Hai Nguyen <a href="https://www.sciencedirect.com/science/article/pii/S0957582025003568" target="_blank">Attention guided marine debris detection with an enhanced transformer framework using drone imagery</a>, <i>Process Safety and Environmental Protection</i>, 15, March 2025. [<strong>IF</strong>: 7.8, Q1]
