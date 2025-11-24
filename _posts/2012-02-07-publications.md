@@ -30,7 +30,7 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
-Lilia Tightiz,  <b>L. Minh Dang</b>,  and Ki-Woong Park <a href="#" target="_blank">AIoT-Blockchain Security for Supply Chain Threats in IEC 61850 Substations Using Informer-Powered Reinforcement Learning</a>, <i>IEEE Internet of Things Journal</i>, 10, November 2025. [<strong>IF</strong>: 8.9, Q1]
+Lilia Tightiz,  <b>L. Minh Dang</b>,  and Ki-Woong Park, <a href="https://ieeexplore.ieee.org/document/11244116" target="_blank">AIoT-Blockchain Security for Supply Chain Threats in IEC 61850 Substations Using Informer-Powered Reinforcement Learning</a>, <i>IEEE Internet of Things Journal</i>, 10, November 2025. [<strong>IF</strong>: 8.9, Q1]
  <a class="pdflink" href="/public/papers/sofcomputing2025.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -61,7 +61,7 @@ Hanxiang Wang, Yanfen Li, Yuanke Zhang, Junliang Shang, Guangshun Li, Liem Dinh-
 
 
 <li>
-Sufyan Danish, Md. Jalil Piran, Samee Ullah Khan, Samee Ullah Khan, Muhammad Attique Khan, <b>L. Minh Dang</b>, Yahya Zweiri, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="#" target="_blank"> Vision-Based Fire Management System Using Autonomous Unmanned Aerial Vehicles: A Comprehensive Survey</a>, <i>Artificial Intelligence Review</i>, 10, October 2025. [<strong>IF</strong>: 13.9, Q1]
+Sufyan Danish, Md. Jalil Piran, Samee Ullah Khan, Samee Ullah Khan, Muhammad Attique Khan, <b>L. Minh Dang</b>, Yahya Zweiri, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s10462-025-11415-3" target="_blank"> Vision-Based Fire Management System Using Autonomous Unmanned Aerial Vehicles: A Comprehensive Survey</a>, <i>Artificial Intelligence Review</i>, 10, October 2025. [<strong>IF</strong>: 13.9, Q1]
  <a class="pdflink" href="/public/papers/airev_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -95,13 +95,7 @@ Muhammad Fayaz, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sc
  </a>
 </li> 
 
-<li>
 
-Yanfen Li, Muhammad Fayaz, Sufyan Danish, Lilia Tightiz, Hanxiang Wang, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S1568494625014504" target="_blank">End-to-end plant disease detection using transformers with collaborative hybrid assignment trainings</a>, <i>Applied Soft Computing</i>, 30, October 2025. [<strong>IF</strong>: 6.6, Q1]
- <a class="pdflink" href="/public/papers/appliedsoft_25.pdf" target="_blank">
-      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
- </a>
-</li>
 
 
 <li>
