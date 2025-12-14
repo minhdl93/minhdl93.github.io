@@ -30,6 +30,21 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
+Wenqi Zhang,  Yue Zhang, Muhammad Fayaz, <b>L. Minh Dang</b>,  Tan N. Nguyen, and Hyeonjoon Moo, <a href="#" target="_blank">PolySAGN: Hierarchical Multi-Scale Representation Learning with Scale-Specific Attention for Accurate Polyp Segmentation</a>, <i>Neurocomputing</i>, 10, December 2025. [<strong>IF</strong>: 6.5, Q1]
+ <a class="pdflink" href="/public/papers/wenqi_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Gul E Arzu, Muhammad Fayaz, Usman Ali, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="#" target="_blank">Efficient Transformer-Based Semantic Segmentation of Colonic Polyps Using SegFormer</a>, <i>Neurocomputing</i>, 10, December 2025. [<strong>IF</strong>: 6.5, Q1]
+ <a class="pdflink" href="/public/papers/arzu_25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
 Lilia Tightiz,  <b>L. Minh Dang</b>,  and Ki-Woong Park, <a href="https://ieeexplore.ieee.org/document/11244116" target="_blank">AIoT-Blockchain Security for Supply Chain Threats in IEC 61850 Substations Using Informer-Powered Reinforcement Learning</a>, <i>IEEE Internet of Things Journal</i>, 10, November 2025. [<strong>IF</strong>: 8.9, Q1]
  <a class="pdflink" href="/public/papers/sofcomputing2025.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -37,12 +52,20 @@ Lilia Tightiz,  <b>L. Minh Dang</b>,  and Ki-Woong Park, <a href="https://ieeexp
 </li>
 
 
-<li>
+<!--<li>
 Yanfen Li, Muhammad Fayaz, Sufyan Danish, Lilia Tightiz, Hanxiang Wang, Tan N. Nguyen and <b>L. Minh Dang</b> <a href="https://www.sciencedirect.com/science/article/pii/S1568494625014504" target="_blank">End-to-end plant disease detection using transformers with collaborative hybrid assignment training</a>, <i>Applied Soft Computing</i>, 10, November 2025. [<strong>IF</strong>: 6.6, Q1]
  <a class="pdflink" href="/public/papers/sofcomputing2025.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
+</li>-->
+
+<li>
+<b>L. Minh Dang</b>, Sufyan Danish,Muhammad Fayaz,Asma Khan,Gul E. Arzu,Lilia Tightiz,Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2311-7524/11/12/1462" target="_blank">Universal Image Segmentation with Arbitrary Granularity for Efficient Pest Monitoring</a>, <i>Horticulturae</i>, 23, April 2024. [<strong>IF</strong>: 3.0, Q1]
+ <a class="pdflink" href="/public/papers/horticulturae25.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
 </li>
+
 
 
 <li>
