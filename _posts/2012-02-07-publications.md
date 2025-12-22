@@ -30,14 +30,14 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
-Wenqi Zhang,  Yue Zhang, Muhammad Fayaz, <b>L. Minh Dang</b>,  Tan N. Nguyen, and Hyeonjoon Moo, <a href="#" target="_blank">PolySAGN: Hierarchical Multi-Scale Representation Learning with Scale-Specific Attention for Accurate Polyp Segmentation</a>, <i>Neurocomputing</i>, 10, December 2025. [<strong>IF</strong>: 6.5, Q1]
+Wenqi Zhang,  Yue Zhang, Muhammad Fayaz, <b>L. Minh Dang</b>,  Tan N. Nguyen, and Hyeonjoon Moo, <a href="https://www.sciencedirect.com/science/article/pii/S0925231225030103" target="_blank">PolySAGN: Hierarchical Multi-Scale Representation Learning with Scale-Specific Attention for Accurate Polyp Segmentation</a>, <i>Neurocomputing</i>, 10, December 2025. [<strong>IF</strong>: 6.5, Q1]
  <a class="pdflink" href="/public/papers/wenqi_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-Gul E Arzu, Muhammad Fayaz, Usman Ali, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="#" target="_blank">Efficient Transformer-Based Semantic Segmentation of Colonic Polyps Using SegFormer</a>, <i>Neurocomputing</i>, 10, December 2025. [<strong>IF</strong>: 6.5, Q1]
+Gul E Arzu, Muhammad Fayaz, Usman Ali, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0925231225030115" target="_blank">Efficient Transformer-Based Semantic Segmentation of Colonic Polyps Using SegFormer</a>, <i>Neurocomputing</i>, 10, December 2025. [<strong>IF</strong>: 6.5, Q1]
  <a class="pdflink" href="/public/papers/arzu_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -45,8 +45,8 @@ Gul E Arzu, Muhammad Fayaz, Usman Ali, <b>L. Minh Dang</b>, and Hyeonjoon Moon, 
 
 
 <li>
-Lilia Tightiz,  <b>L. Minh Dang</b>,  and Ki-Woong Park, <a href="https://ieeexplore.ieee.org/document/11244116" target="_blank">AIoT-Blockchain Security for Supply Chain Threats in IEC 61850 Substations Using Informer-Powered Reinforcement Learning</a>, <i>IEEE Internet of Things Journal</i>, 10, November 2025. [<strong>IF</strong>: 8.9, Q1]
- <a class="pdflink" href="/public/papers/sofcomputing2025.pdf" target="_blank">
+Lilia Tightiz,  <b>L. Minh Dang</b>, and Ki-Woong Park, <a href="https://ieeexplore.ieee.org/document/11244116" target="_blank">AIoT-Blockchain Security for Supply Chain Threats in IEC 61850 Substations Using Informer-Powered Reinforcement Learning</a>, <i>IEEE Internet of Things Journal</i>, 10, November 2025. [<strong>IF</strong>: 8.9, Q1]
+ <a class="pdflink" href="/public/papers/lilia_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
@@ -60,7 +60,7 @@ Yanfen Li, Muhammad Fayaz, Sufyan Danish, Lilia Tightiz, Hanxiang Wang, Tan N. N
 </li>-->
 
 <li>
-<b>L. Minh Dang</b>, Sufyan Danish,Muhammad Fayaz,Asma Khan,Gul E. Arzu,Lilia Tightiz,Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2311-7524/11/12/1462" target="_blank">Universal Image Segmentation with Arbitrary Granularity for Efficient Pest Monitoring</a>, <i>Horticulturae</i>, 23, April 2024. [<strong>IF</strong>: 3.0, Q1]
+<b>L. Minh Dang</b>, Sufyan Danish, Muhammad Fayaz,Asma Khan,Gul E. Arzu,Lilia Tightiz,Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2311-7524/11/12/1462" target="_blank">Universal Image Segmentation with Arbitrary Granularity for Efficient Pest Monitoring</a>, <i>Horticulturae</i>, 23, April 2024. [<strong>IF</strong>: 3.0, Q1]
  <a class="pdflink" href="/public/papers/horticulturae25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -143,14 +143,14 @@ Hanxiang Wang, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://w
 </li>   -->
 
 <li>
-Asma Khan, Seyong Jin, Geon-Hee Lee, Gul E Arzu, Tan N. Nguyen, <b>L. Minh Dang</b>, Woong Choi,  and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/document/10937713" target="_blank">Deep Learning Approaches for Continuous Sign Language Recognition: A Comprehensive Review</a>, <i>IEEE Access</i>, 18, March 2025. [<strong>IF</strong>: 3.6, Q2]
+Asma Khan, Seyong Jin, Geon-Hee Lee, Gul E Arzu, Tan N. Nguyen, <b>L. Minh Dang</b>, Woong Choi, and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/document/10937713" target="_blank">Deep Learning Approaches for Continuous Sign Language Recognition: A Comprehensive Review</a>, <i>IEEE Access</i>, 18, March 2025. [<strong>IF</strong>: 3.6, Q2]
  <a class="pdflink" href="/public/papers/asma_2025.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-Nur Alam, A S M Sharifuzzaman Sagar,Wenqi Zhang, Taicheng Jin, Arailym Dosset, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="#" target="_blank">A Comprehensive Study on enhanced QR Extraction Techniques with Deep Learning-Based Verification</a>, <i>Applied Intelligence</i>, 03, March 2025. [<strong>IF</strong>: 3.5, Q2]
+Nur Alam, A S M Sharifuzzaman Sagar,Wenqi Zhang, Taicheng Jin, Arailym Dosset, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s10489-025-06509-y" target="_blank">A comprehensive study on enhanced QR extraction techniques with deep learning-based verification</a>, <i>Applied Intelligence</i>, 03, March 2025. [<strong>IF</strong>: 3.5, Q2]
  <a class="pdflink" href="/public/papers/nur25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
