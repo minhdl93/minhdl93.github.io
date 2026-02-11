@@ -30,6 +30,14 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
+Yanfen Li, Hanxiang Wang, Yuanke Zhang, Junliang Shang, Guangshun Li, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0263224126002575" target="_blank">Boosting Low-Light sewer defect detection via Illumination-Aware lightweight YOLO framework</a>, <i>Measurement</i>, 23, January 2026. [<strong>IF</strong>: 5.6, Q1]
+ <a class="pdflink" href="/public/papers/hanxiang_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
 Wenqi Zhang,  Yue Zhang, Muhammad Fayaz, <b>L. Minh Dang</b>,  Tan N. Nguyen, and Hyeonjoon Moo, <a href="https://www.sciencedirect.com/science/article/pii/S0925231225030103" target="_blank">PolySAGN: Hierarchical Multi-Scale Representation Learning with Scale-Specific Attention for Accurate Polyp Segmentation</a>, <i>Neurocomputing</i>, 10, December 2025. [<strong>IF</strong>: 6.5, Q1]
  <a class="pdflink" href="/public/papers/wenqi_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">

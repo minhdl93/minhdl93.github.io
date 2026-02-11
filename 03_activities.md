@@ -84,30 +84,18 @@ title: Professional Activities
 <h2>Active SI</h2>
 <ul>
 <li>
- <b>Discover Internet of Things</b>
-<p><a href="https://link.springer.com/collections/hejdfeiibb" target="_blank">Advancing Healthcare through the Internet of Things: Innovations, Challenges, and Opportunities</a></p>
-<p>Deadline for submission: 30 November 2024</p>
- </li>
- <li>
  <b>Electronics</b>
-<p><a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank">Novel Methods for Object Detection and Segmentation</a></p>
-<p>Deadline for submission: 15 February 2025</p>
- </li>
-  <li>
- <b>Applied Sciences</b>
-<p><a href="https://www.mdpi.com/journal/applsci/special_issues/797D3UNV6L" target="_blank">State-of-the-Art of Computer Vision and Pattern Recognition, 2nd Edition</a> </p>
-<p>Deadline for submission: 28 February 2025</p>
+<p><a href="https://www.mdpi.com/journal/electronics/special_issues/15MG944U1O" target="_blank">Efficient Learning for Computer Vision: Few-Shot, Weakly Supervised and Unsupervised Approaches</a></p>
+<p>Deadline for submission: 15 May 2026</p>
  </li>
  <li>
- <b>Computers, Materials & Continua</b>
-<p><a href="https://www.techscience.com/cmc/special_detail/image_classification" target="_blank">Novel Methods for Image Classification, Object Detection, and Segmentation </a></p>
-<p>Deadline for submission: 30 June 2025</p>
-</li>
- <li>
-  <b>Computers, Materials & Continua</b>
-<p><a href="https://www.techscience.com/cmc/special_detail/image_processing" target="_blank">New Trends in Image Processing</a> </p>
-<p>Deadline for submission: 01 August 2025</p>
-</li>
+ <b>Mathematics</b>
+<p><a href="https://www.mdpi.com/journal/mathematics/special_issues/3CD575043C" target="_blank">Recent Advances and Applications of Artificial Neural Networks</a></p>
+<p>Deadline for submission: 15 May 2026</p>
+ </li>
+ 
+
+
  </ul>
 
 <!-- <div style="margin-top: 10px;">   <img  src="/public/pictures/si3.png"></div>  -->
@@ -126,12 +114,23 @@ title: Professional Activities
  <h2>Closed SI</h2>
  <ul>
  <li><a href="https://www.mdpi.com/journal/applsci/special_issues/89394W0M64" target="_blank">MDPI Applied Sciences: State-of-the-Art of Computer Vision and Pattern Recognition</a></li>
+ <li><a href="https://www.mdpi.com/journal/applsci/special_issues/797D3UNV6L" target="_blank">MDPI Applied Sciences: State-of-the-Art of Computer Vision and Pattern Recognition, 2nd Edition</a></li>
+ <li><a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank">MDPI Electronics: Novel Methods for Object Detection and Segmentation</a></li>
+ <li><a href="https://www.techscience.com/cmc/special_detail/image_classification" target="_blank">Computers, Materials & Continua: Novel Methods for Image Classification, Object Detection, and Segmentation</a></li>
+ <li><a href="https://www.techscience.com/cmc/special_detail/image_processing" target="_blank">Computers, Materials & Continua: New Trends in Image Processing</a></li>
+ <li><a href="https://link.springer.com/collections/hejdfeiibb" target="_blank">Discover Internet of Things: Advancing Healthcare through the Internet of Things: Innovations, Challenges, and Opportunities</a></li>
  </ul>
  
  <br/> <br/>
 
 <h1>Conference committe</h1>
 <ul>
+<li>
+<b><a href="http://www.icngc.org/" target="_blank">The 11th International Conference on Next Generation Computing (ICNGC 2025)</a></b>
+<p>December 17-20, 2025 | Danang, Vietnam</p>
+<p>Local arrangement chair</p>
+ </li>
+ 
 <li>
 <b><a href="https://eidt.ou.edu.vn/" target="_blank">International Conference on Explainable Intelligence in Digital Twins (EIDT 2025)</a></b>
 <p>November 12-14, 2025 | HoChiMinh, Vietnam</p>
