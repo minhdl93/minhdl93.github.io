@@ -30,6 +30,38 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
+<b>L. Minh Dang</b>, Muhammad Fayaz, Quoc Bao To, Gayoon Lee, Hyoung-Kyu Song, Kihak Lee, and Hyeonjoon Moon, <a href="https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6797" target="_blank">Automated Aging Building Defect Recognition and Analysis Using Transformers</a>, <i>Journal of Computing in Civil Engineering </i>, 18, March 2024. [<strong>IF</strong>: 5.2, Q1]
+ <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Asma Khan, Geon-Hee Lee, <b>L. Minh Dang</b>, Samee Ullah Khan, Muhammad Attique Khan, Woong Choi, and Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s13042-025-02962-w" target="_blank">Empowering assisted living: ultra leap motion and deep learning for sign language recognition</a>, <i> International Journal of Machine Learning and Cybernetics </i>, March 2026. [<strong>IF</strong>: 2.7, Q2]
+ <a class="pdflink" href="/public/papers/asma_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Gul E Arzu, Muhammad Umar, Asma Khan, Usman Ali, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0020025526003166" target="_blank">Adaptive multimodal emotion detection for mental health monitoring using deep learning</a>, <i>Information Sciences</i>, July 2026. [<strong>IF</strong>: 6.8, Q1]
+ <a class="pdflink" href="/public/papers/arzu_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Quoc Bao To, Gayoon Lee, Jiuk Shin, <b>L. Minh Dang</b>, Sang Whan Han, and Kihak Lee, <a href="https://www.sciencedirect.com/science/article/pii/S2352710226001555" target="_blank">Data-driven assessment and design recommendations for piloti-type RC buildings based on machine learning techniques</a>, <i>Journal of Building Engineering</i>, February 2026. [<strong>IF</strong>: 7.4, Q1]
+ <a class="pdflink" href="/public/papers/quocbao_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
 Yanfen Li, Hanxiang Wang, Yuanke Zhang, Junliang Shang, Guangshun Li, <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0263224126002575" target="_blank">Boosting Low-Light sewer defect detection via Illumination-Aware lightweight YOLO framework</a>, <i>Measurement</i>, 23, January 2026. [<strong>IF</strong>: 5.6, Q1]
  <a class="pdflink" href="/public/papers/hanxiang_26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
