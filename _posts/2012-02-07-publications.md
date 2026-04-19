@@ -36,6 +36,28 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
  </a>
 </li>
 
+<li>
+Hanxiang Wang, Muhammad Zaqeem, Muhammad Fayaz, Defu Qiu, Sajjad Ahadzadeh, Tan N Nguyen, and <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0020025526003543" target="_blank">TumorNet: A hybrid lightweight framework for brain tumor classification and reasoning</a>, <i>Information Sciences</i>, July 2026. [<strong>IF</strong>: 6.8, Q1]
+ <a class="pdflink" href="/public/papers/hanxiangtumor_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Muhammad Fayaz, Hikmat Yar, Weiwei Jiang, Anwar Hassan Ibrahim, Muhammad Islam, Sufyan Danish, and <b>L. Minh Dang</b>, <a href="https://www.mdpi.com/2072-4292/18/8/1218" target="_blank">CALCNet: A Novel Cross-Module Attention Network for Efficient Land Cover Classification</a>, <i>Remote Sensing</i>, April 2026. [<strong>IF</strong>: 4.1, Q1]
+ <a class="pdflink" href="/public/papers/fayazremote26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Muhammad Fayaz, Kim Hagsong, Sufyan Danish,  <b>L. Minh Dang</b>, Abolghasem Sadeghi-Niaraki, and Hyeonjoon Moon, <a href="https://www.mdpi.com/1424-8220/26/7/2131" target="_blank">Demystifying Artificial Intelligence: A Systematic Review of Explainable Artificial Intelligence in Medical Imaging</a>, <i>Sensors</i>, April 2026. [<strong>IF</strong>: 3.5, Q2]
+ <a class="pdflink" href="/public/papers/fayazsensor26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
 
 <li>
 Asma Khan, Geon-Hee Lee, <b>L. Minh Dang</b>, Samee Ullah Khan, Muhammad Attique Khan, Woong Choi, and Hyeonjoon Moon, <a href="https://link.springer.com/article/10.1007/s13042-025-02962-w" target="_blank">Empowering assisted living: ultra leap motion and deep learning for sign language recognition</a>, <i> International Journal of Machine Learning and Cybernetics </i>, March 2026. [<strong>IF</strong>: 2.7, Q2]
@@ -43,6 +65,7 @@ Asma Khan, Geon-Hee Lee, <b>L. Minh Dang</b>, Samee Ullah Khan, Muhammad Attique
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
+
 
 
 <li>
