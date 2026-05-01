@@ -30,6 +30,14 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <ol>
 
 <li>
+Muhammad Fayaz, Zeeshan Ali Haider, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S1746809426010086" target="_blank">Hierarchical optimization of task-adaptive networks for integrated registration and few-shot medical image segmentation</a>, <i>Biomedical Signal Processing and Control</i>, May 2026. [<strong>IF</strong>: 4.9, Q2]
+ <a class="pdflink" href="/public/papers/fayazmedical26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
 <b>L. Minh Dang</b>, Muhammad Fayaz, Quoc Bao To, Gayoon Lee, Hyoung-Kyu Song, Kihak Lee, and Hyeonjoon Moon, <a href="https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6797" target="_blank">Automated Aging Building Defect Recognition and Analysis Using Transformers</a>, <i>Journal of Computing in Civil Engineering </i>, 18, March 2024. [<strong>IF</strong>: 5.2, Q1]
  <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -115,12 +123,12 @@ Lilia Tightiz,  <b>L. Minh Dang</b>, and Ki-Woong Park, <a href="https://ieeexpl
 </li>
 
 
-<!--<li>
+<li>
 Yanfen Li, Muhammad Fayaz, Sufyan Danish, Lilia Tightiz, Hanxiang Wang, Tan N. Nguyen and <b>L. Minh Dang</b> <a href="https://www.sciencedirect.com/science/article/pii/S1568494625014504" target="_blank">End-to-end plant disease detection using transformers with collaborative hybrid assignment training</a>, <i>Applied Soft Computing</i>, 10, November 2025. [<strong>IF</strong>: 6.6, Q1]
  <a class="pdflink" href="/public/papers/sofcomputing2025.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>-->
+</li>
 
 <li>
 <b>L. Minh Dang</b>, Sufyan Danish, Muhammad Fayaz,Asma Khan,Gul E. Arzu,Lilia Tightiz,Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2311-7524/11/12/1462" target="_blank">Universal Image Segmentation with Arbitrary Granularity for Efficient Pest Monitoring</a>, <i>Horticulturae</i>, 23, April 2024. [<strong>IF</strong>: 3.0, Q1]
@@ -198,12 +206,12 @@ Hanxiang Wang, Yanfen Li, Tan N. Nguyen, <b>L. Minh Dang</b>, <a href="https://w
  </a>
 </li>
 
-<!--<li>
+<li>
 <b>L. Minh Dang</b>, A S M Sharifuzzaman Sagar, Ngoc Dung Bui, Luong Vuong Nguyen, and Tri-Hai Nguyen <a href="https://www.sciencedirect.com/science/article/pii/S0957582025003568" target="_blank">Attention guided marine debris detection with an enhanced transformer framework using drone imagery</a>, <i>Process Safety and Environmental Protection</i>, 15, March 2025. [<strong>IF</strong>: 7.8, Q1]
  <a class="pdflink" href="/public/papers/PSEP_25.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>   -->
+</li> 
 
 <li>
 Asma Khan, Seyong Jin, Geon-Hee Lee, Gul E Arzu, Tan N. Nguyen, <b>L. Minh Dang</b>, Woong Choi, and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/document/10937713" target="_blank">Deep Learning Approaches for Continuous Sign Language Recognition: A Comprehensive Review</a>, <i>IEEE Access</i>, 18, March 2025. [<strong>IF</strong>: 3.6, Q2]
@@ -226,12 +234,12 @@ Nur Alam, A S M Sharifuzzaman Sagar, <b>L. Minh Dang</b>, Wenqi Zhang, Han Yong 
  </a>
 </li> 
 
-<!-- <li>
+ <li>
 <b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Tri-Hai Nguyen, Lilia Tightiz, Nguyen Xuan-Mung, and Tan N. Nguyen, <a href="https://link.springer.com/article/10.1007/s12229-024-09299-z" target="_blank">Computer Vision for Plant Disease Recognition: A Comprehensive Review</a>, <i>The Botanical Review</i>, 05, March 2024. [<strong>IF</strong>: 3.0, Q2]
  <a class="pdflink" href="/public/papers/minhbotanical_2024.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li> 
 <li>
  A. S. M. Sharifuzzaman Sagar, Samsil Arefin, Eesun Moon, Md Masud Pervez Prince <b>L. Minh Dang</b>, Amir Haider, and Hyung Seok Kim <a href="https://www.mdpi.com/2227-7390/12/23/3866" target="_blank">A Gaussian Process-Enhanced Non-Linear Function and Bayesian Convolution–Bayesian Long Term Short Memory Based Ultra-Wideband Range Error Mitigation Method for Line of Sight and Non-Line of Sight Scenarios</a>, <i>Mathematics, </i>09,December, 2024. [<strong>IF</strong>: 2.2, Q1]
  <a class="pdflink" href="/public/papers/mathematics24.pdf" target="_blank">
@@ -348,13 +356,13 @@ Le Quan Nguyen, Jihye Shin, Sanghuyn Ryu, <b>L. Minh Dang</b>, Han Yong Park, O 
  </a>
 </li> -->
 
-<!-- <li>
+ <li>
 Muhammad Nadeem, Naqqash Dilshad, Norah Saleh Alghamdi, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Junyoung Nam, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2624-6511/6/5/103" target="_blank">Visual Intelligence in Smart Cities: A Lightweight Deep Learning Model for Fire Detection in an IoT Environment</a>, <i>Smart cities</i>, 01, Agust 2023. [<strong>IF</strong>: 5.5, Q1]
  <a class="pdflink" href="/public/papers/smartcity_23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
- -->
+
 <li>
 <b>L. Minh Dang</b>, Muhammad Nadeem, Tan N.Nguyen, Han Yong Park, O New Lee, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2073-4395/13/6/1630" target="_blank">VPBR: an Automatic and Low Cost Vision-based Biophysical Properties Recognition Pipeline for Pumpkin</a>, <i>Plants</i>, 13, July 2023. [<strong>IF</strong>: 4.1, Q1]
  <a class="pdflink" href="/public/papers/plants23.pdf" target="_blank">
@@ -377,12 +385,12 @@ Lilia Tightiz, <b>L. Minh Dang</b>, Joon Yoo, <a href="https://www.sciencedirect
 </li>
 
 
-<!-- <li>
+<li>
 <b>L. Minh Dang</b>, <a href="https://www.mdpi.com/2079-9292/12/16/3407" target="_blank">Digital Face Manipulation Creation and Detection: A Systematic Review</a>, <i>Electronics</i>, 10, August 2023. [<strong>IF</strong>: 2.5, Q2]
  <a class="pdflink" href="/public/papers/electronic_2023.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li>
  
 <!-- <li>
 Toan Khac Nguyen, <b>L. Minh Dang</b>, Truong-Dong Do, Jin Hee Lim, <a href="https://www.mdpi.com/2411-5134/8/3/76" target="_blank">The First Study of White Rust Disease Recognition by Using Deep Neural Networks and Raspberry Pi Module Application in Chrysanthemum</a>, <i>Inventions</i>, 31, May 2022. [<strong>IF</strong>: 3.1, Q1]
@@ -430,12 +438,12 @@ Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Mo
  </a>
 </li>
 
-<!-- <li>
+ <li>
 <b>L. Minh Dang</b>, Hanxiang Wang, Tri-Hai Nguyen, Lilia Tightiz, Liem Dinh Tien, Tan N. Nguyen, and Ngoc Phi Nguyen, <a href="https://www.sciencedirect.com/science/article/pii/S2352710223011555" target="_blank">CDD-TR: Automated concrete defect investigation using an improved deformable transformers</a>, <i>Journal of Building Engineering</i>, June 2023. [<strong>IF</strong>: 7.4, Q1]
  <a class="pdflink" href="/public/papers/JBE_2023.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li> 
  
 <!-- <li>
 Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/v75n3/52555" target="_blank">Deep Learning Based Underground Sewer Defect Classification Using A Modified RegNet</a>, <i>Computers, Materials and Continua</i>, April 2023. [<strong>IF</strong>: 1.7, Q3]
@@ -583,12 +591,12 @@ Yesul Park, <b>L. Minh Dang</b>, Sujin Lee, Dongil Han, and Hyeonjoon Moon, <a h
  </a>
 </li>
 
-<!-- <li>
+ <li>
 <b>L. Minh Dang</b>, Yanfen Li, Hanxiang Wang, and Tan N. Nguyen, <a href="https://link.springer.com/article/10.1007/s10462-021-10088-y" target="_blank">Explainable artificial intelligence: a comprehensive review</a>, <i>Artificial Intelligence Review</i>, 22, November 2021. [<strong>IF</strong>: 13.9, Q1]
  <a class="pdflink" href="/public/papers/XAI.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li> 
 
 <li>
 Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.mdpi.com/1424-8220/21/12/4140" target="_blank">Robust Korean License Plate Recognition Based on Deep Neural Networks</a>, <i>Sensors</i>, Volume 21, 4140, December 2021. [<strong>IF</strong>: 3.5, Q2]
@@ -713,6 +721,14 @@ Jin Gwan Ha, Hyeonjoon Moon, Jin Tae Kwak, Syed Ibrahim Hassan, <b>L. Minh Dang<
 <h2 style="color:#1565c0">Peer-Reviewed Conference Proceedings</h2>
 
 <ol>
+<li>
+Muhammad Fayaz, <strong>L. Minh Dang</strong>, Sujin Lee, Hyeonjoon Moon <a href="https://openreview.net/forum?id=yvDnWfXRsM&referrer=%5Bthe%20profile%20of%20Muhammad%20Fayaz%5D(%2Fprofile%3Fid%3D~Muhammad_Fayaz1)" target="_blank">GeoSwin: Hierarchical Representation Learning and a Large-Scale Earth Observation Benchmark</a>, In <i>IComputer Vision and Pattern Recognition (CVPR) Workshops (CVPRW)</i>, 2026, (pp. 1875-1879). (Online).
+<a class="pdflink" href="/public/papers/CVPRW_2026.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+</a>
+</li>
+
+
 <li>
 Yanfen Li, Hanxiang Wang, <strong>L. Minh Dang</strong>, Khawar Islam, Hae Kwang Kim <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11766/1176630/IntraCTUdepthdecisionforHEVCbyusingneural-networks/10.1117/12.2589191.short" target="_blank">Intra CTU depth decision for HEVC by using neural networks</a>, In <i>International Workshop on Advanced Imaging Technology (IWAIT)</i>, 2021, 1176630. (Online).
 <a class="pdflink" href="/public/papers/HEVC_2021.pdf" target="_blank">
