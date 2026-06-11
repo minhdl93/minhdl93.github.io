@@ -29,16 +29,24 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 <h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
 <ol>
 
+
 <li>
-Muhammad Fayaz, Zeeshan Ali Haider, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S1746809426010086" target="_blank">Hierarchical optimization of task-adaptive networks for integrated registration and few-shot medical image segmentation</a>, <i>Biomedical Signal Processing and Control</i>, May 2026. [<strong>IF</strong>: 4.9, Q2]
- <a class="pdflink" href="/public/papers/fayazmedical26.pdf" target="_blank">
+<b>L. Minh Dang</b>, Sufyan Danish, Muhammad Fayaz, Gul E Arzu, Andy Nguyen, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="#" target="_blank">"Artificial Intelligence for Climate Change Mitigation and Adaptation: A Domain-Structured Review of Methods, Applications, and Research Gaps for Seven High-Impact Domains</a>, <i>Process Safety and Environmental Protection </i>, 01, June 2026. [<strong>IF</strong>: 7.8, Q1]
+ <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+<b>L. Minh Dang</b>, Sufyan Danish, Kyungbok Min, Gul E Arzu, Lilia Tightiz, Han Yong Park, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="#" target="_blank">Field-Scale Crop Growth Stage Mapping Using Multispectral Images and Deep Hierarchical Segmentation </a>, <i>Smart Agricultural Technology</i>, 01, June 2026. [<strong>IF</strong>: 5.7, Q1]
+ <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 
 <li>
-<b>L. Minh Dang</b>, Muhammad Fayaz, Quoc Bao To, Gayoon Lee, Hyoung-Kyu Song, Kihak Lee, and Hyeonjoon Moon, <a href="https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6797" target="_blank">Automated Aging Building Defect Recognition and Analysis Using Transformers</a>, <i>Journal of Computing in Civil Engineering </i>, 18, March 2024. [<strong>IF</strong>: 5.2, Q1]
+<b>L. Minh Dang</b>, Muhammad Fayaz, Quoc Bao To, Gayoon Lee, Hyoung-Kyu Song, Kihak Lee, and Hyeonjoon Moon, <a href="https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6797" target="_blank">Automated Aging Building Defect Recognition and Analysis Using Transformers</a>, <i>Journal of Computing in Civil Engineering </i>, 18, March 2026. [<strong>IF</strong>: 5.2, Q1]
  <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
@@ -58,6 +66,26 @@ Muhammad Fayaz, Hikmat Yar, Weiwei Jiang, Anwar Hassan Ibrahim, Muhammad Islam, 
  </a>
 </li>
 
+<li>
+Sufyan Danish, Samee Ullah Khan, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon <a href="#" target="_blank">Toward Intelligent Earth Observation: Hierarchical Feature Fusion and a Drone Dataset for UAV-Based Fire Detection</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 5.3, Q1]
+ <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Sufyan Danish, Waseem Ullah, Muhammad Fayaz, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon <a href="#" target="_blank">HQDL: A Hybrid Quantum–Deep Learning Framework for Real-Time Fire Detection Using UAV Remote Sensing</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 5.3, Q1]
+ <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Muhammad Fayaz, Zeeshan Ali Haider, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S1746809426010086" target="_blank">Hierarchical optimization of task-adaptive networks for integrated registration and few-shot medical image segmentation</a>, <i>Biomedical Signal Processing and Control</i>, May 2026. [<strong>IF</strong>: 4.9, Q2]
+ <a class="pdflink" href="/public/papers/fayazmedical26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
 
 <li>
 Muhammad Fayaz, Kim Hagsong, Sufyan Danish,  <b>L. Minh Dang</b>, Abolghasem Sadeghi-Niaraki, and Hyeonjoon Moon, <a href="https://www.mdpi.com/1424-8220/26/7/2131" target="_blank">Demystifying Artificial Intelligence: A Systematic Review of Explainable Artificial Intelligence in Medical Imaging</a>, <i>Sensors</i>, April 2026. [<strong>IF</strong>: 3.5, Q2]
