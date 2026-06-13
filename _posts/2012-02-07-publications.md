@@ -67,14 +67,21 @@ Muhammad Fayaz, Hikmat Yar, Weiwei Jiang, Anwar Hassan Ibrahim, Muhammad Islam, 
 </li>
 
 <li>
-Sufyan Danish, Samee Ullah Khan, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon <a href="#" target="_blank">Toward Intelligent Earth Observation: Hierarchical Feature Fusion and a Drone Dataset for UAV-Based Fire Detection</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 5.3, Q1]
- <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
+Lilia Tightiz, <b>L. Minh Dang</b>, Hyosik Yang, <a href="https://www.techscience.com/CMES/online/detail/27168" target="_blank">QFedFormer: A Privacy-Preserving Federated Transformer with Blockchain-Anchored Incentives for Dynamic EV Charging Pricing</a>, <i>Computer Modeling in Engineering & Sciences</i>, 01, June 2026. [<strong>IF</strong>: 2.5, Q1]
+ <a class="pdflink" href="/public/papers/lilia26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
 
 <li>
-Sufyan Danish, Waseem Ullah, Muhammad Fayaz, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon <a href="#" target="_blank">HQDL: A Hybrid Quantum–Deep Learning Framework for Real-Time Fire Detection Using UAV Remote Sensing</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 5.3, Q1]
+Sufyan Danish, Samee Ullah Khan, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/document/11557121" target="_blank">Toward Intelligent Earth Observation: Hierarchical Feature Fusion and a Drone Dataset for UAV-Based Fire Detection</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 5.3, Q1]
+ <a class="pdflink" href="/public/papers/sufyan261.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Sufyan Danish, Waseem Ullah, Muhammad Fayaz, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="#" target="_blank">HQDL: A Hybrid Quantum–Deep Learning Framework for Real-Time Fire Detection Using UAV Remote Sensing</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 5.3, Q1]
  <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
