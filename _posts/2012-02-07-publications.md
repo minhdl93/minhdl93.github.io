@@ -31,8 +31,8 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 
 
 <li>
-<b>L. Minh Dang</b>, Sufyan Danish, Muhammad Fayaz, Gul E Arzu, Andy Nguyen, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="#" target="_blank">"Artificial Intelligence for Climate Change Mitigation and Adaptation: A Domain-Structured Review of Methods, Applications, and Research Gaps for Seven High-Impact Domains</a>, <i>Process Safety and Environmental Protection </i>, 01, June 2026. [<strong>IF</strong>: 7.8, Q1]
- <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
+<b>L. Minh Dang</b>, Sufyan Danish, Muhammad Fayaz, Gul E Arzu, Andy Nguyen, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0957582026007196" target="_blank">"Artificial Intelligence for Climate Change Mitigation and Adaptation: A Domain-Structured Review of Methods, Applications, and Research Gaps for Seven High-Impact Domains</a>, <i>Process Safety and Environmental Protection </i>, 01, June 2026. [<strong>IF</strong>: 7.8, Q1]
+ <a class="pdflink" href="/public/papers/minhclimate26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
