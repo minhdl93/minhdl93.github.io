@@ -44,6 +44,12 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
  </a>
 </li>-->
 
+<li>
+Mengyao Ma, Yanfen Li, Jipei Cao, Hanxiang Wang, Tan N. Nguyen, and <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0168169926006903" target="_blank">LSCDNet: leveraging fine-grained contextual cues for precise detection of small target crop disease spots in complex field environments</a>, <i>Computers and Electronics in Agriculture</i>, June 2026. [<strong>IF</strong>: 10.3, Q1]
+ <a class="pdflink" href="/public/papers/hanxiangcompag_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
 
 <li>
 <b>L. Minh Dang</b>, Muhammad Fayaz, Quoc Bao To, Gayoon Lee, Hyoung-Kyu Song, Kihak Lee, and Hyeonjoon Moon, <a href="https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6797" target="_blank">Automated Aging Building Defect Recognition and Analysis Using Transformers</a>, <i>Journal of Computing in Civil Engineering </i>, 18, March 2026. [<strong>IF</strong>: 5.8, Q1]
@@ -74,6 +80,13 @@ Lilia Tightiz, <b>L. Minh Dang</b>, Hyosik Yang, <a href="https://www.techscienc
 </li>
 
 <li>
+Lilia Tightiz, Hong Nhung Nguyen, <b>L. Minh Dang</b>, Sanjeevikumar Padmanaban, Hyosik Yang, <a href="https://www.sciencedirect.com/science/article/pii/S014206152600462X" target="_blank">Energy-efficient quantum-spiking multi-agent reinforcement learning for adaptive energy management in microgrid networks</a>, <i>International Journal of Electrical Power & Energy Systems</i>, 01, June 2026. [<strong>IF</strong>: 5.3, Q1]
+ <a class="pdflink" href="/public/papers/lilia261.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
 Sufyan Danish, Samee Ullah Khan, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/document/11557121" target="_blank">Toward Intelligent Earth Observation: Hierarchical Feature Fusion and a Drone Dataset for UAV-Based Fire Detection</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 6.3, Q1]
  <a class="pdflink" href="/public/papers/sufyan261.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -85,7 +98,7 @@ Sufyan Danish, Waseem Ullah, Muhammad Fayaz, <b>L. Minh Dang</b>, Hyoung-Kyu Son
  <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>-->>
+</li>-->
 
 <li>
 Muhammad Fayaz, Zeeshan Ali Haider, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S1746809426010086" target="_blank">Hierarchical optimization of task-adaptive networks for integrated registration and few-shot medical image segmentation</a>, <i>Biomedical Signal Processing and Control</i>, May 2026. [<strong>IF</strong>: 5.7, Q2]
