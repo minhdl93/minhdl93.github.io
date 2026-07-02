@@ -376,19 +376,19 @@ Asma Khan, Sharaf J. Malebary, <b>L. Minh Dang</b>, Faisal Binzagr, Hyoung-Kyu S
 
 
 
-<!-- <li>
+<li>
 Ngoc Dung Bui, <b>L. Minh Dang</b>, Tran Hieu Nguyen, <a href="https://www.mdpi.com/2079-9292/13/7/1241" target="_blank">	Damage Detection in Structural Health Monitoring Using an Integrated ANNIRSA Approach</a>, <i>Electronics</i>, 27, March 2024. [<strong>IF</strong>: 2.6, Q2]
  <a class="pdflink" href="/public/papers/dung_2024.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li>
 
-<!-- <li>
+<li>
 Muhammad Fayaz, Junyoung Nam, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.mdpi.com/2076-3417/14/5/1844" target="_blank">	Land-Cover Classification Using Deep Learning with High-Resolution Remote-Sensing Imagery</a>, <i>Applied Sciences</i>, 23, February 2024. [<strong>IF</strong>: 2.5, Q2]
  <a class="pdflink" href="/public/papers/fayaz_2024.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li>
 
 <li>
 Sufyan Danish, Asfandyar Khan, <b>L. Minh Dang</b>, Mohammed Alonazi, Sultan Alanazi, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.mdpi.com/2078-2489/15/1/48" target="_blank">Metaverse Applications in Bioinformatics: A Machine Learning Framework for the Discrimination of Anti-Cancer Peptides</a>, <i>Information</i>, 15, January 2024. [<strong>IF</strong>: 4.3, Q2]
@@ -397,12 +397,12 @@ Sufyan Danish, Asfandyar Khan, <b>L. Minh Dang</b>, Mohammed Alonazi, Sultan Ala
  </a>
 </li>
 
-<!-- <li>
+<li>
 Le Quan Nguyen, Jihye Shin, Sanghuyn Ryu, <b>L. Minh Dang</b>, Han Yong Park, O New Lee, Hyeonjoon Moon, <a href="https://www.mdpi.com/2079-9292/12/23/4775" target="_blank">Innovative Cucumber Phenotyping: A Smartphone-Based and Data-Labeling-Free Model</a>, <i>Electronics</i>, 25, November 2023. [<strong>IF</strong>: 2.6, Q2]
  <a class="pdflink" href="/public/papers/electronicquan_23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li> 
 
  <li>
 Muhammad Nadeem, Naqqash Dilshad, Norah Saleh Alghamdi, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Junyoung Nam, and Hyeonjoon Moon, <a href="https://www.mdpi.com/2624-6511/6/5/103" target="_blank">Visual Intelligence in Smart Cities: A Lightweight Deep Learning Model for Fire Detection in an IoT Environment</a>, <i>Smart cities</i>, 01, Agust 2023. [<strong>IF</strong>: 6.6, Q1]
@@ -440,12 +440,12 @@ Lilia Tightiz, <b>L. Minh Dang</b>, Joon Yoo, <a href="https://www.sciencedirect
  </a>
 </li>
  
-<!-- <li>
+<li>
 Toan Khac Nguyen, <b>L. Minh Dang</b>, Truong-Dong Do, Jin Hee Lim, <a href="https://www.mdpi.com/2411-5134/8/3/76" target="_blank">The First Study of White Rust Disease Recognition by Using Deep Neural Networks and Raspberry Pi Module Application in Chrysanthemum</a>, <i>Inventions</i>, 31, May 2022. [<strong>IF</strong>: 3.1, Q1]
  <a class="pdflink" href="/public/papers/toan23.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li> 
 
 
 <li>
@@ -493,12 +493,12 @@ Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Mo
  </a>
 </li> 
  
-<!-- <li>
+<li>
 Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/v75n3/52555" target="_blank">Deep Learning Based Underground Sewer Defect Classification Using A Modified RegNet</a>, <i>Computers, Materials and Continua</i>, April 2023. [<strong>IF</strong>: 1.7, Q3]
  <a class="pdflink" href="/public/papers/chen_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li> 
 
 <li>
 <b>L. Minh Dang</b>, Hanxiang Wang, Yanfen Li, Le Quan Nguyen, Tan N. Nguyen, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S095006182203094X?dgcid=coauthor" target="_blank">Deep learning-based masonry crack segmentation and real-life crack length measurement</a>, <i>Construction and Building Materials</i>, 5, October 2022. [<strong>IF</strong>: 8.9, Q1]
@@ -514,12 +514,12 @@ Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b
  </a>
 </li>
 
-<!-- <li>
+<li>
 <b>L. Minh Dang</b>, <a href="https://www.mdpi.com/2079-9292/11/22/3773" target="_blank">Efficient Vision-Based Face Image Manipulation Identification Framework Based on Deep Learning</a>, <i>Electronics</i>, 17, November 2022. [<strong>IF</strong>: 2.9, Q2]
  <a class="pdflink" href="/public/papers/M_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li> -->
+</li> 
 
 
 <li>
