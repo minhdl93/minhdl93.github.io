@@ -37,12 +37,12 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
  </a>
 </li>
 
-<!--<li>
+<li>
 <b>L. Minh Dang</b>, Sufyan Danish, Kyungbok Min, Gul E Arzu, Lilia Tightiz, Han Yong Park, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="#" target="_blank">Field-Scale Crop Growth Stage Mapping Using Multispectral Images and Deep Hierarchical Segmentation </a>, <i>Smart Agricultural Technology</i>, 01, June 2026. [<strong>IF</strong>: 7.1, Q1]
  <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>-->
+</li>
 
 <li>
 Mengyao Ma, Yanfen Li, Jipei Cao, Hanxiang Wang, Tan N. Nguyen, and <b>L. Minh Dang</b>, <a href="https://www.sciencedirect.com/science/article/pii/S0168169926006903" target="_blank">LSCDNet: leveraging fine-grained contextual cues for precise detection of small target crop disease spots in complex field environments</a>, <i>Computers and Electronics in Agriculture</i>, June 2026. [<strong>IF</strong>: 10.3, Q1]
@@ -93,12 +93,12 @@ Sufyan Danish, Samee Ullah Khan, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeon
  </a>
 </li>
 
-<!--<li>
+<li>
 Sufyan Danish, Waseem Ullah, Muhammad Fayaz, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="#" target="_blank">HQDL: A Hybrid Quantum–Deep Learning Framework for Real-Time Fire Detection Using UAV Remote Sensing</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 6.3, Q1]
  <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
-</li>-->
+</li>
 
 <li>
 Muhammad Fayaz, Zeeshan Ali Haider, <b>L. Minh Dang</b>, and Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S1746809426010086" target="_blank">Hierarchical optimization of task-adaptive networks for integrated registration and few-shot medical image segmentation</a>, <i>Biomedical Signal Processing and Control</i>, May 2026. [<strong>IF</strong>: 5.7, Q2]
