@@ -38,8 +38,8 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 </li>
 
 <li>
-<b>L. Minh Dang</b>, Sufyan Danish, Kyungbok Min, Gul E Arzu, Lilia Tightiz, Han Yong Park, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="#" target="_blank">Field-Scale Crop Growth Stage Mapping Using Multispectral Images and Deep Hierarchical Segmentation </a>, <i>Smart Agricultural Technology</i>, 01, June 2026. [<strong>IF</strong>: 7.1, Q1]
- <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
+<b>L. Minh Dang</b>, Sufyan Danish, Kyungbok Min, Gul E Arzu, Lilia Tightiz, Han Yong Park, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S2772375526005903" target="_blank">Field-Scale Crop Growth Stage Mapping Using Multispectral Images and Deep Hierarchical Segmentation </a>, <i>Smart Agricultural Technology</i>, 01, June 2026. [<strong>IF</strong>: 7.1, Q1]
+ <a class="pdflink" href="/public/papers/ATECH102365.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
