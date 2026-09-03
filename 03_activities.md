@@ -75,7 +75,7 @@ title: Professional Activities
 <br/> -->
 
 <h1>Journal Editorial Board</h1>
-<b>Computers, Materials & Continua</b>
+<b>Scientific Reports</b>
 
 <br/> <br/>
 
@@ -84,9 +84,15 @@ title: Professional Activities
 <h2>Active SI</h2>
 <ul>
 <li>
- <b>Electronics</b>
-<p><a href="https://www.mdpi.com/journal/electronics/special_issues/15MG944U1O" target="_blank">Efficient Learning for Computer Vision: Few-Shot, Weakly Supervised and Unsupervised Approaches</a></p>
-<p>Deadline for submission: 15 May 2026</p>
+ <b></b>
+<p><a href="https://www.techscience.com/cmc/special_detail/3d-models-processing" target="_blank">New Trends in Image Processing, 2nd Edition</a></p>
+<p>Deadline for submission: March 2027</p>
+ </li>
+ <li>
+<li>
+ <b></b>
+<p><a href="https://www.mdpi.com/journal/applsci/special_issues/71JJ0FRYLW" target="_blank">Human-Centric Multimodal Artificial Intelligence: Transparency and Verifiable Reliability</a></p>
+<p>Deadline for submission: September 2026</p>
  </li>
  <li>
  <b>Mathematics</b>
@@ -113,6 +119,7 @@ title: Professional Activities
  
  <h2>Closed SI</h2>
  <ul>
+  <li><a href="https://www.mdpi.com/journal/electronics/special_issues/15MG944U1O" target="_blank">MDPI Electronics: Efficient Learning for Computer Vision: Few-Shot, Weakly Supervised and Unsupervised Approaches</a></li>
  <li><a href="https://www.mdpi.com/journal/applsci/special_issues/89394W0M64" target="_blank">MDPI Applied Sciences: State-of-the-Art of Computer Vision and Pattern Recognition</a></li>
  <li><a href="https://www.mdpi.com/journal/applsci/special_issues/797D3UNV6L" target="_blank">MDPI Applied Sciences: State-of-the-Art of Computer Vision and Pattern Recognition, 2nd Edition</a></li>
  <li><a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank">MDPI Electronics: Novel Methods for Object Detection and Segmentation</a></li>
