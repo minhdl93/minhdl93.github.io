@@ -26,7 +26,7 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 
 
 
-<h2 style="color:#1565c0">SCI/SCIE/IF Journal Articles</h2>
+<h2 style="color:#1565c0">SCI/SCIE/ESCI Journal Articles</h2>
 <ol>
 
 
@@ -50,6 +50,36 @@ Mengyao Ma, Yanfen Li, Jipei Cao, Hanxiang Wang, Tan N. Nguyen, and <b>L. Minh D
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
+
+<li>
+Lilia Tightiz, <b>L. Minh Dang</b>,Hyosik Yang  <a href="https://www.sciencedirect.com/science/article/pii/S2213138826004984" target="_blank">Network-aware menu pricing for electric vehicle charging and vehicle-to-grid dispatch under distribution constraints</a>, <i>Sustainable Energy Technologies and Assessments</i>, August 2026. [<strong>IF</strong>: 7.4, Q1]
+ <a class="pdflink" href="/public/papers/lilia262.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+
+<li>
+Lilia Tightiz, <b>L. Minh Dang</b>, Sanjeevikumar Padmanaban, Hyosik Yang  <a href="https://ieeexplore.ieee.org/abstract/document/11664274" target="_blank">Enhancing Smart Grid Cybersecurity: Multi-Objective Optimization of Informer-Based FDIA Detection with Adversarial Defense Mechanisms</a>, <i>IEEE Sensors Journal</i>, August 2026. [<strong>IF</strong>: 4.5, Q1]
+ <a class="pdflink" href="/public/papers/lilia263.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Sufyan Danish, Samee Ullah Khan, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.nature.com/articles/s41598-026-64460-5" target="_blank">Scene-aware attention network and medium-scale drone dataset for diverse fire classification</a>, <i>Scientific Reports</i>, August 2026. [<strong>IF</strong>: 4.9, Q1]
+ <a class="pdflink" href="/public/papers/sufyan262.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
+Gul E Arzu, Muhammad Umar, Muhammad Fayaz, Usman Ali, <b>L. Minh Dang</b>, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S0950705126016278" target="_blank">Vision-Language Models for medical imaging: A survey on anomaly detection and multimodal applications</a>, <i>Knowledge-Based Systems</i>, August 2026. [<strong>IF</strong>: 8.0, Q1]
+ <a class="pdflink" href="/public/papers/arzu_261.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
 
 <li>
 <b>L. Minh Dang</b>, Muhammad Fayaz, Quoc Bao To, Gayoon Lee, Hyoung-Kyu Song, Kihak Lee, and Hyeonjoon Moon, <a href="https://ascelibrary.org/doi/abs/10.1061/JCCEE5.CPENG-6797" target="_blank">Automated Aging Building Defect Recognition and Analysis Using Transformers</a>, <i>Journal of Computing in Civil Engineering </i>, 18, March 2026. [<strong>IF</strong>: 5.8, Q1]
@@ -94,8 +124,8 @@ Sufyan Danish, Samee Ullah Khan, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeon
 </li>
 
 <li>
-Sufyan Danish, Waseem Ullah, Muhammad Fayaz, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="#" target="_blank">HQDL: A Hybrid Quantum–Deep Learning Framework for Real-Time Fire Detection Using UAV Remote Sensing</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 6.3, Q1]
- <a class="pdflink" href="/public/papers/dang_26.pdf" target="_blank">
+Sufyan Danish, Waseem Ullah, Muhammad Fayaz, <b>L. Minh Dang</b>, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://ieeexplore.ieee.org/abstract/document/11606356" target="_blank">HQDL: A Hybrid Quantum-Deep Learning Framework for Real-Time Fire Detection Using UAV Remote Sensing</a>, <i>Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>, 01, June 2026. [<strong>IF</strong>: 6.3, Q1]
+ <a class="pdflink" href="/public/papers/sufyan263.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
 </li>
