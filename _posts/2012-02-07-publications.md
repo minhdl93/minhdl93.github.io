@@ -52,6 +52,13 @@ Mengyao Ma, Yanfen Li, Jipei Cao, Hanxiang Wang, Tan N. Nguyen, and <b>L. Minh D
 </li>
 
 <li>
+Seongwook Lee, Seungyeong Kim, Jaemin Oh, L. Minh Dang and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/online/detail/28371" target="_blank">ReMiss: Missed-Object History for Data Scheduling in Driving-Scene Object Detection</a>, <i>Computers, Materials and Continua</i>, September 2026. [<strong>IF</strong>: 2.4, Q3]
+ <a class="pdflink" href="/public/papers/TSP_CMC_87886.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li> 
+
+<li>
 Lilia Tightiz, <b>L. Minh Dang</b>,Hyosik Yang  <a href="https://www.sciencedirect.com/science/article/pii/S2213138826004984" target="_blank">Network-aware menu pricing for electric vehicle charging and vehicle-to-grid dispatch under distribution constraints</a>, <i>Sustainable Energy Technologies and Assessments</i>, August 2026. [<strong>IF</strong>: 7.4, Q1]
  <a class="pdflink" href="/public/papers/lilia262.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
@@ -524,7 +531,7 @@ Yanfen Li, Hanxiang Wang, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Mo
 </li> 
  
 <li>
-Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/v75n3/52555" target="_blank">Deep Learning Based Underground Sewer Defect Classification Using A Modified RegNet</a>, <i>Computers, Materials and Continua</i>, April 2023. [<strong>IF</strong>: 1.7, Q3]
+Yu Chen, Sagar A S M Sharifuzzaman, Hanxiang Wang, Yanfen Li, <b>L. Minh Dang</b>, Hyoung-Kyu Song, and Hyeonjoon Moon, <a href="https://www.techscience.com/cmc/v75n3/52555" target="_blank">Deep Learning Based Underground Sewer Defect Classification Using A Modified RegNet</a>, <i>Computers, Materials and Continua</i>, April 2023. [<strong>IF</strong>: 2.4, Q3]
  <a class="pdflink" href="/public/papers/chen_2022.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
  </a>
