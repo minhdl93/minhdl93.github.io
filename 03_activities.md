@@ -175,37 +175,29 @@ title: Professional Activities
 
 
 <h1>Journal Referee</h1>
-<ol>
-<li>Journal of Industrial Information Integration, 2024 (1)</li>
-<li>IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024 (1)</li>
-<li>IEEE Sensors Journal, 2023 (1)</li>
-<li>Journal of Building Engineering, 2023 (1)</li>
-<li>Science of the Total Environment, 2023 (1)</li>
-<li>Applied Intelligence, 2023 (2)</li>
-<li>Pattern Recognition, 2023 (1)</li>
-<li>IEEE Transactions on Neural Networks and Learning Systems, 2022 (1)</li>
-<li>Expert Systems with Applications, 2021 (2), 2023 (2)</li>
-<li>Scientific Reports, 2021 (3)</li>
-<li>Computer Methods and Programs in Biomedicine, 2021 (1)</li>
-<li>Journal of Information Security and Applications, 2021 (1)</li>
-<li>Automations in Construction, 2020 (2), 2021 (1)</li>
-<li>Technovation, 2020 (2), 2021 (1)</li>
-<li>Multimedia Systems, 2020 (1)</li>
-<li>Energy, 2020 (1)</li>
-<li>Journal of Ambient Intelligence and Humanized Computing, 2020 (1)</li>
-<li>IEEE Transactions on Information Forensics and Security, 2020 (1)</li>
-<li>Science of the Total Environment, 2020 (1)</li>
-<li>Cognitive Neurodynamics, 2020 (1)</li>
-<li>IEEE Transactions on Neural Networks and Learning Systems, 2020 (1)</li>
-<li>IEEE Access, 2019 (2), 2020 (1)</li>
-<li>Journal of Computational Science, 2016 (2)</li>
+<div style="margin-top: 25px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background: #f8f9fa;">
 
- <a id="test" href="https://www.webofscience.com/wos/author/record/1293086" target="_blank">
-        <div class="icon-box">   <img style="width:75px!important;" src="/public/pictures/publons.png"> 
+    <b>Web of Science Reviewer Record</b>
+
+    <p>
+        Verified Peer Reviews: <b>53</b><br/>
+        Verified Peer Reviews (Last 12 Months): <b>7</b><br/>
+        Peer Review to Publication Ratio: <b>0.7:1</b><br/>
+        Percentile: <b>94th</b>
+    </p>
+
+    <p>
+        <a href="https://www.webofscience.com/wos/author/record/O-9085-2018"
+           target="_blank"
+           rel="noopener noreferrer">
+            View Web of Science Reviewer Record
+        </a>
+    </p>
+
+
+
 </div>
- </a>
- 
-</ol>
+
 
 
 
