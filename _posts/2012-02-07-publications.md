@@ -38,6 +38,13 @@ KR Patent: Hyeonjoon Moon, Kyungbok Min, Junyoung Nam, Hanxiang Wang, <strong>L.
 </li>
 
 <li>
+ Jipei Cao, Hanxiang Wang, Mengyao Ma, Yanfen Li, Defu Qiu, Yuehui Chen, Tan N. Nguyen, and <b>L. Minh Dang</b>, <a href="https://link.springer.com/article/10.1007/s10489-026-07550-1" target="_blank">AgriEyeNet: Seeing smarter in agriculture with medium-difficulty aware loss and lightweight adaptive detection</a>, <i>Applied Intelligence</i>, October 2026. [<strong>IF</strong>: 3.5, Q2]
+ <a class="pdflink" href="/public/papers/hanxiangagrieye_26.pdf" target="_blank">
+      <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
+ </a>
+</li>
+
+<li>
 <b>L. Minh Dang</b>, Sufyan Danish, Kyungbok Min, Gul E Arzu, Lilia Tightiz, Han Yong Park, Hyoung-Kyu Song, Hyeonjoon Moon, <a href="https://www.sciencedirect.com/science/article/pii/S2772375526005903" target="_blank">Field-Scale Crop Growth Stage Mapping Using Multispectral Images and Deep Hierarchical Segmentation </a>, <i>Smart Agricultural Technology</i>, 01, June 2026. [<strong>IF</strong>: 7.1, Q1]
  <a class="pdflink" href="/public/papers/ATECH102365.pdf" target="_blank">
       <img border="0" src="/public/pictures/pdfminis.png" width="37" height="13">
