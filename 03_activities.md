@@ -137,6 +137,12 @@ title: Professional Activities
  </li>
  
  <li>
+<b><a href="https://cse.hcmut.edu.vn/iaaa2026/" target="_blank">The 2nd International Conference on Intelligent Aerial Access and Applications (IAAA 2026)</a></b>
+<p>July 27-29, 2026 | HoChiMinh, Vietnam</p>
+<p>Registration chair</p>
+ </li>
+ 
+ <li>
 <b><a href="https://www.simc-conf.org/home" target="_blank">The International Conference on Semantic Intelligence in Massive Computing (SIMC 2026)</a></b>
 <p>Novembe 10-11, 2026 | HoChiMinh, Vietnam</p>
 <p>Track chair</p>

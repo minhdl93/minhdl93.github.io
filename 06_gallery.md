@@ -9,6 +9,12 @@ images:
   - name: vietnamembassy.jpg
     thumb: vietnamembassy.jpg
     text: Visit  Embassy of Vietnam in Seoul, Korea (2026).
+  - name: iaaa26.jpg
+    thumb: iaaa26.jpg
+    text: The 2nd International Conference on Intelligent Aerial Access and Applications Conference (IAAA 2026).
+  - name: iaaa25.jpg
+    thumb: iaaa25.jpg
+    text: The International Conference on Intelligent Aerial Access and Applications Conference (IAAA 2025).
   - name: icoce.jpg
     thumb: icoce.jpg
     text: The 9th International Conference on Civil Engineering , Singapore (2025).
