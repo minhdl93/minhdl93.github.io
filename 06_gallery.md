@@ -3,6 +3,12 @@ layout: page
 title: Photo Gallery
 imgfolder: /public/gallery-pictures
 images:
+  - name: icit26.jpg
+    thumb: icit26.jpg
+    text: Technical Session Chair at ICIT 2026.
+  - name: vietnamembassy.jpg
+    thumb: vietnamembassy.jpg
+    text: Visit  Embassy of Vietnam in Seoul, Korea (2026).
   - name: icoce.jpg
     thumb: icoce.jpg
     text: The 9th International Conference on Civil Engineering , Singapore (2025).

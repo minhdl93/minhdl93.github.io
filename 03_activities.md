@@ -84,24 +84,23 @@ title: Professional Activities
 <h2>Active SI</h2>
 <ul>
 <li>
- <b></b>
+ <b>CMC</b>
 <p><a href="https://www.techscience.com/cmc/special_detail/3d-models-processing" target="_blank">New Trends in Image Processing, 2nd Edition</a></p>
 <p>Deadline for submission: March 2027</p>
  </li>
- <li>
+ 
 <li>
- <b></b>
-<p><a href="https://www.mdpi.com/journal/applsci/special_issues/71JJ0FRYLW" target="_blank">Human-Centric Multimodal Artificial Intelligence: Transparency and Verifiable Reliability</a></p>
-<p>Deadline for submission: September 2026</p>
+ <b>MDPI Electronics</b>
+<p><a href="https://www.mdpi.com/journal/electronics/special_issues/15MG944U1O" target="_blank">Efficient Learning for Computer Vision: Few-Shot, Weakly Supervised and Unsupervised Approaches</a></p>
+<p>Deadline for submission: 15 November 2026</p>
  </li>
+
  <li>
- <b>Mathematics</b>
+ <b>MDPI Mathematics</b>
 <p><a href="https://www.mdpi.com/journal/mathematics/special_issues/3CD575043C" target="_blank">Recent Advances and Applications of Artificial Neural Networks</a></p>
-<p>Deadline for submission: 15 May 2026</p>
+<p>Deadline for submission: 15 November 2026</p>
  </li>
  
-
-
  </ul>
 
 <!-- <div style="margin-top: 10px;">   <img  src="/public/pictures/si3.png"></div>  -->
@@ -113,13 +112,12 @@ title: Professional Activities
 
 
 
-
-
  <br/>
  
  <h2>Closed SI</h2>
  <ul>
-  <li><a href="https://www.mdpi.com/journal/electronics/special_issues/15MG944U1O" target="_blank">MDPI Electronics: Efficient Learning for Computer Vision: Few-Shot, Weakly Supervised and Unsupervised Approaches</a></li>
+ <li><a href="https://www.mdpi.com/journal/applsci/special_issues/71JJ0FRYLW" target="_blank">MDPI Applied Sciences: Human-Centric Multimodal Artificial Intelligence: Transparency and Verifiable Reliability</a></li>
+ <li><a href="https://www.mdpi.com/journal/electronics/special_issues/15MG944U1O" target="_blank">MDPI Electronics: Efficient Learning for Computer Vision: Few-Shot, Weakly Supervised and Unsupervised Approaches</a></li>
  <li><a href="https://www.mdpi.com/journal/applsci/special_issues/89394W0M64" target="_blank">MDPI Applied Sciences: State-of-the-Art of Computer Vision and Pattern Recognition</a></li>
  <li><a href="https://www.mdpi.com/journal/applsci/special_issues/797D3UNV6L" target="_blank">MDPI Applied Sciences: State-of-the-Art of Computer Vision and Pattern Recognition, 2nd Edition</a></li>
  <li><a href="https://www.mdpi.com/journal/electronics/special_issues/JA467UU9QE" target="_blank">MDPI Electronics: Novel Methods for Object Detection and Segmentation</a></li>
@@ -130,8 +128,26 @@ title: Professional Activities
  
  <br/> <br/>
 
-<h1>Conference committe</h1>
+<h1>Conference Committee</h1>
 <ul>
+<li>
+<b><a href="https://eidt.ou.edu.vn/" target="_blank">The 2nd International Conference on Explainable Intelligence in Digital Twins (EIDT 2026)</a></b>
+<p>Novembe 09-11, 2026 | Hanoi, Vietnam</p>
+<p>Workshop Chairs</p>
+ </li>
+ 
+ <li>
+<b><a href="https://www.simc-conf.org/home" target="_blank">The International Conference on Semantic Intelligence in Massive Computing (SIMC 2026)</a></b>
+<p>Novembe 10-11, 2026 | HoChiMinh, Vietnam</p>
+<p>Track chair</p>
+ </li>
+ 
+<li>
+<b><a href="https://icitconf.org/" target="_blank">The 5th International Conference on Intelligence of Things (ICIT 2026)</a></b>
+<p>October 15-16, 2026 | Seoul, Korea</p>
+<p>Local arrangement chair</p>
+ </li>
+ 
 <li>
 <b><a href="http://www.icngc.org/" target="_blank">The 11th International Conference on Next Generation Computing (ICNGC 2025)</a></b>
 <p>December 17-20, 2025 | Danang, Vietnam</p>
@@ -139,7 +155,7 @@ title: Professional Activities
  </li>
  
 <li>
-<b><a href="https://eidt.ou.edu.vn/" target="_blank">International Conference on Explainable Intelligence in Digital Twins (EIDT 2025)</a></b>
+<b><a href="https://eidt.ou.edu.vn/eidt-2025/" target="_blank">International Conference on Explainable Intelligence in Digital Twins (EIDT 2025)</a></b>
 <p>November 12-14, 2025 | HoChiMinh, Vietnam</p>
 <p>Workshop chair</p>
  </li>
